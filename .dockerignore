@@ -5,6 +5,7 @@
 
 backend/models/
 cloudflared/
+ngrok*.yml
 frontend/node_modules/
 frontend/dist/
 frontend/.astro/

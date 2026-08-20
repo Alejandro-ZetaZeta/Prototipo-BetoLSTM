@@ -1,9 +1,0 @@
-# Rename this file to config.yml on the Ubuntu server.
-# Keep the tunnel credentials JSON beside it; do not commit either file.
-tunnel: YOUR_TUNNEL_UUID
-credentials-file: /etc/cloudflared/YOUR_TUNNEL_UUID.json
-
-ingress:
-  - hostname: api.example.com
-    service: http://api:8000
-  - service: http_status:404

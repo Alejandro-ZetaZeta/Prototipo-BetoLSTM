@@ -21,14 +21,14 @@ services:
     networks:
       - elbeto
 
-  cloudflared:
-    image: cloudflare/cloudflared:latest
-    command: tunnel --config /etc/cloudflared/config.yml run
+  ngrok:
+    image: ngrok/ngrok:latest
+    command: ["http", "api:8000", "--url", "${NGROK_DOMAIN}"]
+    env_file:
+      - .env
     depends_on:
       api:
         condition: service_healthy
-    volumes:
-      - ./cloudflared:/etc/cloudflared:ro
     restart: unless-stopped
     networks:
       - elbeto

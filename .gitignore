@@ -23,8 +23,9 @@ backend/models/
 *.pt
 *.zip
 
-# Cloudflare Tunnel credentials
+# Local tunnel configuration files
 cloudflared/*.json
+ngrok*.yml
 
 # OS files
 .DS_Store

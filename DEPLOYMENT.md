@@ -18,7 +18,7 @@ cd source
 cp .env.example .env
 ```
 
-Edit `.env` and set `ALLOWED_ORIGINS` to the deployed Astro URL. Do not commit `.env`.
+Edit `.env` and set `ALLOWED_ORIGINS` to the deployed Astro URL. Add your ngrok token and assigned ngrok domain. Do not commit `.env`.
 
 ## 2. Transfer model artifacts
 
@@ -40,31 +40,27 @@ The server must contain this layout:
 
 Do not copy the LSTM ZIP if its directory is already extracted.
 
-## 3. Configure Cloudflare Tunnel
+## 3. Configure ngrok
 
-Install `cloudflared` on a workstation with access to the Cloudflare account:
+Create or sign in to an ngrok account and copy the authtoken from the ngrok dashboard.
+The free plan provides one assigned development domain. Copy that complete HTTPS URL.
 
-```bash
-cloudflared tunnel login
-cloudflared tunnel create elbeto-api
-cloudflared tunnel route dns elbeto-api api.example.com
-```
-
-Copy the generated credentials file to the Ubuntu server:
-
-```bash
-scp ~/.cloudflared/YOUR_TUNNEL_UUID.json anthony@SERVER_IP:/srv/elbeto/source/cloudflared/
-```
-
-On Ubuntu, copy the example configuration and replace the UUID and hostname:
+On Ubuntu, edit the local environment file:
 
 ```bash
 cd /srv/elbeto/source
-cp cloudflared/config.example.yml cloudflared/config.yml
-nano cloudflared/config.yml
+nano .env
 ```
 
-The service target must remain `http://api:8000`; `api` is the Compose service name.
+Set these values:
+
+```env
+NGROK_AUTHTOKEN=your_real_ngrok_token
+NGROK_DOMAIN=https://your-assigned-domain.ngrok-free.app
+```
+
+Keep the token only in `.env`. Compose passes it to the ngrok container without storing it in the repository.
+The service target is `api:8000`; `api` is the Compose service name.
 
 ## 4. Start services
 
@@ -76,12 +72,12 @@ docker compose up -d --build
 docker compose logs -f api
 ```
 
-The API is not published directly to the host. Cloudflare Tunnel is the only public route.
+The API is not published directly to the host. ngrok is the only public route.
 
 Check the public API:
 
 ```bash
-curl https://api.example.com/health
+curl https://your-assigned-domain.ngrok-free.app/health
 ```
 
 Expected response includes:
@@ -101,7 +97,7 @@ docker compose ps
 Build the Astro site with this environment variable in Vercel:
 
 ```text
-PUBLIC_API_URL=https://api.example.com
+PUBLIC_API_URL=https://your-assigned-domain.ngrok-free.app
 ```
 
 Add the resulting Vercel URL to `ALLOWED_ORIGINS` on Ubuntu, then restart the API:
@@ -115,5 +111,7 @@ docker compose up -d --build --force-recreate api
 
 - Run one Uvicorn worker; multiple workers duplicate model memory.
 - Keep model files outside Git and outside the Docker image.
-- Cloudflare Tunnel credentials and `.env` are secrets.
+- The ngrok token and `.env` are secrets.
+- The ngrok development domain stays stable for your account; the Ubuntu ngrok container restarts automatically with Compose.
+- The ngrok free plan has request and bandwidth limits and may show a browser interstitial; the frontend sends `ngrok-skip-browser-warning`.
 - The Ubuntu host must remain powered on and connected for the API to be available.
