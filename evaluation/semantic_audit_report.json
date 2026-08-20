@@ -1,0 +1,38 @@
+{
+  "audited_rows": 73,
+  "decision_counts": {
+    "source_label_issue": 40,
+    "model_error": 30,
+    "ambiguous_keep_source": 3
+  },
+  "semantic_metrics_using_audited_labels": {
+    "count": 400,
+    "correct": 367,
+    "errors": 33,
+    "accuracy": 0.9175,
+    "f1_macro": 0.9108824661252102,
+    "per_class": {
+      "RF": {
+        "precision": 0.9847328244274809,
+        "recall": 0.80625,
+        "f1": 0.8865979381443299
+      },
+      "RNF": {
+        "precision": 0.8847583643122676,
+        "recall": 0.9916666666666667,
+        "f1": 0.9351669941060904
+      }
+    },
+    "confusion_matrix_rows_true_cols_pred": [
+      [
+        129,
+        31
+      ],
+      [
+        2,
+        238
+      ]
+    ]
+  },
+  "scope_note": "This is rubric-based pre-audit. Ambiguous rows must not enter v2 until policy is confirmed."
+}

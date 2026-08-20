@@ -1,0 +1,201 @@
+text,expected_label,expected_label_id,label,label_id,confidence,latency_ms,rank
+El sistema tiene que registrar en una bitácora de auditoría todo intento de acceso no autorizado a un curso virtual.,RNF,1,RNF,1,0.84,51.622,1
+El sistema tiene que permitir completar la operación de un curso virtual en no más de 5 pasos.,RNF,1,RNF,1,0.92,52.441,2
+El sistema tiene que garantizar una disponibilidad del 99.5% medida de forma mensual.,RNF,1,RNF,1,0.94,64.321,2
+El sistema está obligado a permitir completar la operación de una historia clínica digital en no más de 5 pasos.,RNF,1,RNF,1,0.96,51.101,1
+"El sistema deberá ser accesible para personas con discapacidad visual, conforme a las pautas WCAG 2.1.",RNF,1,RNF,1,0.92,50.496,3
+El sistema deberá registrar en una bitácora de auditoría todo intento de acceso no autorizado a una dirección de envío.,RNF,1,RNF,1,0.75,48.269,1
+El tiempo de procesamiento de una orden de laboratorio no deberá superar los 3 segundos bajo carga normal.,RNF,1,RNF,1,0.83,51.896,2
+El sistema está obligado a responder a las solicitudes del usuario en un máximo de 5 segundos.,RNF,1,RNF,1,0.94,50.192,3
+El sistema necesita cifrar la información de una alerta de saldo mínimo utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.9,49.281,1
+El sistema debe bloquear el acceso tras 5 intentos fallidos de autenticación consecutivos.,RNF,1,RNF,1,0.95,43.832,1
+El sistema deberá garantizar una disponibilidad del 99.5% medida de forma mensual.,RNF,1,RNF,1,0.92,56.344,2
+"En caso de mantenimiento programado, el sistema deberá notificar a los usuarios con al menos 72 horas de anticipación.",RNF,1,RNF,1,0.88,42.113,2
+Los datos sensibles de una matrícula para el nuevo período deberán almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.94,52.27,1
+El sistema necesita realizar copias de seguridad automáticas de una reseña de producto con frecuencia diaria.,RNF,1,RNF,1,0.94,58.064,2
+El tiempo de procesamiento de una cuenta de ahorros no deberá superar los 4 segundos bajo carga normal.,RNF,1,RNF,1,0.9,44.606,3
+Las consultas sobre un pedido nuevo deberán completarse en un tiempo inferior a 3 segundos en el 95% de los casos.,RNF,1,RNF,1,0.98,63.381,1
+El sistema debe garantizar una disponibilidad del 99.5% medida de forma mensual.,RNF,1,RNF,1,0.96,54.443,2
+El sistema está obligado a registrar en una bitácora de auditoría todo intento de acceso no autorizado a una reseña de producto.,RNF,1,RNF,1,0.82,65.596,1
+El sistema tiene que cifrar la información de un cupón de descuento utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.9,51.329,1
+Las consultas sobre una lista de productos favoritos tienen que completarse en un tiempo inferior a 4 segundos en el 95% de los casos.,RNF,1,RNF,1,0.8,55.672,2
+El sistema tiene que registrar en una bitácora de auditoría todo intento de acceso no autorizado a una dirección de envío.,RNF,1,RNF,1,0.81,53.563,1
+El sistema deberá permitir completar la operación de un pedido nuevo en no más de 4 pasos.,RNF,1,RNF,1,0.92,54.35,1
+El sistema tiene que cifrar la información de una lista de productos favoritos utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.76,50.146,1
+El sistema necesita realizar copias de seguridad automáticas de una tarjeta de débito virtual con frecuencia diaria.,RNF,1,RNF,1,0.98,51.776,1
+Las consultas sobre un curso virtual tienen que completarse en un tiempo inferior a 3 segundos en el 95% de los casos.,RNF,1,RNF,1,0.97,66.855,2
+El tiempo de procesamiento de un grupo de trabajo colaborativo no tiene que superar los 4 segundos bajo carga normal.,RNF,1,RNF,1,0.93,57.426,3
+Las consultas sobre una tarea con fecha límite deben completarse en un tiempo inferior a 4 segundos en el 95% de los casos.,RNF,1,RNF,1,0.96,58.067,2
+El sistema está obligado a realizar copias de seguridad automáticas de una dirección de envío con frecuencia diaria.,RNF,1,RNF,1,0.91,65.335,2
+El sistema deberá mantener un desempeño estable en condiciones normales de uso.,RNF,1,RNF,1,0.88,63.822,3
+El sistema debe realizar copias de seguridad automáticas de una tarea con fecha límite con frecuencia diaria.,RNF,1,RNF,1,0.92,67.9,2
+Las consultas sobre una dirección de envío deben completarse en un tiempo inferior a 4 segundos en el 95% de los casos.,RNF,1,RNF,1,0.95,68.525,2
+El sistema necesita permitir completar la operación de una tarea con fecha límite en no más de 3 pasos.,RNF,1,RNF,1,0.9,100.279,1
+Los datos sensibles de una cuenta de ahorros deben almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.93,88.01,1
+Los datos sensibles de una tarjeta de débito virtual deben almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.92,73.168,2
+Los datos sensibles de un cupón de descuento tienen que almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.94,75.281,1
+El sistema debe bloquear el acceso tras 3 intentos fallidos de autenticación consecutivos.,RNF,1,RNF,1,0.95,63.569,1
+El sistema necesita cifrar la información de una dirección de envío utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.85,65.624,1
+El sistema necesita registrar en una bitácora de auditoría todo intento de acceso no autorizado a una alerta de saldo mínimo.,RNF,1,RNF,1,0.85,69.671,1
+El sistema debe bloquear el acceso tras 4 intentos fallidos de autenticación consecutivos.,RNF,1,RNF,1,0.95,53.963,1
+Los mensajes de error deberá explicar de forma clara la causa del problema y una posible solución.,RNF,1,RNF,1,0.92,41.103,1
+El sistema necesita permitir completar la operación de un grupo de trabajo colaborativo en no más de 5 pasos.,RNF,1,RNF,1,0.92,50.269,2
+El sistema necesita registrar en una bitácora de auditoría todo intento de acceso no autorizado a una lista de productos favoritos.,RNF,1,RNF,1,0.72,50.712,2
+El sistema tiene que ser razonablemente seguro frente a accesos no autorizados.,RNF,1,RNF,1,0.94,50.254,2
+Toda comunicación entre el cliente y el servidor tiene que realizarse mediante el protocolo HTTPS.,RNF,1,RNF,1,0.85,51.585,3
+El sistema tiene que permitir completar la operación de un pedido nuevo en no más de 5 pasos.,RNF,1,RNF,1,0.94,51.524,1
+El sistema debe garantizar una disponibilidad del 99.9% medida de forma mensual.,RNF,1,RNF,1,0.96,55.629,2
+El sistema está obligado a permitir completar la operación de un beneficiario para transferencias en no más de 4 pasos.,RNF,1,RNF,1,0.95,51.098,1
+La interfaz tiene que ser comprensible para usuarios sin experiencia técnica previa.,RNF,1,RNF,1,0.99,50.666,1
+El sistema debe realizar copias de seguridad automáticas de una tarjeta de débito virtual con frecuencia diaria.,RNF,1,RNF,1,0.97,54.111,2
+El sistema está obligado a soportar al menos 1000 usuarios concurrentes sin degradar su tiempo de respuesta.,RNF,1,RNF,1,0.94,64.725,3
+El sistema tiene que permitir completar la operación de una rúbrica de evaluación en no más de 3 pasos.,RNF,1,RNF,1,0.94,54.911,1
+Los datos sensibles de una dirección de envío deberán almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.89,52.562,2
+El sistema está obligado a bloquear el acceso tras 4 intentos fallidos de autenticación consecutivos.,RNF,1,RNF,1,0.96,53.418,1
+El sistema tiene que realizar copias de seguridad automáticas de un grupo de trabajo colaborativo con frecuencia diaria.,RNF,1,RNF,1,0.95,56.25,2
+El tiempo de procesamiento de un plan de tratamiento no debe superar los 5 segundos bajo carga normal.,RNF,1,RNF,1,0.95,53.306,3
+El sistema necesita garantizar una disponibilidad del 99% medida de forma mensual.,RNF,1,RNF,1,0.94,46.893,3
+El sistema necesita permitir completar la operación de un pedido nuevo en no más de 5 pasos.,RNF,1,RNF,1,0.94,57.385,1
+El sistema deberá bloquear el acceso tras 3 intentos fallidos de autenticación consecutivos.,RNF,1,RNF,1,0.91,47.967,1
+Los datos sensibles de un grupo de trabajo colaborativo deben almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.91,48.516,2
+Las consultas sobre una dirección de envío deberán completarse en un tiempo inferior a 5 segundos en el 95% de los casos.,RNF,1,RNF,1,0.94,47.705,2
+El sistema tiene que bloquear el acceso tras 3 intentos fallidos de autenticación consecutivos.,RNF,1,RNF,1,0.95,48.965,1
+El sistema tiene que realizar copias de seguridad automáticas de un curso virtual con frecuencia diaria.,RNF,1,RNF,1,0.96,62.353,2
+"El sistema debe ser flexible ante cambios futuros, dentro de lo razonable.",RNF,1,RNF,1,0.88,52.553,2
+Los datos sensibles de una tarjeta de débito virtual tienen que almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.93,54.998,2
+Los datos sensibles de una receta electrónica deberán almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.94,69.437,2
+El sistema está obligado a permitir completar la operación de una cita médica en no más de 4 pasos.,RNF,1,RNF,1,0.89,51.81,1
+"En caso de mantenimiento programado, el sistema tiene que notificar a los usuarios con al menos 48 horas de anticipación.",RNF,1,RNF,1,0.92,51.493,2
+El sistema necesita realizar copias de seguridad automáticas de una tarea con fecha límite con frecuencia diaria.,RNF,1,RNF,1,0.93,49.294,2
+Las consultas sobre una alerta de saldo mínimo deben completarse en un tiempo inferior a 2 segundos en el 95% de los casos.,RNF,1,RNF,1,0.99,41.859,1
+El sistema está obligado a permitir completar la operación de una lista de productos favoritos en no más de 5 pasos.,RNF,1,RNF,1,0.77,54.332,2
+El sistema deberá garantizar una disponibilidad del 99.9% medida de forma mensual.,RNF,1,RNF,1,0.92,40.887,3
+El sistema debe recuperarse ante una falla crítica en un tiempo máximo de 5 minutos.,RNF,1,RNF,1,0.98,50.018,2
+Las consultas sobre un beneficiario para transferencias tienen que completarse en un tiempo inferior a 5 segundos en el 95% de los casos.,RNF,1,RNF,1,0.99,51.622,1
+El sistema está obligado a permitir completar la operación de una orden de laboratorio en no más de 5 pasos.,RNF,1,RNF,1,0.86,51.403,2
+El sistema está obligado a responder a las solicitudes del usuario en un máximo de 4 segundos.,RNF,1,RNF,1,0.94,42.85,3
+El sistema tiene que responder a las solicitudes del usuario en un máximo de 5 segundos.,RNF,1,RNF,1,0.91,52.053,3
+El sistema necesita cifrar la información de una receta electrónica utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.9,50.625,1
+El sistema necesita permitir completar la operación de una solicitud de crédito en no más de 4 pasos.,RNF,1,RNF,1,0.87,51.821,2
+El tiempo de procesamiento de un pedido nuevo no deberá superar los 3 segundos bajo carga normal.,RNF,1,RNF,1,0.9,44.858,2
+El tiempo de procesamiento de una historia clínica digital no debe superar los 4 segundos bajo carga normal.,RNF,1,RNF,1,0.95,39.189,2
+El sistema está obligado a garantizar una disponibilidad del 99% medida de forma mensual.,RNF,1,RNF,1,0.96,49.912,2
+El sistema tiene que permitir completar la operación de una lista de productos favoritos en no más de 4 pasos.,RNF,1,RNF,1,0.77,50.618,2
+El sistema está obligado a registrar en una bitácora de auditoría todo intento de acceso no autorizado a un curso virtual.,RNF,1,RNF,1,0.86,49.636,1
+El sistema deberá recuperarse ante una falla crítica en un tiempo máximo de 5 minutos.,RNF,1,RNF,1,0.95,38.649,3
+El sistema está obligado a soportar al menos 200 usuarios concurrentes sin degradar su tiempo de respuesta.,RNF,1,RNF,1,0.94,52.544,3
+El sistema tiene que cifrar la información de una historia clínica digital utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.9,62.901,1
+"El sistema necesita ser accesible para personas con discapacidad visual, conforme a las pautas WCAG 2.1.",RNF,1,RNF,1,0.96,50.968,2
+El sistema deberá responder a las solicitudes del usuario en un máximo de 2 segundos.,RNF,1,RNF,1,0.91,52.781,3
+El sistema está obligado a realizar copias de seguridad automáticas de un plan de pagos con frecuencia diaria.,RNF,1,RNF,1,0.96,55.058,2
+El sistema necesita responder a las solicitudes del usuario en un máximo de 5 segundos.,RNF,1,RNF,1,0.91,63.272,3
+El sistema tiene que cifrar la información de un grupo de trabajo colaborativo utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.9,53.232,1
+El sistema está obligado a garantizar una disponibilidad del 99.5% medida de forma mensual.,RNF,1,RNF,1,0.96,51.301,2
+El sistema está obligado a soportar al menos 2000 usuarios concurrentes sin degradar su tiempo de respuesta.,RNF,1,RNF,1,0.94,47.248,3
+El rendimiento del sistema debe ser aceptable en la mayoría de los escenarios.,RNF,1,RNF,1,0.96,54.938,3
+El sistema debe ser lo suficientemente rápido para no incomodar al usuario.,RNF,1,RNF,1,0.9,63.458,2
+El tiempo de procesamiento de una tarea con fecha límite no debe superar los 5 segundos bajo carga normal.,RNF,1,RNF,1,0.9,52.257,3
+El sistema necesita realizar copias de seguridad automáticas de un curso virtual con frecuencia diaria.,RNF,1,RNF,1,0.96,52.828,2
+El sistema necesita bloquear el acceso tras 3 intentos fallidos de autenticación consecutivos.,RNF,1,RNF,1,0.95,62.511,1
+Las consultas sobre una receta electrónica tienen que completarse en un tiempo inferior a 2 segundos en el 95% de los casos.,RNF,1,RNF,1,0.99,52.692,1
+El sistema tiene que cifrar la información de una cita médica utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.84,55.265,1
+El sistema necesita soportar al menos 2000 usuarios concurrentes sin degradar su tiempo de respuesta.,RNF,1,RNF,1,0.93,68.441,3
+El sistema necesita permitir completar la operación de una alerta de saldo mínimo en no más de 3 pasos.,RNF,1,RNF,1,0.94,58.844,1
+El sistema tiene que bloquear el acceso tras 5 intentos fallidos de autenticación consecutivos.,RNF,1,RNF,1,0.95,56.219,1
+El sistema necesita permitir completar la operación de una tarjeta de débito virtual en no más de 5 pasos.,RNF,1,RNF,1,0.94,52.984,2
+El tiempo de procesamiento de un pedido nuevo no debe superar los 3 segundos bajo carga normal.,RNF,1,RNF,1,0.94,52.374,2
+El sistema está obligado a registrar en una bitácora de auditoría todo intento de acceso no autorizado a una receta electrónica.,RNF,1,RNF,1,0.87,50.469,1
+El sistema está obligado a permitir completar la operación de un cupón de descuento en no más de 4 pasos.,RNF,1,RNF,1,0.95,54.342,1
+El sistema está obligado a bloquear el acceso tras 5 intentos fallidos de autenticación consecutivos.,RNF,1,RNF,1,0.96,47.677,1
+El sistema necesita realizar copias de seguridad automáticas de un cupón de descuento con frecuencia diaria.,RNF,1,RNF,1,0.98,57.758,1
+El sistema tiene que garantizar una disponibilidad del 99% medida de forma mensual.,RNF,1,RNF,1,0.94,51.078,2
+Las consultas sobre una rúbrica de evaluación tienen que completarse en un tiempo inferior a 4 segundos en el 95% de los casos.,RNF,1,RNF,1,0.99,64.203,1
+El sistema debe realizar copias de seguridad automáticas de un plan de pagos con frecuencia diaria.,RNF,1,RNF,1,0.97,61.043,2
+El sistema debe registrar en una bitácora de auditoría todo intento de acceso no autorizado a una rúbrica de evaluación.,RNF,1,RNF,1,0.88,61.023,1
+El sistema deberá permitir completar la operación de una tarea con fecha límite en no más de 3 pasos.,RNF,1,RNF,1,0.88,66.101,1
+El sistema está obligado a permitir completar la operación de una rúbrica de evaluación en no más de 5 pasos.,RNF,1,RNF,1,0.95,62.563,1
+El sistema está obligado a cifrar la información de un plan de pagos utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.92,52.422,1
+El sistema deberá soportar al menos 500 usuarios concurrentes sin degradar su tiempo de respuesta.,RNF,1,RNF,1,0.89,56.868,3
+El sistema tiene que permitir completar la operación de una lista de productos favoritos en no más de 5 pasos.,RNF,1,RNF,1,0.77,63.718,2
+El sistema debe soportar al menos 1000 usuarios concurrentes sin degradar su tiempo de respuesta.,RNF,1,RNF,1,0.93,61.422,3
+Toda comunicación entre el cliente y el servidor debe realizarse mediante el protocolo HTTPS.,RNF,1,RNF,1,0.85,66.436,3
+El sistema deberá soportar al menos 200 usuarios concurrentes sin degradar su tiempo de respuesta.,RNF,1,RNF,1,0.89,65.075,3
+El sistema tiene que ofrecer un nivel adecuado de protección de datos.,RNF,1,RNF,1,0.9,69.519,2
+Las consultas sobre una cuenta de ahorros tienen que completarse en un tiempo inferior a 2 segundos en el 95% de los casos.,RNF,1,RNF,1,0.99,63.755,1
+El sistema deberá permitir completar la operación de una matrícula para el nuevo período en no más de 4 pasos.,RNF,1,RNF,1,0.92,63.543,1
+Los datos sensibles de una rúbrica de evaluación tienen que almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.94,76.469,2
+El sistema debe registrar en una bitácora de auditoría todo intento de acceso no autorizado a un plan de pagos.,RNF,1,RNF,1,0.89,86.859,1
+La interfaz debe ser comprensible para usuarios sin experiencia técnica previa.,RNF,1,RNF,1,0.98,79.404,2
+El sistema debe soportar al menos 2000 usuarios concurrentes sin degradar su tiempo de respuesta.,RNF,1,RNF,1,0.93,68.309,3
+El sistema está obligado a permitir completar la operación de un grupo de trabajo colaborativo en no más de 3 pasos.,RNF,1,RNF,1,0.94,56.008,1
+El sistema necesita cifrar la información de un plan de tratamiento utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.9,60.76,1
+El sistema deberá recuperarse ante una falla crítica en un tiempo máximo de 15 minutos.,RNF,1,RNF,1,0.96,51.818,2
+El sistema tiene que recuperarse ante una falla crítica en un tiempo máximo de 5 minutos.,RNF,1,RNF,1,0.98,66.569,2
+El sistema está obligado a realizar copias de seguridad automáticas de una orden de laboratorio con frecuencia diaria.,RNF,1,RNF,1,0.87,67.784,3
+El sistema tiene que registrar en una bitácora de auditoría todo intento de acceso no autorizado a una tarjeta de débito virtual.,RNF,1,RNF,1,0.85,57.645,1
+El sistema necesita permitir completar la operación de una lista de productos favoritos en no más de 4 pasos.,RNF,1,RNF,1,0.77,59.153,2
+El sistema deberá realizar copias de seguridad automáticas de una rúbrica de evaluación con frecuencia diaria.,RNF,1,RNF,1,0.94,58.209,2
+El sistema tiene que cifrar la información de un curso virtual utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.88,65.89,1
+El sistema necesita cifrar la información de una lista de productos favoritos utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.76,49.778,1
+El sistema necesita realizar copias de seguridad automáticas de una cita médica con frecuencia diaria.,RNF,1,RNF,1,0.91,52.763,2
+El tiempo de procesamiento de una solicitud de crédito no debe superar los 5 segundos bajo carga normal.,RNF,1,RNF,1,0.88,53.705,3
+Las consultas sobre una tarea con fecha límite deben completarse en un tiempo inferior a 5 segundos en el 95% de los casos.,RNF,1,RNF,1,0.96,60.943,2
+El sistema debe permitir completar la operación de una lista de productos favoritos en no más de 5 pasos.,RNF,1,RNF,1,0.76,52.503,2
+El sistema tiene que responder a las solicitudes del usuario en un máximo de 4 segundos.,RNF,1,RNF,1,0.91,56.494,3
+El sistema está obligado a permitir completar la operación de un plan de tratamiento en no más de 3 pasos.,RNF,1,RNF,1,0.96,50.928,1
+El sistema tiene que registrar en una bitácora de auditoría todo intento de acceso no autorizado a una rúbrica de evaluación.,RNF,1,RNF,1,0.85,53.315,1
+El sistema debe permitir completar la operación de una orden de laboratorio en no más de 5 pasos.,RNF,1,RNF,1,0.85,54.747,2
+Los datos sensibles de una receta electrónica tienen que almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.94,53.792,2
+El sistema deberá permitir completar la operación de una tarjeta de débito virtual en no más de 5 pasos.,RNF,1,RNF,1,0.9,51.464,2
+El sistema debe realizar copias de seguridad automáticas de una lista de productos favoritos con frecuencia diaria.,RNF,1,RNF,1,0.78,53.677,3
+Los mensajes de error debe explicar de forma clara la causa del problema y una posible solución.,RNF,1,RNF,1,0.97,51.765,1
+El sistema está obligado a responder a las solicitudes del usuario en un máximo de 2 segundos.,RNF,1,RNF,1,0.94,57.375,3
+La interfaz deberá ser comprensible para usuarios sin experiencia técnica previa.,RNF,1,RNF,1,0.96,64.194,2
+"En caso de mantenimiento programado, el sistema debe notificar a los usuarios con al menos 72 horas de anticipación.",RNF,1,RNF,1,0.93,63.926,2
+El sistema tiene que recuperarse ante una falla crítica en un tiempo máximo de 10 minutos.,RNF,1,RNF,1,0.92,58.802,3
+El sistema está obligado a garantizar una disponibilidad del 99.9% medida de forma mensual.,RNF,1,RNF,1,0.96,53.896,2
+La usabilidad del sistema debe ser buena para la mayoría de los usuarios.,RNF,1,RNF,1,0.96,50.082,3
+El tiempo de procesamiento de un grupo de trabajo colaborativo no debe superar los 4 segundos bajo carga normal.,RNF,1,RNF,1,0.93,65.098,3
+El sistema necesita responder a las solicitudes del usuario en un máximo de 2 segundos.,RNF,1,RNF,1,0.91,82.984,3
+El sistema deberá permitir completar la operación de un plan de tratamiento en no más de 3 pasos.,RNF,1,RNF,1,0.91,70.554,1
+El sistema tiene que garantizar una disponibilidad del 99.9% medida de forma mensual.,RNF,1,RNF,1,0.94,64.923,2
+El sistema tiene que permitir completar la operación de una tarea con fecha límite en no más de 4 pasos.,RNF,1,RNF,1,0.9,54.762,1
+El sistema tiene que responder a las solicitudes del usuario en un máximo de 3 segundos.,RNF,1,RNF,1,0.91,54.838,3
+"El sistema deberá estar disponible casi todo el tiempo, salvo situaciones excepcionales.",RNF,1,RNF,1,0.94,53.897,3
+La aplicación debe cargar en un tiempo prudente según las condiciones de red.,RNF,1,RNF,1,0.97,60.469,2
+"El sistema debe ser accesible para personas con discapacidad visual, conforme a las pautas WCAG 2.1.",RNF,1,RNF,1,0.96,67.568,1
+"En caso de mantenimiento programado, el sistema tiene que notificar a los usuarios con al menos 24 horas de anticipación.",RNF,1,RNF,1,0.94,60.487,2
+El sistema tiene que responder a las solicitudes del usuario en un máximo de 2 segundos.,RNF,1,RNF,1,0.91,64.689,3
+El sistema está obligado a permitir completar la operación de un plan de tratamiento en no más de 4 pasos.,RNF,1,RNF,1,0.96,51.831,1
+"En caso de mantenimiento programado, el sistema debe notificar a los usuarios con al menos 48 horas de anticipación.",RNF,1,RNF,1,0.93,56.677,2
+El sistema debe permitir completar la operación de un grupo de trabajo colaborativo en no más de 5 pasos.,RNF,1,RNF,1,0.92,66.891,2
+El sistema necesita permitir completar la operación de un grupo de trabajo colaborativo en no más de 4 pasos.,RNF,1,RNF,1,0.92,75.68,2
+Las consultas sobre un plan de tratamiento tienen que completarse en un tiempo inferior a 5 segundos en el 95% de los casos.,RNF,1,RNF,1,0.99,55.289,1
+El tiempo de procesamiento de un pedido nuevo no debe superar los 5 segundos bajo carga normal.,RNF,1,RNF,1,0.94,61.645,2
+El sistema está obligado a cifrar la información de una tarea con fecha límite utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.88,55.742,1
+"En caso de mantenimiento programado, el sistema deberá notificar a los usuarios con al menos 24 horas de anticipación.",RNF,1,RNF,1,0.88,39.609,2
+El sistema está obligado a responder a las solicitudes del usuario en un máximo de 3 segundos.,RNF,1,RNF,1,0.94,48.626,3
+El sistema tiene que permitir completar la operación de un cupón de descuento en no más de 3 pasos.,RNF,1,RNF,1,0.94,55.118,1
+Las consultas sobre una solicitud de crédito deberán completarse en un tiempo inferior a 5 segundos en el 95% de los casos.,RNF,1,RNF,1,0.92,54.178,3
+El sistema deberá responder a las solicitudes del usuario en un máximo de 3 segundos.,RNF,1,RNF,1,0.91,57.437,3
+"El sistema está obligado a ser accesible para personas con discapacidad visual, conforme a las pautas WCAG 2.1.",RNF,1,RNF,1,0.97,41.464,1
+El sistema necesita realizar copias de seguridad automáticas de una matrícula para el nuevo período con frecuencia diaria.,RNF,1,RNF,1,0.97,49.22,1
+Las consultas sobre un cupón de descuento deben completarse en un tiempo inferior a 5 segundos en el 95% de los casos.,RNF,1,RNF,1,0.99,58.595,1
+Las consultas sobre un plan de tratamiento tienen que completarse en un tiempo inferior a 4 segundos en el 95% de los casos.,RNF,1,RNF,1,0.99,67.68,1
+El sistema deberá garantizar una disponibilidad del 99% medida de forma mensual.,RNF,1,RNF,1,0.92,62.137,2
+El sistema debe soportar al menos 500 usuarios concurrentes sin degradar su tiempo de respuesta.,RNF,1,RNF,1,0.93,66.974,3
+La interfaz deberá ser amigable y fácil de usar en general.,RNF,1,RNF,1,0.96,54.554,3
+El sistema necesita garantizar una disponibilidad del 99.5% medida de forma mensual.,RNF,1,RNF,1,0.94,57.084,3
+"En caso de mantenimiento programado, el sistema deberá notificar a los usuarios con al menos 48 horas de anticipación.",RNF,1,RNF,1,0.88,69.555,2
+El sistema tiene que permitir completar la operación de una tarea con fecha límite en no más de 5 pasos.,RNF,1,RNF,1,0.9,57.013,1
+Los datos sensibles de un cupón de descuento deberán almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.94,73.917,1
+El sistema deberá realizar copias de seguridad automáticas de un plan de pagos con frecuencia diaria.,RNF,1,RNF,1,0.95,77.379,2
+El sistema deberá responder a las solicitudes del usuario en un máximo de 4 segundos.,RNF,1,RNF,1,0.91,66.162,3
+Los datos sensibles de un registro de alergias del paciente deben almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.83,80.543,2
+El sistema necesita garantizar una disponibilidad del 99.9% medida de forma mensual.,RNF,1,RNF,1,0.94,72.324,3
+El sistema tiene que recuperarse ante una falla crítica en un tiempo máximo de 15 minutos.,RNF,1,RNF,1,0.98,93.89,2
+El sistema está obligado a realizar copias de seguridad automáticas de un cupón de descuento con frecuencia diaria.,RNF,1,RNF,1,0.97,86.143,2
+"El sistema tiene que ser accesible para personas con discapacidad visual, conforme a las pautas WCAG 2.1.",RNF,1,RNF,1,0.96,77.346,2
+El sistema tiene que permitir completar la operación de una reseña de producto en no más de 4 pasos.,RNF,1,RNF,1,0.9,83.774,1
+El sistema deberá recuperarse ante una falla crítica en un tiempo máximo de 10 minutos.,RNF,1,RNF,1,0.9,88.354,3
+El sistema está obligado a permitir completar la operación de una cita médica en no más de 5 pasos.,RNF,1,RNF,1,0.89,84.764,1

@@ -1,0 +1,16 @@
+.git
+.gitignore
+.env
+.env.*
+
+backend/models/
+cloudflared/
+frontend/node_modules/
+frontend/dist/
+frontend/.astro/
+training/
+evaluation/
+**/__pycache__/
+**/*.py[cod]
+*.md
+*.ipynb

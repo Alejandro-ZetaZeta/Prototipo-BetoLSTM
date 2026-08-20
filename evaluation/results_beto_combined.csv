@@ -1,0 +1,401 @@
+text,expected_label,expected_label_id,label,label_id,confidence,latency_ms,rank
+El módulo correspondiente habilitará para obtener el porcentaje de asistencia acumulado en tiempo real.,RF,0,RF,0,0.825918,112.299,2
+El repartidor tendrá acceso a una notificación de estado del pedido desde el módulo de reportes.,RF,0,RF,0,0.726101,57.704,1
+El módulo correspondiente posibilitará obtener el saldo disponible tras una transferencia en tiempo real.,RF,0,RF,0,0.809661,46.99,2
+El sistema dará la opción de exportar un reporte de calificaciones en formato digital.,RF,0,RF,0,0.858237,46.553,1
+El sistema deberá autenticar a la enfermera de turno utilizando huella dactilar registrada antes de otorgar acceso.,RF,0,RNF,1,0.86394,67.077,2
+El sistema tiene que autenticar al titular de la cuenta con verificación en dos pasos por SMS antes de otorgar acceso.,RF,0,RNF,1,0.930763,54.795,2
+"El sistema necesita permitir la creación de un registro de alergias del paciente por parte del médico tratante, si la operación no supera el límite diario establecido.",RF,0,RF,0,0.527386,76.559,3
+El acceso del titular de la cuenta habilitará para validarse con verificación en dos pasos por SMS.,RF,0,RNF,1,0.849644,58.209,2
+El estudiante podrá dar de baja una tarea entregada fuera de plazo cuando su registro ya no sea necesario.,RF,0,RF,0,0.8518,55.021,1
+El sistema habilitará para que el administrador del banco registre un plan de pagos.,RF,0,RF,0,0.903305,53.682,2
+El sistema habilitará para que el especialista elimine una cita cancelada por el paciente.,RF,0,RF,0,0.954895,51.407,1
+El acceso del médico tratante permitirá validarse utilizando huella dactilar registrada.,RF,0,RNF,1,0.735015,55.831,2
+El sistema debe eliminar de forma permanente un beneficiario registrado tras confirmación del titular de la cuenta.,RF,0,RF,0,0.518319,55.741,3
+El acceso del vendedor posibilitará validarse con verificación por mensaje de texto.,RF,0,RNF,1,0.787776,65.301,3
+El acceso del tutor de tesis dará la opción de validarse utilizando código de acceso temporal.,RF,0,RF,0,0.633605,65.875,3
+El sistema permitirá exportar una notificación de estado del pedido en formato digital.,RF,0,RF,0,0.752585,67.225,2
+El usuario podrá realizar operaciones diversas cuando el sistema lo permita.,RF,0,RNF,1,0.838161,50.963,1
+El sistema deberá autenticar al administrador de la tienda mediante correo electrónico y contraseña antes de otorgar acceso.,RF,0,RNF,1,0.859781,57.172,3
+El sistema tiene que autenticar al representante legal utilizando código de acceso temporal antes de otorgar acceso.,RF,0,RNF,1,0.882924,54.756,2
+El repartidor podrá dar de baja una reseña reportada como falsa cuando su registro ya no sea necesario.,RF,0,RF,0,0.962587,52.65,1
+El sistema necesita determinar el porcentaje de asistencia acumulado cada vez que se registre un cambio relevante.,RF,0,RF,0,0.862518,50.317,2
+El sistema está obligado a calcular automáticamente el tiempo estimado de entrega.,RF,0,RNF,1,0.523747,45.754,3
+El sistema posibilitará que el médico tratante elimine un usuario dado de baja del sistema.,RF,0,RF,0,0.7445,60.375,2
+"El sistema podrá permitir que el administrador del hospital registre una historia clínica digital, cuando el usuario cuente con los permisos necesarios.",RF,0,RNF,1,0.621362,63.794,2
+El administrador del hospital podrá descargar un recordatorio de próxima cita desde el módulo de reportes.,RF,0,RF,0,0.869872,74.654,2
+El sistema habilitará para que el proveedor registre una lista de productos favoritos.,RF,0,RF,0,0.904533,56.94,2
+"El médico tratante podrá crear una historia clínica digital desde su panel principal, siempre que los datos ingresados sean válidos.",RF,0,RNF,1,0.522301,74.122,3
+El sistema necesita calcular automáticamente el índice de masa corporal.,RF,0,RF,0,0.571116,45.353,3
+El sistema necesita determinar la cuota de amortización del préstamo cada vez que se registre un cambio relevante.,RF,0,RF,0,0.914063,55.022,1
+El sistema podrá permitir que el docente elimine una tarea entregada fuera de plazo.,RF,0,RF,0,0.960366,51.421,1
+El sistema habilitará para que el estudiante elimine un usuario egresado.,RF,0,RF,0,0.886905,50.453,2
+El sistema tiene que determinar la dosis de medicamento según el peso del paciente cada vez que se registre un cambio relevante.,RF,0,RNF,1,0.560708,66.904,3
+El sistema permitirá exportar una factura electrónica en formato digital.,RF,0,RF,0,0.564997,43.381,2
+El usuario podrá modificar ciertos datos según lo considere pertinente.,RF,0,RNF,1,0.763832,50.528,2
+El sistema deberá calcular automáticamente el tiempo de espera promedio en urgencias.,RF,0,RF,0,0.614629,62.107,3
+El sistema permitirá exportar un certificado de estudios en formato digital.,RF,0,RNF,1,0.554878,46.597,1
+El administrador del sistema podrá dar de baja un usuario egresado cuando su registro ya no sea necesario.,RF,0,RF,0,0.565371,66.906,3
+El sistema podrá permitir que el comprador elimine un pedido cancelado por el cliente.,RF,0,RF,0,0.961375,60.141,1
+El sistema necesita autenticar al titular de la cuenta mediante token físico y contraseña antes de otorgar acceso.,RF,0,RNF,1,0.941841,78.921,3
+"El sistema podrá permitir que el representante legal registre un curso virtual, salvo que existan restricciones administrativas vigentes.",RF,0,RF,0,0.737479,66.072,2
+El sistema debe gestionar correctamente la información relevante del cliente.,RF,0,RNF,1,0.821776,51.269,1
+"El sistema dará la opción de que el repartidor registre una reseña de producto, siempre que los datos ingresados sean válidos.",RF,0,RF,0,0.91323,66.561,1
+El sistema deberá determinar la nota final del período cada vez que se registre un cambio relevante.,RF,0,RF,0,0.951664,57.28,1
+El acceso del representante legal permitirá validarse mediante usuario institucional y contraseña.,RF,0,RNF,1,0.893581,49.356,1
+"El sistema está obligado a permitir la creación de una reseña de producto por parte del comprador, de acuerdo con las políticas internas de la organización.",RF,0,RF,0,0.816286,65.151,1
+El sistema debe autenticar al administrador del hospital con tarjeta profesional y PIN antes de otorgar acceso.,RF,0,RNF,1,0.936328,51.392,3
+El acceso del farmacéutico habilitará para validarse utilizando huella dactilar registrada.,RF,0,RNF,1,0.880533,51.941,3
+El acceso del cliente podrá validarse mediante clave dinámica y huella dactilar.,RF,0,RNF,1,0.824673,49.918,2
+El comprador podrá dar de baja un producto descontinuado del catálogo cuando su registro ya no sea necesario.,RF,0,RF,0,0.775434,60.757,1
+"El sistema está obligado a permitir la creación de una cita médica por parte del especialista, salvo que existan restricciones administrativas vigentes.",RF,0,RF,0,0.669872,60.441,2
+El sistema deberá determinar la dosis de medicamento según el peso del paciente cada vez que se registre un cambio relevante.,RF,0,RF,0,0.526044,59.169,2
+El sistema tiene que eliminar de forma permanente una tarjeta bloqueada tras confirmación del asesor financiero.,RF,0,RNF,1,0.607023,54.064,2
+El sistema tiene que autenticar al administrador del banco con verificación en dos pasos por SMS antes de otorgar acceso.,RF,0,RNF,1,0.90755,80.221,2
+El asesor financiero tendrá acceso a un certificado de saldo desde el módulo de reportes.,RF,0,RF,0,0.761497,62.934,3
+El titular de la cuenta tendrá acceso a un estado de cuenta en PDF desde el módulo de reportes.,RF,0,RNF,1,0.550061,67.223,3
+El sistema podrá exportar un informe médico consolidado en formato digital.,RF,0,RF,0,0.775334,47.3,1
+El repartidor tendrá acceso a una guía de envío desde el módulo de reportes.,RF,0,RNF,1,0.527991,48.692,3
+El sistema podrá exportar un estado de cuenta en PDF en formato digital.,RF,0,RNF,1,0.594155,47.537,1
+El acceso del cliente posibilitará validarse mediante clave dinámica y huella dactilar.,RF,0,RNF,1,0.830614,50.843,3
+El sistema habilitará para exportar un reporte de calificaciones en formato digital.,RF,0,RF,0,0.720059,48.514,2
+El sistema necesita calcular automáticamente la dosis de medicamento según el peso del paciente.,RF,0,RF,0,0.669827,42.086,3
+El administrador del banco podrá crear un plan de pagos desde su panel principal.,RF,0,RF,0,0.676502,47.904,2
+El vendedor podrá dar de baja una dirección de envío obsoleta cuando su registro ya no sea necesario.,RF,0,RF,0,0.74218,54.136,2
+El sistema tiene que generar un recordatorio de próxima cita a solicitud del farmacéutico.,RF,0,RF,0,0.914327,50.942,1
+"El sistema debe permitir la creación de una solicitud de crédito por parte del usuario, si la operación no supera el límite diario establecido.",RF,0,RF,0,0.630585,62.204,2
+El sistema debe calcular automáticamente la dosis de medicamento según el peso del paciente.,RF,0,RF,0,0.654648,47.333,2
+El sistema debe determinar la nota final del período cada vez que se registre un cambio relevante.,RF,0,RF,0,0.924884,53.402,1
+El módulo correspondiente dará la opción de obtener los créditos aprobados hasta la fecha en tiempo real.,RF,0,RF,0,0.916478,69.46,1
+"El sistema posibilitará que el estudiante registre una tarea con fecha límite, de acuerdo con las políticas internas de la organización.",RF,0,RF,0,0.726245,119.301,2
+El acceso del coordinador académico habilitará para validarse con verificación de correo institucional.,RF,0,RNF,1,0.69319,53.037,2
+El administrador del sistema podrá dar de baja una matrícula anulada cuando su registro ya no sea necesario.,RF,0,RF,0,0.726354,63.286,2
+El sistema necesita eliminar de forma permanente un usuario egresado tras confirmación del tutor de tesis.,RF,0,RF,0,0.576835,69.151,3
+El sistema habilitará para exportar un informe médico consolidado en formato digital.,RF,0,RF,0,0.599594,54.699,2
+El sistema tiene que generar una guía de envío a solicitud del administrador de la tienda.,RF,0,RF,0,0.720584,54.165,3
+El acceso del farmacéutico podrá validarse con tarjeta profesional y PIN.,RF,0,RNF,1,0.704414,55.688,3
+El sistema tiene que eliminar de forma permanente una matrícula anulada tras confirmación del representante legal.,RF,0,RF,0,0.794314,66.686,2
+El administrador de la tienda podrá dar de baja una dirección de envío obsoleta cuando su registro ya no sea necesario.,RF,0,RF,0,0.651412,59.972,2
+El sistema necesita autenticar al usuario mediante clave dinámica y huella dactilar antes de otorgar acceso.,RF,0,RNF,1,0.976481,57.731,1
+El acceso del médico tratante habilitará para validarse con tarjeta profesional y PIN.,RF,0,RNF,1,0.697958,58.032,3
+"El sistema permitirá que el representante legal registre una tarea con fecha límite, salvo que existan restricciones administrativas vigentes.",RF,0,RF,0,0.711878,62.943,1
+El sistema está obligado a autenticar al titular de la cuenta con verificación en dos pasos por SMS antes de otorgar acceso.,RF,0,RNF,1,0.929685,65.339,2
+El tutor de tesis podrá dar de baja una tarea entregada fuera de plazo cuando su registro ya no sea necesario.,RF,0,RF,0,0.849671,57.943,2
+El sistema está obligado a calcular automáticamente la comisión del vendedor por cada venta.,RF,0,RF,0,0.929407,51.529,1
+El módulo correspondiente dará la opción de obtener el porcentaje de asistencia acumulado en tiempo real.,RF,0,RF,0,0.936451,48.239,1
+El sistema habilitará para exportar una guía de envío en formato digital.,RF,0,RNF,1,0.524043,45.311,3
+"El repartidor tendrá la opción de crear una lista de productos favoritos desde su panel principal, salvo que existan restricciones administrativas vigentes.",RF,0,RF,0,0.818422,59.153,2
+El módulo correspondiente permitirá obtener la cuota de amortización del préstamo en tiempo real.,RF,0,RF,0,0.898652,48.679,1
+El sistema deberá eliminar de forma permanente un producto descontinuado del catálogo tras confirmación del repartidor.,RF,0,RF,0,0.863122,53.239,2
+"El repartidor tendrá la opción de crear un pedido nuevo desde su panel principal, de acuerdo con las políticas internas de la organización.",RF,0,RF,0,0.846464,59.996,2
+El sistema permitirá que el médico tratante elimine un usuario dado de baja del sistema.,RF,0,RF,0,0.738072,58.319,1
+El acceso del coordinador académico habilitará para validarse mediante usuario institucional y contraseña.,RF,0,RNF,1,0.801921,58.987,3
+El sistema dará la opción de que el administrador del hospital elimine un registro médico duplicado.,RF,0,RF,0,0.899942,61.247,1
+El acceso del cliente frecuente dará la opción de validarse con verificación por mensaje de texto.,RF,0,RNF,1,0.7003,55.004,3
+El sistema necesita calcular automáticamente el interés compuesto mensual.,RF,0,RF,0,0.849596,43.12,2
+El sistema está obligado a autenticar al estudiante con verificación de correo institucional antes de otorgar acceso.,RF,0,RNF,1,0.900175,59.833,1
+El sistema dará la opción de que el paciente elimine una cita cancelada por el paciente.,RF,0,RF,0,0.973736,53.689,1
+El sistema deberá eliminar de forma permanente un beneficiario registrado tras confirmación del titular de la cuenta.,RF,0,RF,0,0.644849,53.817,2
+El sistema posibilitará exportar una alerta de interacción entre medicamentos en formato digital.,RF,0,RNF,1,0.716652,44.782,3
+El acceso del representante legal dará la opción de validarse mediante usuario institucional y contraseña.,RF,0,RNF,1,0.646194,49.835,3
+El sistema debe eliminar de forma permanente un producto descontinuado del catálogo tras confirmación del vendedor.,RF,0,RF,0,0.813116,53.589,2
+El cliente podrá dar de baja un beneficiario registrado cuando su registro ya no sea necesario.,RF,0,RF,0,0.806695,53.179,1
+El acceso del comprador dará la opción de validarse mediante correo electrónico y contraseña.,RF,0,RNF,1,0.615528,46.288,2
+El comprador estará en capacidad de generar una reseña de producto desde su panel principal.,RF,0,RF,0,0.829861,57.463,1
+El sistema dará la opción de que el cliente elimine un beneficiario registrado.,RF,0,RF,0,0.951443,48.731,1
+El sistema debe determinar el costo total del carrito incluyendo impuestos cada vez que se registre un cambio relevante.,RF,0,RF,0,0.954779,52.752,1
+El sistema tiene que determinar el costo total del carrito incluyendo impuestos cada vez que se registre un cambio relevante.,RF,0,RF,0,0.950003,53.775,1
+"El especialista tendrá la opción de crear un plan de tratamiento desde su panel principal, cuando el usuario cuente con los permisos necesarios.",RF,0,RNF,1,0.742984,64.773,2
+"El sistema permitirá que el asesor financiero registre una cuenta de ahorros, siempre que los datos ingresados sean válidos.",RF,0,RF,0,0.550437,61.329,2
+El sistema debe eliminar de forma permanente una solicitud de crédito rechazada tras confirmación del usuario.,RF,0,RNF,1,0.789974,58.429,2
+El sistema dará la opción de que el repartidor elimine una reseña reportada como falsa.,RF,0,RF,0,0.983246,90.929,1
+El sistema debe autenticar al farmacéutico con tarjeta profesional y PIN antes de otorgar acceso.,RF,0,RNF,1,0.841642,94.059,3
+El administrador del banco podrá dar de baja un dispositivo autorizado cuando su registro ya no sea necesario.,RF,0,RF,0,0.533163,70.69,3
+El módulo correspondiente posibilitará obtener los días restantes de licencia médica en tiempo real.,RF,0,RF,0,0.779298,58.711,2
+El administrador de la tienda tendrá acceso a un reporte de ventas mensual desde el módulo de reportes.,RF,0,RF,0,0.753304,61.98,3
+El sistema deberá generar un horario de clases personalizado a solicitud del coordinador académico.,RF,0,RF,0,0.908323,60.233,1
+El sistema necesita calcular automáticamente el tiempo estimado de entrega.,RF,0,RNF,1,0.54158,44.731,3
+"El sistema posibilitará que el docente registre un grupo de trabajo colaborativo, siempre que los datos ingresados sean válidos.",RF,0,RF,0,0.648766,58.219,3
+El sistema deberá permitir la creación de una dirección de envío por parte del repartidor.,RF,0,RF,0,0.752746,53.736,2
+"El sistema dará la opción de que el usuario registre una tarjeta de débito virtual, una vez verificada la identidad del solicitante.",RF,0,RF,0,0.829877,64.633,2
+El sistema está obligado a calcular automáticamente el saldo disponible tras una transferencia.,RF,0,RF,0,0.848282,46.831,2
+El estudiante tendrá la opción de crear un curso virtual desde su panel principal.,RF,0,RF,0,0.558798,51.267,3
+El sistema tiene que eliminar de forma permanente una alerta configurada tras confirmación del cajero.,RF,0,RNF,1,0.699856,69.147,2
+El sistema tiene que autenticar al paciente con tarjeta profesional y PIN antes de otorgar acceso.,RF,0,RNF,1,0.946598,55.781,3
+El sistema necesita determinar el tiempo de espera promedio en urgencias cada vez que se registre un cambio relevante.,RF,0,RNF,1,0.521641,53.239,2
+El sistema tiene que determinar la cuota de amortización del préstamo cada vez que se registre un cambio relevante.,RF,0,RF,0,0.907868,56.196,1
+El administrador del banco tendrá acceso a un certificado de saldo desde el módulo de reportes.,RF,0,RNF,1,0.503545,54.568,3
+"El sistema debe permitir la creación de una historia clínica digital por parte del médico tratante, una vez verificada la identidad del solicitante.",RF,0,RF,0,0.594309,63.451,2
+El sistema permitirá que el farmacéutico elimine una receta vencida.,RF,0,RF,0,0.958013,48.17,1
+"El sistema está obligado a permitir la creación de una dirección de envío por parte del repartidor, siempre que los datos ingresados sean válidos.",RF,0,RNF,1,0.762869,84.773,3
+El sistema deberá facilitar la operación al usuario de forma general.,RF,0,RNF,1,0.889845,82.828,2
+El sistema posibilitará exportar una notificación de pago próximo a vencer en formato digital.,RF,0,RF,0,0.818129,65.46,2
+El sistema está obligado a determinar el tiempo estimado de entrega cada vez que se registre un cambio relevante.,RF,0,RF,0,0.50717,69.375,3
+El módulo correspondiente dará la opción de obtener la nota final del período en tiempo real.,RF,0,RF,0,0.948344,54.444,1
+El acceso del proveedor posibilitará validarse con verificación por mensaje de texto.,RF,0,RNF,1,0.849085,53.669,2
+"El sistema tiene que permitir la creación de una tarjeta de débito virtual por parte del cliente, de acuerdo con las políticas internas de la organización.",RF,0,RNF,1,0.843594,70.147,1
+El sistema posibilitará que el estudiante registre un curso virtual.,RF,0,RF,0,0.868402,46.857,2
+El sistema tiene que manejar de manera apropiada los casos especiales que puedan presentarse.,RF,0,RNF,1,0.907868,52.652,3
+"El sistema tiene que permitir la creación de una cuenta de ahorros por parte del administrador del banco, siempre que los datos ingresados sean válidos.",RF,0,RNF,1,0.750148,75.805,3
+El acceso del proveedor posibilitará validarse utilizando inicio de sesión con cuenta de terceros.,RF,0,RNF,1,0.847023,55.088,3
+El acceso del administrador del sistema habilitará para validarse utilizando código de acceso temporal.,RF,0,RNF,1,0.892817,54.635,3
+"El sistema está obligado a permitir la creación de un pedido nuevo por parte del proveedor, una vez verificada la identidad del solicitante.",RF,0,RF,0,0.723937,61.536,2
+El cliente podrá descargar un reporte de movimientos del último trimestre desde el módulo de reportes.,RF,0,RF,0,0.826306,50.109,2
+El sistema posibilitará exportar un certificado de incapacidad laboral en formato digital.,RF,0,RF,0,0.681345,49.154,3
+El sistema deberá autenticar al estudiante mediante usuario institucional y contraseña antes de otorgar acceso.,RF,0,RNF,1,0.807626,54.641,3
+El sistema tiene que generar una notificación de estado del pedido a solicitud del vendedor.,RF,0,RF,0,0.883845,55.247,1
+"El administrador del sistema podrá crear una rúbrica de evaluación desde su panel principal, si la operación no supera el límite diario establecido.",RF,0,RF,0,0.800577,65.728,1
+"El docente estará en capacidad de generar un curso virtual desde su panel principal, una vez verificada la identidad del solicitante.",RF,0,RF,0,0.529025,70.241,3
+El sistema necesita permitir la creación de un pedido nuevo por parte del cliente frecuente.,RF,0,RF,0,0.751504,77.123,3
+El módulo correspondiente dará la opción de obtener la cuota de amortización del préstamo en tiempo real.,RF,0,RF,0,0.927834,66.458,1
+El sistema debe calcular automáticamente los días restantes de licencia médica.,RF,0,RF,0,0.903381,58.363,1
+El sistema tiene que autenticar al vendedor utilizando inicio de sesión con cuenta de terceros antes de otorgar acceso.,RF,0,RNF,1,0.914694,66.787,1
+El administrador podrá aplicar los ajustes necesarios en caso de que se requieran.,RF,0,RF,0,0.562478,70.578,3
+El sistema debe eliminar de forma permanente una alerta configurada tras confirmación del cliente.,RF,0,RNF,1,0.903581,61.866,1
+El administrador de la tienda tendrá acceso a una factura electrónica desde el módulo de reportes.,RF,0,RF,0,0.587575,55.959,3
+El sistema tiene que calcular automáticamente el costo total del carrito incluyendo impuestos.,RF,0,RF,0,0.900049,46.939,1
+El módulo correspondiente habilitará para obtener la nota final del período en tiempo real.,RF,0,RF,0,0.875597,59.094,2
+El administrador del hospital podrá dar de baja una cita cancelada por el paciente cuando su registro ya no sea necesario.,RF,0,RF,0,0.928028,65.507,1
+La enfermera de turno estará en capacidad de generar un plan de tratamiento desde su panel principal.,RF,0,RNF,1,0.727066,57.068,2
+El sistema debe generar un recordatorio de próxima cita a solicitud del administrador del hospital.,RF,0,RF,0,0.899616,55.455,1
+El sistema tiene que autenticar al repartidor mediante correo electrónico y contraseña antes de otorgar acceso.,RF,0,RNF,1,0.903743,52.025,1
+El sistema deberá generar un estado de cuenta en PDF a solicitud del cliente.,RF,0,RF,0,0.631876,46.94,2
+El sistema habilitará para exportar un reporte de ventas mensual en formato digital.,RF,0,RF,0,0.668464,55.508,3
+"El farmacéutico estará en capacidad de generar una orden de laboratorio desde su panel principal, de acuerdo con las políticas internas de la organización.",RF,0,RF,0,0.57037,63.531,3
+El sistema tiene que generar un recordatorio de próxima cita a solicitud del médico tratante.,RF,0,RF,0,0.903673,53.179,1
+El acceso del administrador del banco dará la opción de validarse con verificación en dos pasos por SMS.,RF,0,RNF,1,0.631946,56.449,2
+El sistema deberá procesar las solicitudes de forma adecuada según el criterio del administrador.,RF,0,RNF,1,0.932594,55.298,2
+El sistema necesita generar un informe médico consolidado a solicitud del administrador del hospital.,RF,0,RF,0,0.839992,55.936,1
+"El sistema deberá permitir la creación de una alerta de saldo mínimo por parte del usuario, siempre que los datos ingresados sean válidos.",RF,0,RNF,1,0.772465,75.376,3
+El sistema podrá exportar un reporte de calificaciones en formato digital.,RF,0,RF,0,0.767255,48.88,1
+El sistema permitirá que el paciente elimine una cita cancelada por el paciente.,RF,0,RF,0,0.964899,57.529,1
+El sistema deberá autenticar al representante legal utilizando código de acceso temporal antes de otorgar acceso.,RF,0,RNF,1,0.666967,95.067,3
+El sistema necesita autenticar a la enfermera de turno mediante credenciales institucionales y doble factor antes de otorgar acceso.,RF,0,RNF,1,0.903734,59.454,1
+"El administrador del banco podrá crear un beneficiario para transferencias desde su panel principal, de acuerdo con las políticas internas de la organización.",RF,0,RF,0,0.819136,65.354,2
+El sistema deberá determinar el costo total del carrito incluyendo impuestos cada vez que se registre un cambio relevante.,RF,0,RF,0,0.966031,66.009,1
+El módulo correspondiente posibilitará obtener el promedio ponderado del estudiante en tiempo real.,RF,0,RF,0,0.809953,56.393,3
+El sistema está obligado a eliminar de forma permanente un registro médico duplicado tras confirmación del médico tratante.,RF,0,RF,0,0.511443,55.55,3
+El administrador del sistema podrá dar de baja un curso archivado cuando su registro ya no sea necesario.,RF,0,RF,0,0.660771,51.941,3
+El sistema está obligado a determinar la comisión por mantenimiento cada vez que se registre un cambio relevante.,RF,0,RF,0,0.878235,55.489,2
+El acceso del proveedor dará la opción de validarse con verificación por mensaje de texto.,RF,0,RNF,1,0.606603,59.557,3
+El sistema podrá permitir que el vendedor elimine una dirección de envío obsoleta.,RF,0,RF,0,0.88338,54.78,2
+El sistema está obligado a generar un certificado de estudios a solicitud del tutor de tesis.,RF,0,RF,0,0.910721,50.634,1
+El sistema necesita determinar el saldo disponible tras una transferencia cada vez que se registre un cambio relevante.,RF,0,RF,0,0.780649,58.553,2
+El paciente tendrá acceso a una alerta de interacción entre medicamentos desde el módulo de reportes.,RF,0,RNF,1,0.796316,55.211,3
+El sistema deberá determinar la comisión del vendedor por cada venta cada vez que se registre un cambio relevante.,RF,0,RF,0,0.936828,90.716,1
+El sistema permitirá que el cliente frecuente elimine un pedido cancelado por el cliente.,RF,0,RF,0,0.945052,55.349,1
+El administrador podrá tomar las acciones que estime convenientes sobre los registros.,RF,0,RF,0,0.633491,55.562,3
+El sistema posibilitará que el coordinador académico elimine una matrícula anulada.,RF,0,RF,0,0.969033,54.614,1
+El sistema habilitará para que la enfermera de turno registre una historia clínica digital.,RF,0,RF,0,0.652686,63.736,3
+El sistema permitirá que el representante legal registre una matrícula para el nuevo período.,RF,0,RF,0,0.962604,81.466,1
+El usuario podrá dar de baja una solicitud de crédito rechazada cuando su registro ya no sea necesario.,RF,0,RF,0,0.513704,76.662,2
+El sistema deberá generar un certificado de estudios a solicitud del docente.,RF,0,RF,0,0.958624,49.958,1
+El sistema debe procesar la solicitud en un tiempo razonable.,RF,0,RNF,1,0.97883,51.319,1
+El representante legal tendrá acceso a un certificado de estudios desde el módulo de reportes.,RF,0,RF,0,0.790923,57.114,2
+El administrador del hospital podrá dar de baja un usuario dado de baja del sistema cuando su registro ya no sea necesario.,RF,0,RNF,1,0.63668,62.011,3
+"El sistema permitirá que el asesor financiero registre una alerta de saldo mínimo, salvo que existan restricciones administrativas vigentes.",RF,0,RF,0,0.768566,61.885,2
+El sistema deberá ofrecer una experiencia satisfactoria durante todo el proceso.,RF,0,RNF,1,0.971775,50.677,1
+El sistema deberá generar una constancia de matrícula a solicitud del representante legal.,RF,0,RF,0,0.943651,49.501,1
+"El sistema permitirá que el representante legal registre una rúbrica de evaluación, si la operación no supera el límite diario establecido.",RF,0,RF,0,0.927772,63.917,1
+El acceso del médico tratante habilitará para validarse utilizando huella dactilar registrada.,RF,0,RNF,1,0.826782,53.205,3
+El sistema posibilitará exportar un estado de cuenta en PDF en formato digital.,RF,0,RNF,1,0.605976,52.719,2
+El sistema tiene que registrar en una bitácora de auditoría todo intento de acceso no autorizado a un curso virtual.,RNF,1,RNF,1,0.775875,68.577,2
+El sistema tiene que permitir completar la operación de un curso virtual en no más de 5 pasos.,RNF,1,RNF,1,0.929352,55.65,1
+El sistema tiene que garantizar una disponibilidad del 99.5% medida de forma mensual.,RNF,1,RNF,1,0.915788,60.493,3
+El sistema está obligado a permitir completar la operación de una historia clínica digital en no más de 5 pasos.,RNF,1,RNF,1,0.927357,68.241,2
+"El sistema deberá ser accesible para personas con discapacidad visual, conforme a las pautas WCAG 2.1.",RNF,1,RNF,1,0.945943,65.756,2
+El sistema deberá registrar en una bitácora de auditoría todo intento de acceso no autorizado a una dirección de envío.,RNF,1,RNF,1,0.642,67.203,2
+El tiempo de procesamiento de una orden de laboratorio no deberá superar los 3 segundos bajo carga normal.,RNF,1,RNF,1,0.957808,54.728,1
+El sistema está obligado a responder a las solicitudes del usuario en un máximo de 5 segundos.,RNF,1,RNF,1,0.991337,54.116,1
+El sistema necesita cifrar la información de una alerta de saldo mínimo utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.762083,53.691,3
+El sistema debe bloquear el acceso tras 5 intentos fallidos de autenticación consecutivos.,RNF,1,RNF,1,0.948416,53.453,2
+El sistema deberá garantizar una disponibilidad del 99.5% medida de forma mensual.,RNF,1,RNF,1,0.918495,61.572,3
+"En caso de mantenimiento programado, el sistema deberá notificar a los usuarios con al menos 72 horas de anticipación.",RNF,1,RNF,1,0.827885,63.544,3
+Los datos sensibles de una matrícula para el nuevo período deberán almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.869387,55.848,2
+El sistema necesita realizar copias de seguridad automáticas de una reseña de producto con frecuencia diaria.,RNF,1,RNF,1,0.793063,55.696,3
+El tiempo de procesamiento de una cuenta de ahorros no deberá superar los 4 segundos bajo carga normal.,RNF,1,RNF,1,0.97613,54.817,1
+Las consultas sobre un pedido nuevo deberán completarse en un tiempo inferior a 3 segundos en el 95% de los casos.,RNF,1,RNF,1,0.977644,68.264,2
+El sistema debe garantizar una disponibilidad del 99.5% medida de forma mensual.,RNF,1,RNF,1,0.917612,75.379,3
+El sistema está obligado a registrar en una bitácora de auditoría todo intento de acceso no autorizado a una reseña de producto.,RNF,1,RNF,1,0.716158,82.132,2
+El sistema tiene que cifrar la información de un cupón de descuento utilizando el algoritmo AES-256.,RNF,1,RF,0,0.512309,70.009,3
+Las consultas sobre una lista de productos favoritos tienen que completarse en un tiempo inferior a 4 segundos en el 95% de los casos.,RNF,1,RNF,1,0.988496,89.775,1
+El sistema tiene que registrar en una bitácora de auditoría todo intento de acceso no autorizado a una dirección de envío.,RNF,1,RNF,1,0.710775,70.481,2
+El sistema deberá permitir completar la operación de un pedido nuevo en no más de 4 pasos.,RNF,1,RNF,1,0.875476,60.163,2
+El sistema tiene que cifrar la información de una lista de productos favoritos utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.625875,66.781,3
+El sistema necesita realizar copias de seguridad automáticas de una tarjeta de débito virtual con frecuencia diaria.,RNF,1,RNF,1,0.910886,58.36,3
+Las consultas sobre un curso virtual tienen que completarse en un tiempo inferior a 3 segundos en el 95% de los casos.,RNF,1,RNF,1,0.989283,100.711,1
+El tiempo de procesamiento de un grupo de trabajo colaborativo no tiene que superar los 4 segundos bajo carga normal.,RNF,1,RNF,1,0.964799,85.319,1
+Las consultas sobre una tarea con fecha límite deben completarse en un tiempo inferior a 4 segundos en el 95% de los casos.,RNF,1,RNF,1,0.98003,81.6,1
+El sistema está obligado a realizar copias de seguridad automáticas de una dirección de envío con frecuencia diaria.,RNF,1,RNF,1,0.87709,92.245,3
+El sistema deberá mantener un desempeño estable en condiciones normales de uso.,RNF,1,RNF,1,0.988741,62.385,1
+El sistema debe realizar copias de seguridad automáticas de una tarea con fecha límite con frecuencia diaria.,RNF,1,RNF,1,0.70946,200.554,3
+Las consultas sobre una dirección de envío deben completarse en un tiempo inferior a 4 segundos en el 95% de los casos.,RNF,1,RNF,1,0.983631,104.849,1
+El sistema necesita permitir completar la operación de una tarea con fecha límite en no más de 3 pasos.,RNF,1,RNF,1,0.796952,406.805,2
+Los datos sensibles de una cuenta de ahorros deben almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.92494,480.254,2
+Los datos sensibles de una tarjeta de débito virtual deben almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.98174,140.239,1
+Los datos sensibles de un cupón de descuento tienen que almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.931818,87.738,2
+El sistema debe bloquear el acceso tras 3 intentos fallidos de autenticación consecutivos.,RNF,1,RNF,1,0.945228,75.747,2
+El sistema necesita cifrar la información de una dirección de envío utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.819234,81.007,2
+El sistema necesita registrar en una bitácora de auditoría todo intento de acceso no autorizado a una alerta de saldo mínimo.,RNF,1,RNF,1,0.843193,85.354,2
+El sistema debe bloquear el acceso tras 4 intentos fallidos de autenticación consecutivos.,RNF,1,RNF,1,0.941952,66.49,2
+Los mensajes de error deberá explicar de forma clara la causa del problema y una posible solución.,RNF,1,RF,0,0.534762,60.166,3
+El sistema necesita permitir completar la operación de un grupo de trabajo colaborativo en no más de 5 pasos.,RNF,1,RNF,1,0.940432,59.214,1
+El sistema necesita registrar en una bitácora de auditoría todo intento de acceso no autorizado a una lista de productos favoritos.,RNF,1,RNF,1,0.698092,62.685,3
+El sistema tiene que ser razonablemente seguro frente a accesos no autorizados.,RNF,1,RNF,1,0.993366,57.177,1
+Toda comunicación entre el cliente y el servidor tiene que realizarse mediante el protocolo HTTPS.,RNF,1,RNF,1,0.993111,56.4,1
+El sistema tiene que permitir completar la operación de un pedido nuevo en no más de 5 pasos.,RNF,1,RNF,1,0.904535,51.444,2
+El sistema debe garantizar una disponibilidad del 99.9% medida de forma mensual.,RNF,1,RNF,1,0.928697,51.981,3
+El sistema está obligado a permitir completar la operación de un beneficiario para transferencias en no más de 4 pasos.,RNF,1,RNF,1,0.920431,61.105,2
+La interfaz tiene que ser comprensible para usuarios sin experiencia técnica previa.,RNF,1,RNF,1,0.988571,51.998,2
+El sistema debe realizar copias de seguridad automáticas de una tarjeta de débito virtual con frecuencia diaria.,RNF,1,RNF,1,0.924635,66.427,3
+El sistema está obligado a soportar al menos 1000 usuarios concurrentes sin degradar su tiempo de respuesta.,RNF,1,RNF,1,0.990852,92.984,1
+El sistema tiene que permitir completar la operación de una rúbrica de evaluación en no más de 3 pasos.,RNF,1,RNF,1,0.852705,59.176,2
+Los datos sensibles de una dirección de envío deberán almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.935292,62.639,1
+El sistema está obligado a bloquear el acceso tras 4 intentos fallidos de autenticación consecutivos.,RNF,1,RNF,1,0.951274,62.072,2
+El sistema tiene que realizar copias de seguridad automáticas de un grupo de trabajo colaborativo con frecuencia diaria.,RNF,1,RNF,1,0.787704,60.243,3
+El tiempo de procesamiento de un plan de tratamiento no debe superar los 5 segundos bajo carga normal.,RNF,1,RNF,1,0.96859,56.131,1
+El sistema necesita garantizar una disponibilidad del 99% medida de forma mensual.,RNF,1,RNF,1,0.964922,58.214,1
+El sistema necesita permitir completar la operación de un pedido nuevo en no más de 5 pasos.,RNF,1,RNF,1,0.891556,62.272,2
+El sistema deberá bloquear el acceso tras 3 intentos fallidos de autenticación consecutivos.,RNF,1,RNF,1,0.905061,47.293,2
+Los datos sensibles de un grupo de trabajo colaborativo deben almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.980632,57.832,1
+Las consultas sobre una dirección de envío deberán completarse en un tiempo inferior a 5 segundos en el 95% de los casos.,RNF,1,RNF,1,0.977039,63.433,1
+El sistema tiene que bloquear el acceso tras 3 intentos fallidos de autenticación consecutivos.,RNF,1,RNF,1,0.93615,50.991,2
+El sistema tiene que realizar copias de seguridad automáticas de un curso virtual con frecuencia diaria.,RNF,1,RNF,1,0.835256,67.13,3
+"El sistema debe ser flexible ante cambios futuros, dentro de lo razonable.",RNF,1,RNF,1,0.978264,59.84,1
+Los datos sensibles de una tarjeta de débito virtual tienen que almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.96553,98.211,1
+Los datos sensibles de una receta electrónica deberán almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.961578,88.086,1
+El sistema está obligado a permitir completar la operación de una cita médica en no más de 4 pasos.,RNF,1,RNF,1,0.834403,71.975,2
+"En caso de mantenimiento programado, el sistema tiene que notificar a los usuarios con al menos 48 horas de anticipación.",RNF,1,RNF,1,0.87055,70.619,3
+El sistema necesita realizar copias de seguridad automáticas de una tarea con fecha límite con frecuencia diaria.,RNF,1,RNF,1,0.788107,60.058,3
+Las consultas sobre una alerta de saldo mínimo deben completarse en un tiempo inferior a 2 segundos en el 95% de los casos.,RNF,1,RNF,1,0.976935,60.424,2
+El sistema está obligado a permitir completar la operación de una lista de productos favoritos en no más de 5 pasos.,RNF,1,RNF,1,0.885233,58.852,1
+El sistema deberá garantizar una disponibilidad del 99.9% medida de forma mensual.,RNF,1,RNF,1,0.929357,50.142,2
+El sistema debe recuperarse ante una falla crítica en un tiempo máximo de 5 minutos.,RNF,1,RNF,1,0.970382,47.846,3
+Las consultas sobre un beneficiario para transferencias tienen que completarse en un tiempo inferior a 5 segundos en el 95% de los casos.,RNF,1,RNF,1,0.981914,61.172,2
+El sistema está obligado a permitir completar la operación de una orden de laboratorio en no más de 5 pasos.,RNF,1,RNF,1,0.914026,57.128,1
+El sistema está obligado a responder a las solicitudes del usuario en un máximo de 4 segundos.,RNF,1,RNF,1,0.991435,52.497,1
+El sistema tiene que responder a las solicitudes del usuario en un máximo de 5 segundos.,RNF,1,RNF,1,0.990857,50.296,1
+El sistema necesita cifrar la información de una receta electrónica utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.755131,53.013,2
+El sistema necesita permitir completar la operación de una solicitud de crédito en no más de 4 pasos.,RNF,1,RNF,1,0.924346,51.449,1
+El tiempo de procesamiento de un pedido nuevo no deberá superar los 3 segundos bajo carga normal.,RNF,1,RNF,1,0.982284,56.399,1
+El tiempo de procesamiento de una historia clínica digital no debe superar los 4 segundos bajo carga normal.,RNF,1,RNF,1,0.990747,53.777,1
+El sistema está obligado a garantizar una disponibilidad del 99% medida de forma mensual.,RNF,1,RNF,1,0.830669,49.034,3
+El sistema tiene que permitir completar la operación de una lista de productos favoritos en no más de 4 pasos.,RNF,1,RNF,1,0.864802,49.489,1
+El sistema está obligado a registrar en una bitácora de auditoría todo intento de acceso no autorizado a un curso virtual.,RNF,1,RNF,1,0.767978,62.876,2
+El sistema deberá recuperarse ante una falla crítica en un tiempo máximo de 5 minutos.,RNF,1,RNF,1,0.962548,54.104,2
+El sistema está obligado a soportar al menos 200 usuarios concurrentes sin degradar su tiempo de respuesta.,RNF,1,RNF,1,0.991515,49.962,1
+El sistema tiene que cifrar la información de una historia clínica digital utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.871852,61.893,2
+"El sistema necesita ser accesible para personas con discapacidad visual, conforme a las pautas WCAG 2.1.",RNF,1,RNF,1,0.974868,84.162,1
+El sistema deberá responder a las solicitudes del usuario en un máximo de 2 segundos.,RNF,1,RNF,1,0.986014,62.691,1
+El sistema está obligado a realizar copias de seguridad automáticas de un plan de pagos con frecuencia diaria.,RNF,1,RNF,1,0.808353,66.699,3
+El sistema necesita responder a las solicitudes del usuario en un máximo de 5 segundos.,RNF,1,RNF,1,0.990787,64.505,1
+El sistema tiene que cifrar la información de un grupo de trabajo colaborativo utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.776949,63.924,2
+El sistema está obligado a garantizar una disponibilidad del 99.5% medida de forma mensual.,RNF,1,RNF,1,0.898676,54.886,3
+El sistema está obligado a soportar al menos 2000 usuarios concurrentes sin degradar su tiempo de respuesta.,RNF,1,RNF,1,0.991088,54.255,1
+El rendimiento del sistema debe ser aceptable en la mayoría de los escenarios.,RNF,1,RNF,1,0.991136,57.156,1
+El sistema debe ser lo suficientemente rápido para no incomodar al usuario.,RNF,1,RNF,1,0.995078,69.365,1
+El tiempo de procesamiento de una tarea con fecha límite no debe superar los 5 segundos bajo carga normal.,RNF,1,RNF,1,0.971427,80.594,1
+El sistema necesita realizar copias de seguridad automáticas de un curso virtual con frecuencia diaria.,RNF,1,RNF,1,0.890502,68.668,3
+El sistema necesita bloquear el acceso tras 3 intentos fallidos de autenticación consecutivos.,RNF,1,RNF,1,0.929213,62.564,2
+Las consultas sobre una receta electrónica tienen que completarse en un tiempo inferior a 2 segundos en el 95% de los casos.,RNF,1,RNF,1,0.98435,62.969,2
+El sistema tiene que cifrar la información de una cita médica utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.718373,62.595,2
+El sistema necesita soportar al menos 2000 usuarios concurrentes sin degradar su tiempo de respuesta.,RNF,1,RNF,1,0.99082,70.263,1
+El sistema necesita permitir completar la operación de una alerta de saldo mínimo en no más de 3 pasos.,RNF,1,RNF,1,0.900115,63.914,2
+El sistema tiene que bloquear el acceso tras 5 intentos fallidos de autenticación consecutivos.,RNF,1,RNF,1,0.941617,61.991,2
+El sistema necesita permitir completar la operación de una tarjeta de débito virtual en no más de 5 pasos.,RNF,1,RNF,1,0.958193,66.12,1
+El tiempo de procesamiento de un pedido nuevo no debe superar los 3 segundos bajo carga normal.,RNF,1,RNF,1,0.986911,62.422,1
+El sistema está obligado a registrar en una bitácora de auditoría todo intento de acceso no autorizado a una receta electrónica.,RNF,1,RNF,1,0.785813,69.185,2
+El sistema está obligado a permitir completar la operación de un cupón de descuento en no más de 4 pasos.,RNF,1,RNF,1,0.762081,64.479,3
+El sistema está obligado a bloquear el acceso tras 5 intentos fallidos de autenticación consecutivos.,RNF,1,RNF,1,0.955526,63.245,2
+El sistema necesita realizar copias de seguridad automáticas de un cupón de descuento con frecuencia diaria.,RNF,1,RNF,1,0.696277,62.86,3
+El sistema tiene que garantizar una disponibilidad del 99% medida de forma mensual.,RNF,1,RNF,1,0.849807,53.163,3
+Las consultas sobre una rúbrica de evaluación tienen que completarse en un tiempo inferior a 4 segundos en el 95% de los casos.,RNF,1,RNF,1,0.966889,73.247,2
+El sistema debe realizar copias de seguridad automáticas de un plan de pagos con frecuencia diaria.,RNF,1,RNF,1,0.864592,63.303,3
+El sistema debe registrar en una bitácora de auditoría todo intento de acceso no autorizado a una rúbrica de evaluación.,RNF,1,RNF,1,0.653545,67.446,2
+El sistema deberá permitir completar la operación de una tarea con fecha límite en no más de 3 pasos.,RNF,1,RNF,1,0.857942,63.218,2
+El sistema está obligado a permitir completar la operación de una rúbrica de evaluación en no más de 5 pasos.,RNF,1,RNF,1,0.869932,79.259,2
+El sistema está obligado a cifrar la información de un plan de pagos utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.805151,77.885,3
+El sistema deberá soportar al menos 500 usuarios concurrentes sin degradar su tiempo de respuesta.,RNF,1,RNF,1,0.990106,70.64,1
+El sistema tiene que permitir completar la operación de una lista de productos favoritos en no más de 5 pasos.,RNF,1,RNF,1,0.881688,86.743,1
+El sistema debe soportar al menos 1000 usuarios concurrentes sin degradar su tiempo de respuesta.,RNF,1,RNF,1,0.991747,72.169,1
+Toda comunicación entre el cliente y el servidor debe realizarse mediante el protocolo HTTPS.,RNF,1,RNF,1,0.993439,102.748,1
+El sistema deberá soportar al menos 200 usuarios concurrentes sin degradar su tiempo de respuesta.,RNF,1,RNF,1,0.990038,92.723,1
+El sistema tiene que ofrecer un nivel adecuado de protección de datos.,RNF,1,RNF,1,0.991776,67.825,1
+Las consultas sobre una cuenta de ahorros tienen que completarse en un tiempo inferior a 2 segundos en el 95% de los casos.,RNF,1,RNF,1,0.980123,80.897,2
+El sistema deberá permitir completar la operación de una matrícula para el nuevo período en no más de 4 pasos.,RNF,1,RNF,1,0.801793,78.207,3
+Los datos sensibles de una rúbrica de evaluación tienen que almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.951595,78.386,1
+El sistema debe registrar en una bitácora de auditoría todo intento de acceso no autorizado a un plan de pagos.,RNF,1,RNF,1,0.704451,94.411,2
+La interfaz debe ser comprensible para usuarios sin experiencia técnica previa.,RNF,1,RNF,1,0.982929,83.76,1
+El sistema debe soportar al menos 2000 usuarios concurrentes sin degradar su tiempo de respuesta.,RNF,1,RNF,1,0.991639,93.939,1
+El sistema está obligado a permitir completar la operación de un grupo de trabajo colaborativo en no más de 3 pasos.,RNF,1,RNF,1,0.938149,71.037,2
+El sistema necesita cifrar la información de un plan de tratamiento utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.805756,63.438,2
+El sistema deberá recuperarse ante una falla crítica en un tiempo máximo de 15 minutos.,RNF,1,RNF,1,0.957571,52.093,3
+El sistema tiene que recuperarse ante una falla crítica en un tiempo máximo de 5 minutos.,RNF,1,RNF,1,0.96603,68.426,3
+El sistema está obligado a realizar copias de seguridad automáticas de una orden de laboratorio con frecuencia diaria.,RNF,1,RNF,1,0.875585,104.244,2
+El sistema tiene que registrar en una bitácora de auditoría todo intento de acceso no autorizado a una tarjeta de débito virtual.,RNF,1,RNF,1,0.691848,92.0,2
+El sistema necesita permitir completar la operación de una lista de productos favoritos en no más de 4 pasos.,RNF,1,RNF,1,0.876065,69.157,1
+El sistema deberá realizar copias de seguridad automáticas de una rúbrica de evaluación con frecuencia diaria.,RNF,1,RNF,1,0.701143,77.883,3
+El sistema tiene que cifrar la información de un curso virtual utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.821278,78.493,2
+El sistema necesita cifrar la información de una lista de productos favoritos utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.672346,62.261,3
+El sistema necesita realizar copias de seguridad automáticas de una cita médica con frecuencia diaria.,RNF,1,RNF,1,0.896055,54.459,3
+El tiempo de procesamiento de una solicitud de crédito no debe superar los 5 segundos bajo carga normal.,RNF,1,RNF,1,0.981031,58.567,1
+Las consultas sobre una tarea con fecha límite deben completarse en un tiempo inferior a 5 segundos en el 95% de los casos.,RNF,1,RNF,1,0.980468,65.219,1
+El sistema debe permitir completar la operación de una lista de productos favoritos en no más de 5 pasos.,RNF,1,RNF,1,0.894807,59.928,1
+El sistema tiene que responder a las solicitudes del usuario en un máximo de 4 segundos.,RNF,1,RNF,1,0.990711,54.156,1
+El sistema está obligado a permitir completar la operación de un plan de tratamiento en no más de 3 pasos.,RNF,1,RNF,1,0.900905,61.208,2
+El sistema tiene que registrar en una bitácora de auditoría todo intento de acceso no autorizado a una rúbrica de evaluación.,RNF,1,RNF,1,0.652851,65.182,2
+El sistema debe permitir completar la operación de una orden de laboratorio en no más de 5 pasos.,RNF,1,RNF,1,0.933027,59.083,1
+Los datos sensibles de una receta electrónica tienen que almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.967623,59.343,1
+El sistema deberá permitir completar la operación de una tarjeta de débito virtual en no más de 5 pasos.,RNF,1,RNF,1,0.967823,56.861,1
+El sistema debe realizar copias de seguridad automáticas de una lista de productos favoritos con frecuencia diaria.,RNF,1,RNF,1,0.874981,58.033,2
+Los mensajes de error debe explicar de forma clara la causa del problema y una posible solución.,RNF,1,RNF,1,0.822014,60.465,2
+El sistema está obligado a responder a las solicitudes del usuario en un máximo de 2 segundos.,RNF,1,RNF,1,0.989254,74.482,1
+La interfaz deberá ser comprensible para usuarios sin experiencia técnica previa.,RNF,1,RNF,1,0.973973,73.476,1
+"En caso de mantenimiento programado, el sistema debe notificar a los usuarios con al menos 72 horas de anticipación.",RNF,1,RNF,1,0.840573,98.884,3
+El sistema tiene que recuperarse ante una falla crítica en un tiempo máximo de 10 minutos.,RNF,1,RNF,1,0.963785,58.849,2
+El sistema está obligado a garantizar una disponibilidad del 99.9% medida de forma mensual.,RNF,1,RNF,1,0.910438,60.399,3
+La usabilidad del sistema debe ser buena para la mayoría de los usuarios.,RNF,1,RNF,1,0.996462,56.93,1
+El tiempo de procesamiento de un grupo de trabajo colaborativo no debe superar los 4 segundos bajo carga normal.,RNF,1,RNF,1,0.94351,61.295,2
+El sistema necesita responder a las solicitudes del usuario en un máximo de 2 segundos.,RNF,1,RNF,1,0.990405,65.143,1
+El sistema deberá permitir completar la operación de un plan de tratamiento en no más de 3 pasos.,RNF,1,RNF,1,0.888715,79.351,3
+El sistema tiene que garantizar una disponibilidad del 99.9% medida de forma mensual.,RNF,1,RNF,1,0.926341,82.097,3
+El sistema tiene que permitir completar la operación de una tarea con fecha límite en no más de 4 pasos.,RNF,1,RNF,1,0.824206,75.84,2
+El sistema tiene que responder a las solicitudes del usuario en un máximo de 3 segundos.,RNF,1,RNF,1,0.990168,62.667,1
+"El sistema deberá estar disponible casi todo el tiempo, salvo situaciones excepcionales.",RNF,1,RNF,1,0.982423,55.795,2
+La aplicación debe cargar en un tiempo prudente según las condiciones de red.,RNF,1,RNF,1,0.985938,53.828,1
+"El sistema debe ser accesible para personas con discapacidad visual, conforme a las pautas WCAG 2.1.",RNF,1,RNF,1,0.955829,72.461,3
+"En caso de mantenimiento programado, el sistema tiene que notificar a los usuarios con al menos 24 horas de anticipación.",RNF,1,RNF,1,0.877153,82.734,3
+El sistema tiene que responder a las solicitudes del usuario en un máximo de 2 segundos.,RNF,1,RNF,1,0.989675,65.259,1
+El sistema está obligado a permitir completar la operación de un plan de tratamiento en no más de 4 pasos.,RNF,1,RNF,1,0.897504,62.472,2
+"En caso de mantenimiento programado, el sistema debe notificar a los usuarios con al menos 48 horas de anticipación.",RNF,1,RNF,1,0.828597,78.227,3
+El sistema debe permitir completar la operación de un grupo de trabajo colaborativo en no más de 5 pasos.,RNF,1,RNF,1,0.949654,71.026,1
+El sistema necesita permitir completar la operación de un grupo de trabajo colaborativo en no más de 4 pasos.,RNF,1,RNF,1,0.93427,87.2,1
+Las consultas sobre un plan de tratamiento tienen que completarse en un tiempo inferior a 5 segundos en el 95% de los casos.,RNF,1,RNF,1,0.980904,82.463,2
+El tiempo de procesamiento de un pedido nuevo no debe superar los 5 segundos bajo carga normal.,RNF,1,RNF,1,0.987324,65.467,1
+El sistema está obligado a cifrar la información de una tarea con fecha límite utilizando el algoritmo AES-256.,RNF,1,RNF,1,0.59453,74.569,3
+"En caso de mantenimiento programado, el sistema deberá notificar a los usuarios con al menos 24 horas de anticipación.",RNF,1,RNF,1,0.810936,64.32,3
+El sistema está obligado a responder a las solicitudes del usuario en un máximo de 3 segundos.,RNF,1,RNF,1,0.9902,60.058,1
+El sistema tiene que permitir completar la operación de un cupón de descuento en no más de 3 pasos.,RNF,1,RNF,1,0.824355,60.161,2
+Las consultas sobre una solicitud de crédito deberán completarse en un tiempo inferior a 5 segundos en el 95% de los casos.,RNF,1,RNF,1,0.982148,68.005,1
+El sistema deberá responder a las solicitudes del usuario en un máximo de 3 segundos.,RNF,1,RNF,1,0.986979,55.159,1
+"El sistema está obligado a ser accesible para personas con discapacidad visual, conforme a las pautas WCAG 2.1.",RNF,1,RNF,1,0.960354,65.271,2
+El sistema necesita realizar copias de seguridad automáticas de una matrícula para el nuevo período con frecuencia diaria.,RNF,1,RNF,1,0.782529,57.991,3
+Las consultas sobre un cupón de descuento deben completarse en un tiempo inferior a 5 segundos en el 95% de los casos.,RNF,1,RNF,1,0.979711,73.089,2
+Las consultas sobre un plan de tratamiento tienen que completarse en un tiempo inferior a 4 segundos en el 95% de los casos.,RNF,1,RNF,1,0.979821,68.431,2
+El sistema deberá garantizar una disponibilidad del 99% medida de forma mensual.,RNF,1,RNF,1,0.815679,75.554,3
+El sistema debe soportar al menos 500 usuarios concurrentes sin degradar su tiempo de respuesta.,RNF,1,RNF,1,0.992221,67.905,1
+La interfaz deberá ser amigable y fácil de usar en general.,RNF,1,RNF,1,0.996004,73.772,1
+El sistema necesita garantizar una disponibilidad del 99.5% medida de forma mensual.,RNF,1,RNF,1,0.979782,57.185,1
+"En caso de mantenimiento programado, el sistema deberá notificar a los usuarios con al menos 48 horas de anticipación.",RNF,1,RNF,1,0.805987,76.628,3
+El sistema tiene que permitir completar la operación de una tarea con fecha límite en no más de 5 pasos.,RNF,1,RNF,1,0.842969,81.494,2
+Los datos sensibles de un cupón de descuento deberán almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.877425,81.672,2
+El sistema deberá realizar copias de seguridad automáticas de un plan de pagos con frecuencia diaria.,RNF,1,RNF,1,0.81643,107.863,3
+El sistema deberá responder a las solicitudes del usuario en un máximo de 4 segundos.,RNF,1,RNF,1,0.987892,79.636,1
+Los datos sensibles de un registro de alergias del paciente deben almacenarse cifrados tanto en tránsito como en reposo.,RNF,1,RNF,1,0.973029,111.912,1
+El sistema necesita garantizar una disponibilidad del 99.9% medida de forma mensual.,RNF,1,RNF,1,0.982846,101.277,1
+El sistema tiene que recuperarse ante una falla crítica en un tiempo máximo de 15 minutos.,RNF,1,RNF,1,0.961781,92.699,3
+El sistema está obligado a realizar copias de seguridad automáticas de un cupón de descuento con frecuencia diaria.,RNF,1,RNF,1,0.551057,147.24,3
+"El sistema tiene que ser accesible para personas con discapacidad visual, conforme a las pautas WCAG 2.1.",RNF,1,RNF,1,0.960785,160.981,1
+El sistema tiene que permitir completar la operación de una reseña de producto en no más de 4 pasos.,RNF,1,RNF,1,0.770268,117.913,2
+El sistema deberá recuperarse ante una falla crítica en un tiempo máximo de 10 minutos.,RNF,1,RNF,1,0.960229,102.905,2
+El sistema está obligado a permitir completar la operación de una cita médica en no más de 5 pasos.,RNF,1,RNF,1,0.859992,117.804,2

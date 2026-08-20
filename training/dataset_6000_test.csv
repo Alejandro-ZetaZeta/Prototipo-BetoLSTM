@@ -1,0 +1,896 @@
+text,label,source
+User shall be able to view the customer homepage after logging in.,1,Dataset6000Req.xlsx
+System shall store new class attributes. (Level 1),0,Dataset6000Req.xlsx
+The subscription will end if the user does not respond to the subscription package within the allotted time frame.,1,Dataset6000Req.xlsx
+The system shall allow users to comment on posts they like.,0,Dataset6000Req.xlsx
+The system shall allow camp administrators to send mass notifications to parents.,0,Dataset6000Req.xlsx
+System shall verify the user's social media account details and share the video link.,0,Dataset6000Req.xlsx
+The system shall be user-friendly and easy to navigate for users with varying technical skills.,1,Dataset6000Req.xlsx
+The system shall support the English language.,0,Dataset6000Req.xlsx
+A server shall host the RMOS and provide system data processing and storage capability.,0,Dataset6000Req.xlsx
+The system will be designed in such a way that the algorithms for the four main units will be able to be easily swapped out.,1,Dataset6000Req.xlsx
+"User shall be able to access all stored data, including student details, faculty members details, student queries and solutions, and course information, from a single centralized database.",0,Dataset6000Req.xlsx
+The system will employ on demand asynchronous loading for faster execution of pages.,1,Dataset6000Req.xlsx
+"The system shall sense any music playing, create an audio fingerprint, and compare it against the database.",0,Dataset6000Req.xlsx
+The user shall be able to play or learn about Mahjong.,1,Dataset6000Req.xlsx
+The police will then investigate the complaint based on evidence and facts.,0,Dataset6000Req.xlsx
+"System dependability ensures users are informed of any issues for trusted system performance , measured during testing and prioritized highly.",1,Dataset6000Req.xlsx
+System shall mark the book status as Not Available when the book stock is unavailable.,0,Dataset6000Req.xlsx
+User shall have the option to rate or review content.,0,Dataset6000Req.xlsx
+"The CO will be able to pick up tiles off the wall, discard tiles, reveal Kongs, and Chow/Pung/Kong/Mahjong.",0,Dataset6000Req.xlsx
+The system shall provide clear and informative messages to users.,1,Dataset6000Req.xlsx
+Software tools and pre-built applications that do not have source code available shall come with a complete diagnostic package and customer support.,1,Dataset6000Req.xlsx
+A Program Administrator/Nursing Staff Member shall be able to add a new nursing student to the system.,0,Dataset6000Req.xlsx
+"The LMS shall generate daily reports for librarians based on requests, aiding in decision-making regarding item acquisition or retirement.",0,Dataset6000Req.xlsx
+User shall utilize Client ID and Demat account number for quick data retrieval.,0,Dataset6000Req.xlsx
+The system shall minimize user errors and make error recovery effortless.,1,Dataset6000Req.xlsx
+HPIMS shall allow users to update any patient information as necessary.,0,Dataset6000Req.xlsx
+"If the validation succeeds, user shall be redirected to the authorized-user-home page.",0,Dataset6000Req.xlsx
+The system shall be capable of supporting multiple languages for user interface and data presentation.,1,Dataset6000Req.xlsx
+A user shall be able to search for courses using keywords.,0,Dataset6000Req.xlsx
+The system shall determine when Zoonibot should comment or provide explanations to volunteers.,0,Dataset6000Req.xlsx
+The graphics card shall support OpenGL version 4.x.,0,Dataset6000Req.xlsx
+"The user can manipulate and view department details, including department and description.",0,Dataset6000Req.xlsx
+Account balance display time must not exceed 2 seconds under normal workload and 3 seconds under peak workload.,1,Dataset6000Req.xlsx
+System shall ensure visibility of sponsors associated with summits.,1,Dataset6000Req.xlsx
+The system shall allow researchers to generate citations and share links to files.,0,Dataset6000Req.xlsx
+The system shall respond to user actions within a reasonable timeframe.,1,Dataset6000Req.xlsx
+Administrator shall view submitted leave requests and take appropriate action.,0,Dataset6000Req.xlsx
+System shall provide professional video and photo editing tools within the VivaVideo app.,0,Dataset6000Req.xlsx
+System shall maintain updated descriptions of datasets throughout the project lifecycle.,0,Dataset6000Req.xlsx
+System shall be able to provide access to transaction history and available balance for account holders.,0,Dataset6000Req.xlsx
+"Users can enable email confirmation for username or password changes, requiring a click to finalize the update.",0,Dataset6000Req.xlsx
+The user shall be able to submit their school start time.,0,Dataset6000Req.xlsx
+User shall be able to view video details such as video length and size by entering the video name.,0,Dataset6000Req.xlsx
+The TCS shall allow the operator to control an AV using the LOS as well as SATCOM data links.,0,Dataset6000Req.xlsx
+Passwords shall be 6-14 characters long and not contain the user's name.,1,Dataset6000Req.xlsx
+System shall enable the administrator to manage the database and track all customer and employee records.,0,Dataset6000Req.xlsx
+Third field will be time of task completion.,0,Dataset6000Req.xlsx
+"The server shall be capable of supporting no less than 200 concurrent connections from any combination of computers, tablets and displays.",1,Dataset6000Req.xlsx
+The system shall use a commercial database and an application server to maintain the database and site.,1,Dataset6000Req.xlsx
+The system shall be able to process inter-faculty transfer requests initiated by authorized users and approved by faculty groups or higher levels.,0,Dataset6000Req.xlsx
+System shall facilitate product purchases using valid credit card information provided by customers.,0,Dataset6000Req.xlsx
+System shall display a satellite map view in the application.,0,Dataset6000Req.xlsx
+Autoresponder messages shall be sent for new account notifications.,0,Dataset6000Req.xlsx
+Users who create a new game will be able to change the ability level of any CO involved in the game.,0,Dataset6000Req.xlsx
+"The system shall employ encryption for user data and financial transactions, following industry security standards.",1,Dataset6000Req.xlsx
+User shall be able to view and update the details of an existing symptom.,0,Dataset6000Req.xlsx
+A waiter shall only be able to log into one tablet at any given instance of time.,1,Dataset6000Req.xlsx
+Agency user shall have a better understanding of file-level errors to streamline data submission processes.,1,Dataset6000Req.xlsx
+"System shall be able to navigate from a POI to another location on the campus (which could be a building, street, etc.).",0,Dataset6000Req.xlsx
+System shall be able to update the user's location if they are found to be within the 1-mile radius.,0,Dataset6000Req.xlsx
+Recycling facility shall communicate directly with site admin to address any issues or concerns.,0,Dataset6000Req.xlsx
+"User shall provide name, date of birth, place of birth, and time of birth for reading details.",0,Dataset6000Req.xlsx
+User shall either keep log book entries private or share them with individuals.,0,Dataset6000Req.xlsx
+The system shall allow editing items in the estimation list.,0,Dataset6000Req.xlsx
+System shall generate a unique identifier for each registered complaint.,0,Dataset6000Req.xlsx
+System shall provide read-only access to archival descriptions.,0,Dataset6000Req.xlsx
+Customer shall able to favourite the restaurant,0,Dataset6000Req.xlsx
+User shall be able to send messages through the system.,0,Dataset6000Req.xlsx
+"The user shall be able to navigate the app intuitively, without requiring external instructions.",1,Dataset6000Req.xlsx
+Delivery boys shall start their shifts.,0,Dataset6000Req.xlsx
+The system shall be scalable to accommodate a growing volume of data and users.,1,Dataset6000Req.xlsx
+The system shall be able to display a dialogue box explaining the nature of the error for non-fatal errors.,1,Dataset6000Req.xlsx
+The tool shall keep a permanent record of any modifications made to fixed data.,0,Dataset6000Req.xlsx
+The system shall function in specific legacy browsers (Developer).,1,Dataset6000Req.xlsx
+The BE shall be able to apply normalizations based on reported data invalid counts.,0,Dataset6000Req.xlsx
+System shall offer detailed venue information for user understanding.,1,Dataset6000Req.xlsx
+Crafty kids corner shall incorporate interactive elements to keep children interested and entertained.,1,Dataset6000Req.xlsx
+The system shall be available to all instructors through Information Systems during their normal hours of operation.,1,Dataset6000Req.xlsx
+"The system shall be a web application deployable on Microsoft or Unix platforms and accessible through browsers like IE, Firefox, Chrome, Opera, or Safari.",1,Dataset6000Req.xlsx
+"System shall facilitate quick access to desired content, enabling users to find what they are looking for effortlessly.",1,Dataset6000Req.xlsx
+System shall use secure sockets for all transactions involving confidential customer information.,1,Dataset6000Req.xlsx
+The TCS shall provide the necessary system capabilities required for AV flight control BLOS via uplink command to two MAE air vehicles.,0,Dataset6000Req.xlsx
+First field will be add task name.,0,Dataset6000Req.xlsx
+"User shall be able to browse items including pictures, prices, and other features.",0,Dataset6000Req.xlsx
+A moderator shall be able to assign the maximum number of participants to a session.,0,Dataset6000Req.xlsx
+The system shall display the searched information to the user.,0,Dataset6000Req.xlsx
+"System shall facilitate the process of adding, removing, and managing items in the shopping cart during transactions.",0,Dataset6000Req.xlsx
+Restaurants shall receive acknowledgment from delivery boys.,0,Dataset6000Req.xlsx
+"User shall be able to create requests to borrow assets or reserve locations, with requests made by any authorized user and pending approval from an administrative level user.",0,Dataset6000Req.xlsx
+"User shall benefit from regular vulnerability assessments, security audits, and penetration testing to identify and remediate security vulnerabilities in the app's codebase and infrastructure.",1,Dataset6000Req.xlsx
+System shall verify the password during installation to ensure the antivirus copy is valid.,0,Dataset6000Req.xlsx
+User shall be able to use a barcode scanner or manual entry for sales processes.,0,Dataset6000Req.xlsx
+User shall be able to efficiently store and retrieve data in MySQL databases.,0,Dataset6000Req.xlsx
+Adobe Creative Cloud shall provide access to Adobe Illustrator CC during the activation process.,0,Dataset6000Req.xlsx
+The system shall provide PDF files of answer keys.,0,Dataset6000Req.xlsx
+A sale transaction authorizes and settles the requested amount against the indicated payment method.,0,Dataset6000Req.xlsx
+The system shall utilise periodic 30-second keep-alive messages between tablets and the server to monitor tablet operational status.,1,Dataset6000Req.xlsx
+"While sound is not essential, it can be considered for future versions of the system. In these future variants, the user shall be greeted by their name upon swiping their card against the reader-writer terminal.",0,Dataset6000Req.xlsx
+A tablet shall allow a waiter to indicate the delivery of an item to its customer.,0,Dataset6000Req.xlsx
+The system shall provide a help link that downloads a user manual and projects it onto the screen when users encounter difficulty using the program.,0,Dataset6000Req.xlsx
+System shall track and record audit events.,0,Dataset6000Req.xlsx
+User shall be able to click on an address to open Google Maps in a new tab.,0,Dataset6000Req.xlsx
+Users must be prompted to change their PIN on first use for security.,1,Dataset6000Req.xlsx
+The software will support simultaneous user acces only if there are multiple terminals.,0,Dataset6000Req.xlsx
+User shall have access to clear instructions and post-sales service for using ALFRED.,0,Dataset6000Req.xlsx
+"System shall be able to send a message ""invalid user account"" to the central system for an invalid user account.",0,Dataset6000Req.xlsx
+Each student shall only be recruited by one company.,1,Dataset6000Req.xlsx
+System shall load the data corresponding to the particular passport reference number.,0,Dataset6000Req.xlsx
+"User shall input the current car status ('rented', 'gone to repair', 'available').",0,Dataset6000Req.xlsx
+The system shall be available 99.5% of the time.,1,Dataset6000Req.xlsx
+"Users shall view a detailed log of all their past trades, including date, price, and quantity.",0,Dataset6000Req.xlsx
+The system shall retrieve and save database backups in case of hardware failure or database corruption and restart the service to ensure 24/7 availability.,1,Dataset6000Req.xlsx
+System shall facilitate easy signup for the BADCamp newsletter.,1,Dataset6000Req.xlsx
+User shall be able to plan the types of data to record and store for the project.,0,Dataset6000Req.xlsx
+The system shall be scalable to accommodate increasing document volumes without performance degradation.,1,Dataset6000Req.xlsx
+System shall enable connection of USB peripheral devices through USB slots.,1,Dataset6000Req.xlsx
+The user shall be able to view their Class Schedule and Holidays Schedule in the main screen of this module.,0,Dataset6000Req.xlsx
+The system shall provide a match-making service to connect data owners with packagers.,0,Dataset6000Req.xlsx
+The system shall allow listing and browsing of object components by users and repository managers.,0,Dataset6000Req.xlsx
+Managers shall have the ability to reset passwords.,0,Dataset6000Req.xlsx
+The GUI will have a textbox that will accept inputs from a keyboard.,0,Dataset6000Req.xlsx
+User shall be able to access the employee homepage upon login.,1,Dataset6000Req.xlsx
+"User shall transcribe spoken language input into text format before initiating the translation process, enabling instant translations for conversations and voice commands.",0,Dataset6000Req.xlsx
+"User shall be able to sign up as a student, admin, or company.",0,Dataset6000Req.xlsx
+System shall validate temperature data from thermostats to ensure it is within specified range.,0,Dataset6000Req.xlsx
+System shall prevent saving edits to a task unless a task is selected first.,0,Dataset6000Req.xlsx
+There shall be a feature to locate affiliated cinemas based on user's location for a chosen day.,0,Dataset6000Req.xlsx
+Purchase managers shall manage product stocks.,0,Dataset6000Req.xlsx
+Users shall be able to provide ratings and comments about their trading partners.,0,Dataset6000Req.xlsx
+"In-game option to halt gameplay shall be provided, allowing access to fields displayed on the title screen.",0,Dataset6000Req.xlsx
+Clear instructions and tooltips shall be provided where necessary to guide users through different features and processes.,1,Dataset6000Req.xlsx
+"The command-line interface shall have a response time of less than 5 seconds, ensuring efficient user interaction.",1,Dataset6000Req.xlsx
+A customer shall be able to navigate through the available items in their engaged menu.,0,Dataset6000Req.xlsx
+"System shall ensure that the V Mart website is user-friendly for non-technical users, regardless of its size.",1,Dataset6000Req.xlsx
+Users shall not encounter any interruptions or issues when resetting a password.,1,Dataset6000Req.xlsx
+The system shall remotely monitor the status and operational changes of wind power plant and network devices.,0,Dataset6000Req.xlsx
+System shall allow users to select other TU/e related Facebook sites from a list upon starting the Facebook app.,0,Dataset6000Req.xlsx
+System shall require shop owners to obtain permission from the administrator before selling products.,0,Dataset6000Req.xlsx
+System shall display embargo status and release date for items.,0,Dataset6000Req.xlsx
+User shall be able to print the invoice.,0,Dataset6000Req.xlsx
+"User shall/will be able to access customer support through the system, including email or chat.",0,Dataset6000Req.xlsx
+"User shall be able to zoom in or out by clicking the ""Zoom In"" or ""Zoom Out"" button.",0,Dataset6000Req.xlsx
+The ASPERA-3 and MEX OA IDFS data sets shall be stored on a local SwRI archive,0,Dataset6000Req.xlsx
+"The system shall provide various formatting options for text, images, and other content elements on slides.",0,Dataset6000Req.xlsx
+"User shall be able to rely on the system's redundancy measures, ensuring the reliability of data storage and minimizing the risk of data loss.",1,Dataset6000Req.xlsx
+The system shall allow publishers to preview data package views before publishing.,0,Dataset6000Req.xlsx
+User shall be able to list all students enrolled in a specific year.,0,Dataset6000Req.xlsx
+System shall allow selecting the from-location from the search results obtained based on requirements UCAR211 and UCAR212 (presumably for building and POI searches).,0,Dataset6000Req.xlsx
+The system shall prioritize WiFi connection and automatically switch to mobile network when WiFi is unavailable.,1,Dataset6000Req.xlsx
+The graphics card should ensure smoother and faster operation for graphic rendering and complex vector calculations (benefit).,1,Dataset6000Req.xlsx
+The system shall automatically delineate measures within a score.,0,Dataset6000Req.xlsx
+The system shall support Unicode characters (User).,1,Dataset6000Req.xlsx
+System shall display the categories available to the user.,0,Dataset6000Req.xlsx
+"User shall log out by clicking a button, with the session terminated and redirection to the home page.",0,Dataset6000Req.xlsx
+The system shall be able to display a printable summary for individual nursing students which will include (but not be limited to) student name student ID admission date classes credits GPA and the cohort that the student is enrolled in.,0,Dataset6000Req.xlsx
+System shall support LDAP authentication for user login.,0,Dataset6000Req.xlsx
+The system shall be able to translate user requests to turn on/off heating or cooling units into corresponding control commands.,0,Dataset6000Req.xlsx
+User shall be able to access detailed context-sensitive help material for all actions and scenarios.,1,Dataset6000Req.xlsx
+The system shall allow publishers to tag data packages to create snapshots.,0,Dataset6000Req.xlsx
+User shall be able to provide ratings for videos by clicking on ratings and receive confirmation that the rating was submitted.,0,Dataset6000Req.xlsx
+"System shall be able to display an element from the search result (buildings or POIs) in the map view, following requirements UCAR201, UCAR202, and UCAR203.",0,Dataset6000Req.xlsx
+The system shall include backup and disaster recovery mechanisms to safeguard against data loss.,1,Dataset6000Req.xlsx
+User shall be able to check for account-related issues.,0,Dataset6000Req.xlsx
+The MultiMahjongClient will save the user preferences in a file and read them in when the program begins.,0,Dataset6000Req.xlsx
+The computer shall have a processor that supports 64-bit architecture (multicore Intel or AMD Athlon 64).,0,Dataset6000Req.xlsx
+The system shall allow the mediator to negotiate a meeting date.,0,Dataset6000Req.xlsx
+System shall provide user activity reports.,0,Dataset6000Req.xlsx
+"The system shall conditionally display a launcher to the Encyclopedia-app on the main menu, only when the Dutch language is selected.",0,Dataset6000Req.xlsx
+The system shall operate smoothly and respond to user actions with minimal delay.,1,Dataset6000Req.xlsx
+System shall support EAD import functionality accessible from the frontend.,0,Dataset6000Req.xlsx
+System will confirm the successful submission of the verification code.,0,Dataset6000Req.xlsx
+System shall be able to check if the withdrawal amount is within transaction limits and display the amount to be dispensed.,0,Dataset6000Req.xlsx
+The BE System shall be capable of delivering an output data stream to the e2e System of a minimum of 25 MBytes/sec,1,Dataset6000Req.xlsx
+Admin shall have access to a dashboard monitoring all site statuses and user activities.,1,Dataset6000Req.xlsx
+System shall display search options to the user.,0,Dataset6000Req.xlsx
+The user shall be able to get driving directions to a selected property.,0,Dataset6000Req.xlsx
+"The system shall support multiple languages for user interface elements, potentially including multilingual ebooks.",1,Dataset6000Req.xlsx
+User shall have access to handicap-friendly features for improved accessibility.,1,Dataset6000Req.xlsx
+"User shall experience evenly distributed translation requests across multiple servers through load balancing strategies, optimizing resource allocation and scalability.",1,Dataset6000Req.xlsx
+The system shall allow registered users to log in using their credentials.,0,Dataset6000Req.xlsx
+A surface computer shall provide a customer with all customer system functionality.,0,Dataset6000Req.xlsx
+The configuration window shall have a button labeled Recall that will permit the user to recall a disk file of previously saved parameters from which to populate the configuration window.,0,Dataset6000Req.xlsx
+System shall provide a user-friendly web interface for depositors to submit and manage datasets without requiring additional software installation.,0,Dataset6000Req.xlsx
+System shall provide a shopping bag feature during online purchase.,0,Dataset6000Req.xlsx
+The application shall maintain a list of classes for the user.,0,Dataset6000Req.xlsx
+The system shall allow publishers to overwrite previously tagged data packages.,0,Dataset6000Req.xlsx
+"The system shall display information about people, products, brands, and broadcaster logos identified in videos.",0,Dataset6000Req.xlsx
+The user shall select the edit task option.,0,Dataset6000Req.xlsx
+"For data with enough structuring, web scraping will be used to programmatically extract all the data needed and store it in our database.",0,Dataset6000Req.xlsx
+"The system shall allow staff members to search for property information, including owners, permits, and applications.",0,Dataset6000Req.xlsx
+The system shall allow archivists to search images by various criteria.,0,Dataset6000Req.xlsx
+FABS user shall see correct status labels on the Submission Dashboard.,0,Dataset6000Req.xlsx
+The system shall facilitate secure purchase of ebooks and manage downloads with progress indicators.,0,Dataset6000Req.xlsx
+The user shall be able to register on the website before booking tickets.,0,Dataset6000Req.xlsx
+The TCS shall provide a graphical user interface display for the purpose of controlling the payload,0,Dataset6000Req.xlsx
+"All system processing and interconnect hardware shall be readily accessible for maintenance, repair, replacement and/or reconfiguration.",1,Dataset6000Req.xlsx
+User shall interact with astrologers through calls or chats by selecting required time and type of interaction.,0,Dataset6000Req.xlsx
+System shall adopt a flexible service-based architecture to support future expansion and scalability.,1,Dataset6000Req.xlsx
+The system shall assess volunteer classification weight based on experience.,0,Dataset6000Req.xlsx
+User shall input their email and password.,0,Dataset6000Req.xlsx
+A tablet shall be capable of interfacing with a register to facilitate the accurate processing of a payment.,0,Dataset6000Req.xlsx
+System shall notify the seller about the delivery of the product to the consumer.,0,Dataset6000Req.xlsx
+"In the Twitter settings menu, the system shall allow the user to delete their saved username and password for Twitter.",0,Dataset6000Req.xlsx
+User shall be able to send status reports to the finance and legal contract department through the Life Insurance System interface.,0,Dataset6000Req.xlsx
+"In games, players shall be able to peek, fire, view maps, use vehicles, revive others, and use emotes for conversation.",0,Dataset6000Req.xlsx
+The client will specify the header Content-Type: application/json in their requests as convention.,0,Dataset6000Req.xlsx
+"User shall be able to view and share friends' stories and global content, with options to take screenshots or report inappropriate content.",0,Dataset6000Req.xlsx
+The system shall be secure and protect user privacy by following data security best practices.,1,Dataset6000Req.xlsx
+"User shall be able to be added to a training waitlist, to be considered for a class.",0,Dataset6000Req.xlsx
+"User shall be able to interact with the text-based command-line interface of the system, which is provided as a method of interaction for users and administrators.",0,Dataset6000Req.xlsx
+Only textual information will be handled by the software.,0,Dataset6000Req.xlsx
+User shall be able to purchase credits using credit card or PayPal account.,0,Dataset6000Req.xlsx
+System shall encrypt transactions to protect them from unauthorized interception.,1,Dataset6000Req.xlsx
+"System shall provide notifications for new incoming emails, calendar events, and other relevant updates.",0,Dataset6000Req.xlsx
+"The system shall allow administrators to create user groups, roles, assign users, and manage access rights.",0,Dataset6000Req.xlsx
+User shall be able to create groups of contacts and broadcast messages to these groups.,0,Dataset6000Req.xlsx
+The system ensures the security of personal health data to prevent unauthorized disclosure.,1,Dataset6000Req.xlsx
+The user shall be able to filter their view by Academic Year/Term or Current.,0,Dataset6000Req.xlsx
+"The system (Microsoft Excel) shall allow users to enter various data types including numbers, text, dates, and formulas.",0,Dataset6000Req.xlsx
+The user shall be able to set the class which an assignment belongs to.,0,Dataset6000Req.xlsx
+"User shall accommodate a minimum of 10,000 records of clients in the database.",1,Dataset6000Req.xlsx
+"User shall have their privacy protected through data anonymization techniques, encryption methods, and data masking mechanisms, ensuring confidentiality and reducing the risk of data breaches.",1,Dataset6000Req.xlsx
+Only teachers shall mark students' attendance; neither admin nor students shall do so.,1,Dataset6000Req.xlsx
+The system shall provide a clear workflow for collecting and analyzing responses.,0,Dataset6000Req.xlsx
+System shall validate email and phone numbers during signup to ensure uniqueness.,1,Dataset6000Req.xlsx
+"User must accept the cancellation terms with a checkbox, to be accountable.",0,Dataset6000Req.xlsx
+System shall monitor user attendance data and send notifications for tardiness or absences.,0,Dataset6000Req.xlsx
+The system shall react to user input for routine activities in two seconds or less.,1,Dataset6000Req.xlsx
+System shall be able to navigate between buildings on the campus.,0,Dataset6000Req.xlsx
+"User shall enjoy a versatile editing experience with various editing features including video collages, themes, music bank, and sound effects.",1,Dataset6000Req.xlsx
+FABS user shall download the uploaded FABS file for record-keeping and review purposes.,1,Dataset6000Req.xlsx
+The physical machine for the server will be determined by the Historical Society.,1,Dataset6000Req.xlsx
+"User shall receive adherence to SLAs for uptime and performance, including monitoring of database performance and alerts for potential issues.",1,Dataset6000Req.xlsx
+System shall facilitate access to persistent identifiers for datasets referenced in the DMP.,0,Dataset6000Req.xlsx
+The system shall validate credit cards against fraud.,1,Dataset6000Req.xlsx
+The user interface shall adhere to responsive design principles to ensure optimal viewing and interaction experience across various devices and screen sizes.,1,Dataset6000Req.xlsx
+System shall automatically log out users after a period of inactivity.,1,Dataset6000Req.xlsx
+"User shall search for potential employees by entering interests and preferences such as salary, location, job category, and profession.",0,Dataset6000Req.xlsx
+User shall be able to validate the user password.,0,Dataset6000Req.xlsx
+System shall enable users to export their stories to their gallery and share them directly to social media platforms with ease.,1,Dataset6000Req.xlsx
+The system shall accept the product ID and quantity of the newly arrived product as input.,0,Dataset6000Req.xlsx
+The user shall be able to end the game or return to the main menu by clicking with the mouse.,0,Dataset6000Req.xlsx
+The server shall have a higher clock frequency than core count (preferred).,1,Dataset6000Req.xlsx
+Admin shall handle all users' activities for efficient management.,1,Dataset6000Req.xlsx
+An email confirmation with original and new details will be dispatched upon confirmation of updates.,0,Dataset6000Req.xlsx
+User shall be able to connect to both Wi-Fi and mobile networks for seamless connectivity.,1,Dataset6000Req.xlsx
+"User shall be alerted if they input incorrect or invalid target calories, such as values below a certain threshold or excessively high values.",0,Dataset6000Req.xlsx
+The system shall be able to validate credit card in less than 2 seconds.,1,Dataset6000Req.xlsx
+The error recovery time shall be less than 10 seconds.,1,Dataset6000Req.xlsx
+The system shall allow users to upload videos.,0,Dataset6000Req.xlsx
+System shall maintain a record of court proceedings related to cases.,0,Dataset6000Req.xlsx
+The product shall be able to handle up to 1500 simultaneous users. The system shall perform with 1500 users as a time.,1,Dataset6000Req.xlsx
+System shall authenticate users using Django's authentication module and session-based authentication.,0,Dataset6000Req.xlsx
+System shall notify the device of issues with the account if the serial key is valid but there are account problems.,0,Dataset6000Req.xlsx
+Admins shall manage delivery boy details.,0,Dataset6000Req.xlsx
+"All system processing and interconnect hardware shall be readily accessible for maintenance, repair, replacement and/or reconfiguration",1,Dataset6000Req.xlsx
+The TCS shall have the capability to receive data from and control payloads on an AV that is being controlled from another TCS.,0,Dataset6000Req.xlsx
+The system shall allow parents to message their child's counselors.,0,Dataset6000Req.xlsx
+"User shall be able to see which summits they're signed up for, to confirm attendance.",0,Dataset6000Req.xlsx
+The system shall be available for use from the supermarket's opening time to its closing time.,1,Dataset6000Req.xlsx
+The user shall be able to see all the details of the Exam in this module.,0,Dataset6000Req.xlsx
+User shall be able to enter URL to access the homepage.,0,Dataset6000Req.xlsx
+Users can permanently delete their accounts and access to the system.,0,Dataset6000Req.xlsx
+"The system shall be designed to handle a load of 20,000 queries per day, particularly during peak traffic hours.",1,Dataset6000Req.xlsx
+The Moderator shall be able to send an email to warn users that the session is about to close.,0,Dataset6000Req.xlsx
+System shall support dataset deposition and management through integration with Virtual Research Environments and other familiar workflow tools.,0,Dataset6000Req.xlsx
+"Owner's input for updating the stocks shall be processed, and the database shall be updated accordingly.",0,Dataset6000Req.xlsx
+User shall be able to save a document of similar size within 0.5 seconds.,1,Dataset6000Req.xlsx
+"The chat window will contain all questions and answers from the current session, with a scroll bar if all messages can’t fit on the screen.",0,Dataset6000Req.xlsx
+"Authorized personnel only, such as admins, shall access private data, and users shall only view their user page with valid credentials.",1,Dataset6000Req.xlsx
+"User shall be able to identify and pay for a $350 company sponsorship, for easy sponsorship registration.",0,Dataset6000Req.xlsx
+"The different search options should be evident, simple and easy to understand.",1,Dataset6000Req.xlsx
+"System shall use AJAX calls for removing shortlisted properties, employing jQuery on the client side.",0,Dataset6000Req.xlsx
+The system shall provide marks information in PDF format.,0,Dataset6000Req.xlsx
+The system shall disclose security policies and practices to build user trust.,1,Dataset6000Req.xlsx
+Operating System software shall either have source code available or come with sufficient diagnostics and customer support.,1,Dataset6000Req.xlsx
+A moderator shall be able to enter in teasers.,0,Dataset6000Req.xlsx
+Jobs by email and email-a-friend features shall be available.,0,Dataset6000Req.xlsx
+The information and the search methods of the Student Handbook-app will be restricted depending on file format of the handbook-information.,1,Dataset6000Req.xlsx
+System shall handle over one thousand simultaneous user requests.,1,Dataset6000Req.xlsx
+Information on remaining job posting time and CV access shall be reportable.,0,Dataset6000Req.xlsx
+The system shall be able to perform basic and advanced searches on cases for police personnel through the Search module.,0,Dataset6000Req.xlsx
+The system shall allow staff members to create custom queries/reports for specific needs.,0,Dataset6000Req.xlsx
+A display shall offer delivery boys all system functionality.,0,Dataset6000Req.xlsx
+System shall allow System Administrators to configure the location of the demo database and implement backup procedures.,1,Dataset6000Req.xlsx
+"The system shall offer built-in analytics to track marketing activities, user sessions, engagement metrics, and campaign performance.",0,Dataset6000Req.xlsx
+User shall have a screen to view the location of all ATMs of the same bank.,0,Dataset6000Req.xlsx
+System shall allow the administrator to register members by manually inputting their information into the system.,0,Dataset6000Req.xlsx
+User shall experience a great UI and UX for a pleasant navigation experience.,0,Dataset6000Req.xlsx
+System shall be able to facilitate fund transfers between accounts.,0,Dataset6000Req.xlsx
+The system shall be easy to use by the Program Administrators/Nursing Staff Members.,1,Dataset6000Req.xlsx
+The system shall maintain responsiveness during peak usage with minimal loading times for ebook browsing and opening.,1,Dataset6000Req.xlsx
+"Filtering options by date, instrument, or trade type shall be available.",0,Dataset6000Req.xlsx
+The user shall be able to manage Subjects.,0,Dataset6000Req.xlsx
+User shall ensure ease of porting the software to other host machines and/or operating systems.,1,Dataset6000Req.xlsx
+"This unit will output the sentence as a string,",0,Dataset6000Req.xlsx
+"The system shall assess image interest/complexity based on analysis, annotations, and comments.",0,Dataset6000Req.xlsx
+The system shall send alerts to students about upcoming quiz deadlines.,0,Dataset6000Req.xlsx
+The system shall allow researchers to view thumbnails and film clips.,0,Dataset6000Req.xlsx
+Instructor shall be able to edit class attributes. (Level 1),0,Dataset6000Req.xlsx
+The system shall pre-filter images to remove artifacts.,0,Dataset6000Req.xlsx
+The administrator user shall have the capability to adjust the sensitivity of the diagnostic analysis in order to increase or decrease the probability of fault detection.,0,Dataset6000Req.xlsx
+The system shall allow importing stories from a spreadsheet.,0,Dataset6000Req.xlsx
+User shall be informed about system failures through error messages displayed on the main screen.,1,Dataset6000Req.xlsx
+The system shall request a user response to initiator or mediator messages.,0,Dataset6000Req.xlsx
+User shall be able to delete transportation routes.,0,Dataset6000Req.xlsx
+System shall harvest metadata on funded research outputs for analysis and strategy refinement.,1,Dataset6000Req.xlsx
+User shall be able to provide their email ID to receive notifications for new events.,0,Dataset6000Req.xlsx
+The system shall implement anonymization and aggregation techniques to securely share route information.,1,Dataset6000Req.xlsx
+User shall be able to properly record all metadata for the project.,0,Dataset6000Req.xlsx
+Administrators shall be able to modify the list of agenda RSS feeds available in English.,0,Dataset6000Req.xlsx
+"Customer's password shall not be displayed in plain text in the web browser, only represented by special characters.",1,Dataset6000Req.xlsx
+"User shall be able to delete a specialty, provided no doctors are attached to it.",0,Dataset6000Req.xlsx
+"User shall be able to view a list of 360° videos after selecting the ""Videos"" option.",0,Dataset6000Req.xlsx
+User passwords shall be hashed before storage in the database to maintain security.,1,Dataset6000Req.xlsx
+"Admin shall manage job seeker and employer profiles, payments, and services.",0,Dataset6000Req.xlsx
+The system shall allow users to create charts and graphs to visualize data.,0,Dataset6000Req.xlsx
+Delivery boy shall be able to acknowledge the request.,0,Dataset6000Req.xlsx
+System shall offer keyboard-based navigation for rearranging hierarchy elements in the frontend.,1,Dataset6000Req.xlsx
+There will be a designated phone number that users can send texts to. ​,0,Dataset6000Req.xlsx
+The overall accuracy will be calculated by dividing the total number of correct answers by the number of questions asked.,1,Dataset6000Req.xlsx
+The system shall automatically compress image files that are too large in size.,1,Dataset6000Req.xlsx
+The TCS shall provide the capability to display waypoint data in alphanumeric format.,0,Dataset6000Req.xlsx
+System shall advertise new and attractive LPG schemes.,1,Dataset6000Req.xlsx
+"The system shall be able to support 10,000 concurrent users.",1,Dataset6000Req.xlsx
+The system shall track and record audit events for repository actions.,0,Dataset6000Req.xlsx
+"The system shall be able to self-monitor and automatically take actions to address various issues including hardware failures, software crashes, performance degradation, errors, and communication disruptions.",1,Dataset6000Req.xlsx
+The system shall have a glossary of commonly used terms (Developer).,1,Dataset6000Req.xlsx
+The MultiMahjongClient shall inform the user if another player is fishing.,0,Dataset6000Req.xlsx
+The system shall allow browsing through previous games.,0,Dataset6000Req.xlsx
+"The user can register attendance for the day by entering their Staff ID, name, and password and clicking the Register Attendance button.",0,Dataset6000Req.xlsx
+The application shall render images and effects efficiently to maintain a productive workflow.,1,Dataset6000Req.xlsx
+"Alternatively, the user can hold the ""Ctrl"" key and click on desired activities and connections to select them.",0,Dataset6000Req.xlsx
+System shall process current temperature values and thermostat settings to determine if heating or cooling units need to be turned on.,0,Dataset6000Req.xlsx
+"Any administrative level user can delegate actions to another user, acquiring the role of inventory administrator.",0,Dataset6000Req.xlsx
+The available recycled parts information and their suppliers shall be returned to the user.,0,Dataset6000Req.xlsx
+"Texts sent to that number will be sent to the API, then the system will reply to the user with the answer as another text message.",0,Dataset6000Req.xlsx
+The system shall restrict language selection to the main application.,0,Dataset6000Req.xlsx
+The user shall choose their desired alarm tone.,0,Dataset6000Req.xlsx
+A content editor shall be able to easily find content to edit.,0,Dataset6000Req.xlsx
+Administrator shall be able to add or upload videos and receive confirmation of successful upload.,0,Dataset6000Req.xlsx
+"The healthcare portal shall have high availability, with minimal downtime for scheduled maintenance and updates.",1,Dataset6000Req.xlsx
+"Above, shall be accomplished in manner that is transparent to processing, communications and I/O software functions with the possible exception of recompilation of executables.",1,Dataset6000Req.xlsx
+System shall send an email to the registered email-id for password reset upon request.,0,Dataset6000Req.xlsx
+System shall allow users to reset their passwords through a user-friendly and secure method. It should include verifying identity through security questions or sending verification codes to the registered email or phone number.,1,Dataset6000Req.xlsx
+System shall automatically compress large image files.,1,Dataset6000Req.xlsx
+System shall keep history of course bookings.,0,Dataset6000Req.xlsx
+The system shall perform automatic plankton segmentation/localization in Plankton Portal.,0,Dataset6000Req.xlsx
+User shall be able to select the support type.,0,Dataset6000Req.xlsx
+System shall record client feedback.,0,Dataset6000Req.xlsx
+Each user shall have a set of system access properties that defines the user's privileges within the system.,1,Dataset6000Req.xlsx
+User shall be able to associate an Instance with a Container.,0,Dataset6000Req.xlsx
+The MultiMahjongClient will play sound effects associated with certain game actions.,0,Dataset6000Req.xlsx
+User shall sign up or sign in using their email ID and password.,0,Dataset6000Req.xlsx
+The system shall allow authenticated restaurant owners to edit existing restaurant information.,0,Dataset6000Req.xlsx
+Jobs shall be postable via external sites if used by the advertiser.,0,Dataset6000Req.xlsx
+System shall be able to allow users to change their Facebook status to include their current location.,0,Dataset6000Req.xlsx
+The system shall maintain low latency for a responsive user experience.,1,Dataset6000Req.xlsx
+"The system shall determine when to interrupt a volunteer and suggest intervention method (text, image, video).",0,Dataset6000Req.xlsx
+User shall have the option to sign out or switch between accounts.,0,Dataset6000Req.xlsx
+Only maintainers shall be granted access to internal servers for maintenance purposes.,1,Dataset6000Req.xlsx
+The system shall display the product information with the updated price.,0,Dataset6000Req.xlsx
+System shall display a pop-up confirming the successful download of the video.,0,Dataset6000Req.xlsx
+90% of untrained realtors shall be able to install the product on their device without printed instructions.,1,Dataset6000Req.xlsx
+The icons shall be according to the Android Icon Guidelines.,1,Dataset6000Req.xlsx
+System shall be able to provide general recommendations based on recent trends through administrative functions.,0,Dataset6000Req.xlsx
+"The software shall interact with mouse movements and clicks to activate data input areas, command buttons, and menu options.",1,Dataset6000Req.xlsx
+System shall facilitate communication with vendors and authorize them to sell products on the site after quality assessment.,0,Dataset6000Req.xlsx
+The system shall be compatible with Intel-based Mac computers and Windows 10/11 ARM-based PCs.,1,Dataset6000Req.xlsx
+"The product must be user-friendly, with 95% of Adjusters and Collision Estimators finding it easy to use.",1,Dataset6000Req.xlsx
+The system shall meet the minimum requirements to allow for successful activation of Adobe Illustrator and access to all features.,0,Dataset6000Req.xlsx
+The diagnostic history window shall display historical diagnostic results for a specific diagnostic.,0,Dataset6000Req.xlsx
+Users shall be able to vote for any individual idea or an idea group.,0,Dataset6000Req.xlsx
+The MultiMahjongClient will inform the user whose turn it is to pick up a tile.,0,Dataset6000Req.xlsx
+Customers can add or remove products from the shopping cart before checkout.,0,Dataset6000Req.xlsx
+System shall display the uploaded videos on the user's channel.,0,Dataset6000Req.xlsx
+System shall display the problem statement and coding environment based on the user's selection of problem category and difficulty level.,1,Dataset6000Req.xlsx
+The system shall display the list of people the user follows to the followers of those users.,0,Dataset6000Req.xlsx
+Email notifications to users based on account status will be sent from the admin panel.,0,Dataset6000Req.xlsx
+System shall integrate with designated external services (if feasible).,0,Dataset6000Req.xlsx
+Subscription packages shall have a duration of one month.,1,Dataset6000Req.xlsx
+The system shall run on Windows Server 2003.,0,Dataset6000Req.xlsx
+The system shall protect private information in accordance with the organizations information policy.,1,Dataset6000Req.xlsx
+System shall facilitate collaboration and data sharing among project stakeholders.,1,Dataset6000Req.xlsx
+"User shall establish Address of Communication using four lines, each 25 characters long, for house name/number, street name/place, and state.",0,Dataset6000Req.xlsx
+System shall provide tracking mechanisms for downloads and citations of datasets to demonstrate impact.,0,Dataset6000Req.xlsx
+The system shall allow the user to change following personal contact information:,0,Dataset6000Req.xlsx
+"The system shall implement user authentication and access controls based on user roles (e.g., standard user, administrator).",0,Dataset6000Req.xlsx
+System shall maintain security and performance quality attributes for optimal software quality.,1,Dataset6000Req.xlsx
+"The Disputes System must provide confirmation upon chargeback request creation, containing dispute case number, type of chargeback requested, and merchant response due date.",0,Dataset6000Req.xlsx
+"The user can manipulate and view fee details, including tuition fees, exam fees, and donation fees.",0,Dataset6000Req.xlsx
+User shall deploy a dataset type independent from any app and allow apps to create and use dataset instances of that type.,0,Dataset6000Req.xlsx
+"After adding a transportation route, the user shall be able to retrieve transportation requests from other users.",0,Dataset6000Req.xlsx
+User shall be able to search for a person by department.,0,Dataset6000Req.xlsx
+"System shall be able to perform distance calculations and access geolocation information for the user, sites, and nearby sites.",0,Dataset6000Req.xlsx
+The system shall inform the user if they have reached their limit of created nodes.,0,Dataset6000Req.xlsx
+The system shall allow staff members to manage ordinances to maintain accurate information.,0,Dataset6000Req.xlsx
+HEC rules shall be implemented while creating the system.,1,Dataset6000Req.xlsx
+Customer shall be able to remove orders from cart.,0,Dataset6000Req.xlsx
+"The user shall be able to edit their existing items, including adding/removing pictures and changing price and details.",0,Dataset6000Req.xlsx
+"There shall be clearly defined uptime targets for the Teams app, along with a documented impact of downtime on performance.",1,Dataset6000Req.xlsx
+System shall be able to display the initial interface.,0,Dataset6000Req.xlsx
+"System shall confirm the product is verified to the device if the software, key, and password are valid.",0,Dataset6000Req.xlsx
+"The administrator will be able to print reports annually, weekly, and daily based on selected time frames.",0,Dataset6000Req.xlsx
+System shall enforce a minimum set of metadata requirements to ensure consistent metadata quality.,1,Dataset6000Req.xlsx
+System shall allow accounts managers to consult with the administrator regarding payment details for updating the database.,0,Dataset6000Req.xlsx
+Compatibility with previous Windows versions will require further testing.,1,Dataset6000Req.xlsx
+User shall have the option to input using either touch screen or keypad methods.,1,Dataset6000Req.xlsx
+The number of mistakes noted by the students shall be decreased by 50% in the first year.,1,Dataset6000Req.xlsx
+User shall be able to upload a Video CV of up to 3 minutes.,0,Dataset6000Req.xlsx
+User shall experience a fully dynamic interface where data is fetched from the database.,1,Dataset6000Req.xlsx
+User shall expect efficient re-initialization in case of failure.,1,Dataset6000Req.xlsx
+Newsletter and email sending functionalities to employers and job seekers shall be provided.,0,Dataset6000Req.xlsx
+System shall commit all user variable data to the database upon entry.,1,Dataset6000Req.xlsx
+System shall process the account deletion request and update the database accordingly.,0,Dataset6000Req.xlsx
+The system shall show the meetings to the user in ascending time order by default.,0,Dataset6000Req.xlsx
+Users shall be able to resize text using built-in functions or appropriate methods.,1,Dataset6000Req.xlsx
+User shall be able to link datasets to publications in Opus for improved discoverability.,0,Dataset6000Req.xlsx
+"User shall be able to get detailed directions to the summit venue, for easy navigation.",0,Dataset6000Req.xlsx
+The system shall allow users to insert speaker notes for slides.,0,Dataset6000Req.xlsx
+"The system shall allow repository managers to define access controls for collections, objects, and components.",0,Dataset6000Req.xlsx
+Envelope depository shall meet specified dimensions.,0,Dataset6000Req.xlsx
+"The server shall have at least 4 vCPUs, either x86_64 or arm64 architecture.",0,Dataset6000Req.xlsx
+System shall allow users to select other TU/e related Twitter sites from a list upon starting the Twitter app (content of the list is defined in requirement UCAR903).,0,Dataset6000Req.xlsx
+The product shall be used in office environments.,1,Dataset6000Req.xlsx
+The system shall allow archivists to link electronic publications to citations.,0,Dataset6000Req.xlsx
+"User shall be able to subscribe to different membership tiers, such as Silver, Gold, and Diamond, offering varying limits on resume downloads.",1,Dataset6000Req.xlsx
+User shall be redirected to the landing page upon successful login.,0,Dataset6000Req.xlsx
+"System shall establish relationships between inputs and outputs, including sequences and formulas.",0,Dataset6000Req.xlsx
+The product shall be easy for a realtor to learn.,1,Dataset6000Req.xlsx
+"The CMCS shall autonomously monitor and respond to hardware issues, software crashes, resource limitations, errors, and communication failures.",1,Dataset6000Req.xlsx
+System shall ensure compatibility and adaptability across various platforms.,1,Dataset6000Req.xlsx
+The user shall be able to select a catalogue from Spring 2013 or Winter 2013.,0,Dataset6000Req.xlsx
+System shall be able to facilitate data updating.,0,Dataset6000Req.xlsx
+The system shall be able to ensure a response time of 1 minute or less for Commanding Officer (CO) actions in both single and multiplayer modes.,1,Dataset6000Req.xlsx
+System shall be able to search for the to-location by the name of a POI.,0,Dataset6000Req.xlsx
+"The user shall be able to sign up by tapping the ""Sign Up"" button and using their email address.",0,Dataset6000Req.xlsx
+The system shall be accessible to users both from within the application and through a web browser interface.,1,Dataset6000Req.xlsx
+"User shall be able to link BADCamp attendees to their sponsorship page, to showcase attendance.",0,Dataset6000Req.xlsx
+"Crafty kids corner shall include safety tips and guidelines for handling art supplies and performing crafting activities, emphasizing the importance of adult supervision.",0,Dataset6000Req.xlsx
+"During billing mode, the app shall represent bank card payment for each customer.",0,Dataset6000Req.xlsx
+The BE shall store input data records in a memory buffer and track buffer locations of all input data until data processing is complete.,0,Dataset6000Req.xlsx
+System shall be able to authenticate users using their Google or Facebook accounts and register them accordingly.,0,Dataset6000Req.xlsx
+User shall enter search text on the screen and display matching products based on the search.,0,Dataset6000Req.xlsx
+User interface screens shall respond to user inputs within 5 seconds.,1,Dataset6000Req.xlsx
+"User shall ensure that when deploying a new version of an app including a shared dataset type, only dataset instances created by that app start using the new code.",0,Dataset6000Req.xlsx
+The system shall validate user information before processing the transaction.,0,Dataset6000Req.xlsx
+Sensitive data will be encrypted before being sent over insecure connections like the internet.,1,Dataset6000Req.xlsx
+"For shipboard operations, the TCS shall provide the capability to switch to a second LOS antenna, if a second antenna is available, when desired.",0,Dataset6000Req.xlsx
+"The BE shall be able to handle lag sets up to a maximum size of 262,144 values",1,Dataset6000Req.xlsx
+Admin shall be able to Manage users.,0,Dataset6000Req.xlsx
+A Platform Administrator shall be able to delete any dataset.,0,Dataset6000Req.xlsx
+"User shall be able to record sales transactions, including customer information, medicine name, quantity sold, and unit price.",0,Dataset6000Req.xlsx
+System shall expose descriptive records for external use.,0,Dataset6000Req.xlsx
+"The system shall provide self-descriptive navigation, allowing users to understand their location, history, and future options within the application.",1,Dataset6000Req.xlsx
+System shall employ optimized component design to achieve better performance during peak usage times.,1,Dataset6000Req.xlsx
+The system shall allow deleting games.,0,Dataset6000Req.xlsx
+System shall be able to retrieve the correct genre from the user's title or from a list of genres.,1,Dataset6000Req.xlsx
+System shall facilitate interaction and information exchange between police and complainants.,0,Dataset6000Req.xlsx
+FABS user shall receive submission errors accurately reflecting FABS errors for efficient problem resolution.,1,Dataset6000Req.xlsx
+"The CMCS processors shall be capable of responding to correlator hardware inputs (interrupts) in a deterministic fashion with sufficient performance to avoid data loss, corruption or overflows.",1,Dataset6000Req.xlsx
+A waiter shall be able to deactivate a surface computer and consequently close its associated account through a tablet.,0,Dataset6000Req.xlsx
+"User shall have access to continuous performance monitoring and profiling to identify and address performance bottlenecks proactively, ensuring optimal system efficiency.",1,Dataset6000Req.xlsx
+User shall be able to log in with their email and password and receive a message indicating successful sign-in.,0,Dataset6000Req.xlsx
+System shall support the deletion of blogs by validating user actions and updating the database accordingly.,0,Dataset6000Req.xlsx
+System shall offer keyboard shortcuts for efficient navigation and operation within Gmail.,0,Dataset6000Req.xlsx
+System shall preserve both content and metadata within the repository.,1,Dataset6000Req.xlsx
+User shall be able to rate drivers through the system.,0,Dataset6000Req.xlsx
+User shall be able to access secure authentication mechanisms for controlling access to databases.,0,Dataset6000Req.xlsx
+User shall be able to log in and start using the system after activating their account.,0,Dataset6000Req.xlsx
+System shall support delegation of deposition tasks to enable efficient management of research data.,0,Dataset6000Req.xlsx
+System shall maintain high availability to ensure continuous access to DMPs and associated data.,1,Dataset6000Req.xlsx
+System shall display new government notifications related to LPG.,1,Dataset6000Req.xlsx
+Healthcare providers shall have access to billing and payment history for each patient.,0,Dataset6000Req.xlsx
+System shall implement a waitlist feature for training classes.,1,Dataset6000Req.xlsx
+"User shall access a limited feature set for offline usage, prioritizing essential translation functionalities for usability and efficiency.",0,Dataset6000Req.xlsx
+The system shall allow visitors to search for upcoming courses and events using an advanced search option.,0,Dataset6000Req.xlsx
+Web-based displays of the most current ASPERA-3 data shall be provided for public view.,0,Dataset6000Req.xlsx
+Users shall search for specific stocks using stock symbols or company names.,0,Dataset6000Req.xlsx
+User accessibility must be closely monitored and restricted as needed.,1,Dataset6000Req.xlsx
+System shall remain available to the user without crashing.,1,Dataset6000Req.xlsx
+Delivery boy shall be able to receive payment if the order is done with cash.,0,Dataset6000Req.xlsx
+"Users of the system include four categories: Student (Transaction and view), Faculty (Transaction and view), Author (view), Publisher (view).",0,Dataset6000Req.xlsx
+User shall be able to log in by entering username and password.,0,Dataset6000Req.xlsx
+System shall use Mapbox APIs for geolocation functionality.,0,Dataset6000Req.xlsx
+"User shall be able to sign up for the BADCamp newsletter, to stay informed about communications.",0,Dataset6000Req.xlsx
+Administrators shall be able to modify the list of English news RSS feeds.,0,Dataset6000Req.xlsx
+"User and seller profiles shall contain contact, location, address, and seller's license details.",0,Dataset6000Req.xlsx
+The system shall allow archivists to track file usage and provide access to unprocessed materials.,0,Dataset6000Req.xlsx
+System shall provide access to Bath data for external collaborators off-campus to support collaboration.,1,Dataset6000Req.xlsx
+Maintainers are responsible for connecting new users to the PayPal Payment System network and maintaining records of all users and transaction status for maintainability purposes.,1,Dataset6000Req.xlsx
+The system shall allow trainers to convert courses to events and vice versa.,0,Dataset6000Req.xlsx
+"User shall be able to add inventory assets, with DA group members or authorized inventory group members adding assets owned by the department.",0,Dataset6000Req.xlsx
+User shall be able to apply cashback by entering promo code and successfully transferring the amount.,0,Dataset6000Req.xlsx
+System shall notify the user upon successful sharing of the video.,0,Dataset6000Req.xlsx
+"The system performance shall be responsive for uploading, searching, and downloading files.",1,Dataset6000Req.xlsx
+System shall provide a Linked Data interface for repository data.,0,Dataset6000Req.xlsx
+User shall be able to log out of the system.,0,Dataset6000Req.xlsx
+Delivery boy shall be able to acknowledge for request within 3 sec of time.,0,Dataset6000Req.xlsx
+User shall check data integrity for critical variables for security.,1,Dataset6000Req.xlsx
+"The operator shall have the capability to initiate as well as change, to include as a minimum manual override, flight behaviors by sending the proper control commands to the UAV.",0,Dataset6000Req.xlsx
+Temporary passwords shall be emailed to users if they forget their password.,0,Dataset6000Req.xlsx
+Moderators shall be able to remove groups.,0,Dataset6000Req.xlsx
+The system shall allow users to have multiple work/school accounts with OneDrive.,0,Dataset6000Req.xlsx
+System shall provide real-time price updates.,0,Dataset6000Req.xlsx
+"The system shall offer functionalities for enhancing scanned documents (e.g., adjusting brightness, contrast).",0,Dataset6000Req.xlsx
+The user shall be able to select the option of view incompleted tasks.,0,Dataset6000Req.xlsx
+User shall select from a dropdown menu containing various application status options.,0,Dataset6000Req.xlsx
+"User shall be able to access the application without interruption, demonstrating scalability.",1,Dataset6000Req.xlsx
+User shall be able to handle invalid user accounts.,0,Dataset6000Req.xlsx
+"Admin shall log in by entering admin ID, admin password, and admin name.",0,Dataset6000Req.xlsx
+The user shall be able to add the Classroom number for the class.,0,Dataset6000Req.xlsx
+"User shall benefit from automatic language detection, streamlining the translation process and enhancing user convenience in multilingual environments.",0,Dataset6000Req.xlsx
+An app shall provide a User/Restaurant with all user/restaurant system functionality (according to access control).,0,Dataset6000Req.xlsx
+System shall allow customers to provide feedback to the customer care service center regarding their experience.,0,Dataset6000Req.xlsx
+User shall be able to transact securely with confidential customer information.,1,Dataset6000Req.xlsx
+User data such as username and email shall be kept confidential for security purposes.,1,Dataset6000Req.xlsx
+The system shall be able to include new members in the network through simple administrative tasks.,0,Dataset6000Req.xlsx
+The system shall support OAI-PMH for repository content exposure.,0,Dataset6000Req.xlsx
+IT group members can create new spaces and modify floor structures upon exception request from any administrative level.,0,Dataset6000Req.xlsx
+"User's will be able to discard a tile if they have picked one up. When they choose to discard, the MultiMahjongClient must send this information to the MultiMahjongServer",0,Dataset6000Req.xlsx
+The administrator shall have the ability to create and add a new user to the system.,1,Dataset6000Req.xlsx
+Newsletter subscription and customization options will be provided.,0,Dataset6000Req.xlsx
+System shall support backend changes for managing enum lists efficiently and reliably.,1,Dataset6000Req.xlsx
+The system will use the stored e-mail addresses as a primary means of communicating information to affected parties.,0,Dataset6000Req.xlsx
+The system shall provide feedback on invalid data points within Data Packages.,0,Dataset6000Req.xlsx
+System shall restrict communication during user/license validation (use https).,1,Dataset6000Req.xlsx
+System shall ensure the security and privacy of log book entries and attached files.,1,Dataset6000Req.xlsx
+The system shall limit inviting estimators to a maximum of 15.,0,Dataset6000Req.xlsx
+The $HOME/.cache folder shall be writable by the user connecting to the server.,0,Dataset6000Req.xlsx
+System shall limit user accessibility to protect the software.,1,Dataset6000Req.xlsx
+"A users manual, explaining how to install and operate the MultiMahjongClient, will be provided.",1,Dataset6000Req.xlsx
+"User shall easily find what they are looking for on the website, with a simple web design ensuring ease of use.",1,Dataset6000Req.xlsx
+Students added to a cohort shall be eligible for the cohort’s Program of Study.,0,Dataset6000Req.xlsx
+System shall allow searching by date range for items.,0,Dataset6000Req.xlsx
+"All private data uploaded by users will be strictly confidential to other users, and users will be able to report suspicious activity to the security department.",1,Dataset6000Req.xlsx
+The system shall require a valid user ID and password for access.,0,Dataset6000Req.xlsx
+System shall provide efficient storage and retrieval mechanisms for large files and datasets.,1,Dataset6000Req.xlsx
+A supervisor shall be able to issue a refund for one or more items to a customer.,0,Dataset6000Req.xlsx
+The system shall use SSL (Secure Socket Layer) for all transactions involving confidential passenger information and automatically log out customers after a period of inactivity.,1,Dataset6000Req.xlsx
+The system shall send welcome emails to newly registered CSMs and Product Owners with instructions to activate their membership.,0,Dataset6000Req.xlsx
+"The system shall offer automation tools and workflows to streamline tasks, engage leads, and nurture customer relationships.",0,Dataset6000Req.xlsx
+"Upon successful login, user shall be able to send and receive emails.",0,Dataset6000Req.xlsx
+User shall be able to perform transactions with Freecharge.,0,Dataset6000Req.xlsx
+User shall be able to log in to Ola Cabs by entering their email address and password.,0,Dataset6000Req.xlsx
+System shall have a contractual agreement with an internet service provider for 99.999% availability through their network facilities.,1,Dataset6000Req.xlsx
+System shall generate alarm data for invalid temperature values or temperature limit exceedance.,0,Dataset6000Req.xlsx
+Patients shall receive confirmation and reminder notifications for their scheduled appointments.,0,Dataset6000Req.xlsx
+The system shall allow users to create accounts and log in to the server.,0,Dataset6000Req.xlsx
+System shall generate dedicated pages for each training class.,1,Dataset6000Req.xlsx
+User shall follow exact sequencing of operations for system tasks.,0,Dataset6000Req.xlsx
+Customer shall be able to favorite the restaurant.,0,Dataset6000Req.xlsx
+The system shall show who submitted each estimate in the current round.,0,Dataset6000Req.xlsx
+User shall not be able to reclaim a subsidy after giving it up.,1,Dataset6000Req.xlsx
+"The subsystems window, condition window, and diagnostic information window shall display a title that indicates its specific location or absolute path in the navigation hierarchy of windows",0,Dataset6000Req.xlsx
+System shall ensure that all requirements outlined for the Online Matrimonial Portal are correctly implemented and operational.,1,Dataset6000Req.xlsx
+User shall be able to respond to a limited number of profiles per day as a general job seeker.,1,Dataset6000Req.xlsx
+Billing transactions and reports on system sales shall be viewable.,0,Dataset6000Req.xlsx
+User shall be able to access persistent identifiers of datasets provided in the DMP.,0,Dataset6000Req.xlsx
+User shall be able to manage student information.,0,Dataset6000Req.xlsx
+"User shall store the starting, closing, intraday high, and intraday low of a stock in the database.",0,Dataset6000Req.xlsx
+All access to cases and related activities must be stored in the audit trail for legal admissibility and data recovery.,1,Dataset6000Req.xlsx
+System shall provide a shopping cart during online purchase.,0,Dataset6000Req.xlsx
+System shall assign default system data values when necessary.,1,Dataset6000Req.xlsx
+Users shall select the examination and choose the answer key option.,0,Dataset6000Req.xlsx
+The system shall return a list of repair facilities within the radius if the preferred repair facility cannot be determined.,0,Dataset6000Req.xlsx
+Tester shall ensure FABS properly derives fields through robust testing for accurate data processing.,1,Dataset6000Req.xlsx
+User shall be able to navigate through the CCTNS application.,0,Dataset6000Req.xlsx
+"The system shall produce failure reports indicating internal system component failures, including error number and time stamp.",0,Dataset6000Req.xlsx
+The adjuster shall request a recycled parts audit of the collision estimate.,0,Dataset6000Req.xlsx
+User shall have customization options including homepage selection and privacy settings.,0,Dataset6000Req.xlsx
+Application shall detect contacts from the user's phone book and automatically add WhatsApp contacts to the user's contact list.,0,Dataset6000Req.xlsx
+System shall execute recipe searches and recommendations swiftly to enhance performance and user experience.,1,Dataset6000Req.xlsx
+"Customers can register, log in, and log out of their accounts.",0,Dataset6000Req.xlsx
+The system shall allow users to print presentations with customizable layouts and settings.,0,Dataset6000Req.xlsx
+The user shall be able to search for a task by tapping the search icon on the top of the screen.,0,Dataset6000Req.xlsx
+Free Users shall be allowed to make up to 33 calls per day.,1,Dataset6000Req.xlsx
+User shall be able to track orders by providing tracking ID or order ID and view the recent position of a product.,0,Dataset6000Req.xlsx
+"The product shall be able to process 10,000 transactions per hour within two years of its launch.",1,Dataset6000Req.xlsx
+"The student registration process shall complete in 10 seconds or less, company registration and job posting shall each take no more than 15 seconds, and student applications for jobs shall be processed within 20 seconds.",1,Dataset6000Req.xlsx
+User shall operate efficiently with a minimum processor speed of 500MHz.,1,Dataset6000Req.xlsx
+"System shall provide submission status (Accepted, Wrong Answer, Time Limit Exceeded, etc.) for the user's code solutions.",1,Dataset6000Req.xlsx
+Aside from server failure the software product shall achieve 99.99% up time.,1,Dataset6000Req.xlsx
+The system shall provide an interface for verification department employees to send status reports to finance and legal contract departments.,0,Dataset6000Req.xlsx
+Broker user shall have updated error codes that accurately reflect logic and provide enough information.,0,Dataset6000Req.xlsx
+System shall generate weekly rosters for employees (administrator function).,0,Dataset6000Req.xlsx
+The system shall allow members to download training materials and methodology PDFs (if applicable based on membership level).,0,Dataset6000Req.xlsx
+"Healthcare providers shall have the ability to accept, reschedule, or cancel appointments.",0,Dataset6000Req.xlsx
+"System shall open a new window for users to compose and view messages, retrieving previous messages from the database.",0,Dataset6000Req.xlsx
+"Adequate RAM shall enable faster rendering, smoother zooming, and an overall improved user experience.",1,Dataset6000Req.xlsx
+A customer shall be able to cancel an order through their engaged menu if it is pending and not yet placed.,0,Dataset6000Req.xlsx
+User shall find the system easy to navigate and use.,1,Dataset6000Req.xlsx
+System shall provide an archetype to help dataset developers package dataset types properly.,1,Dataset6000Req.xlsx
+The system shall be able to perform periodic backups.,1,Dataset6000Req.xlsx
+The system shall offer a Status main menu with Start Diagnostics and Stop Diagnostics in that order.,0,Dataset6000Req.xlsx
+The search feature will display either search results or a no matches found message depending on the query's success.,0,Dataset6000Req.xlsx
+FABS user shall successfully submit a citywide as a PPoPZIP and pass validations for comprehensive data submission.,1,Dataset6000Req.xlsx
+The user shall be able to add their Teacher Name for the class.,0,Dataset6000Req.xlsx
+The System must provide End User and Administrator functions which are easy to use and intuitive throughout.,1,Dataset6000Req.xlsx
+The game shall only display the current block positions and not positions from canceled movements.,0,Dataset6000Req.xlsx
+"Users shall be able to view search results on a map with a maximum of 100 restaurants displayed, including pins with information links, a default zoom level, and a button to access filtering options.",0,Dataset6000Req.xlsx
+The estimator shall search for available recycled parts using a list of preferred parts suppliers.,0,Dataset6000Req.xlsx
+Account balance transfer time must not exceed 3 seconds under normal workload and 4 seconds under peak workload.,1,Dataset6000Req.xlsx
+The website shall be user-friendly and require minimal effort to operate.,1,Dataset6000Req.xlsx
+The system shall provide a structured experience for users to navigate through commands tailored to their needs.,0,Dataset6000Req.xlsx
+User shall/will be able to access the system with a Dual Core or above processor.,1,Dataset6000Req.xlsx
+A Data Consuming User shall be able to zoom into maps.,0,Dataset6000Req.xlsx
+"User shall be able to compose emails by clicking on the compose button and entering recipient email, subject, and message.",0,Dataset6000Req.xlsx
+The THEMAS system shall be able to identify when a reported temperature or a changed setting violates user-defined temperature limits.,0,Dataset6000Req.xlsx
+The system shall send email notifications to administrators whenever a job ad is submitted.,0,Dataset6000Req.xlsx
+"The system shall allow agents to select between unicast, multicast, and broadcast communication.",0,Dataset6000Req.xlsx
+"The system shall provide functionalities for adding, updating, and deleting user information.",0,Dataset6000Req.xlsx
+System shall be able to run under debug mode.,1,Dataset6000Req.xlsx
+"The system shall support language agnostic operation for portability, including English, Turkish, Finnish, and Italian for the identified replication partners.",1,Dataset6000Req.xlsx
+The system shall be accessible through a compatible web browser on a computer or mobile device.,1,Dataset6000Req.xlsx
+"The system shall encrypt sensitive data (patient information, prescriptions) at rest and in transit.",1,Dataset6000Req.xlsx
+Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Program of Study within the Nursing Department including the Program of study name and required classes for that Program of Study.,0,Dataset6000Req.xlsx
+The system shall color code events according to their variance from current time.,0,Dataset6000Req.xlsx
+System development shall utilize JDK-6.,1,Dataset6000Req.xlsx
+A chef shall be able to indicate that a customers order item is ready to be served through a display.,0,Dataset6000Req.xlsx
+The game shall be closed upon user interaction with the exit icon or the phone's back buttons.,0,Dataset6000Req.xlsx
+The system shall allow editors to update any course/event.,0,Dataset6000Req.xlsx
+"User shall be able to change perspective and orientation through a touch scroll bar, serving as the central mechanic of the game.",0,Dataset6000Req.xlsx
+"User shall enter card details for online payment, with the system verifying their validity.",0,Dataset6000Req.xlsx
+"User shall have the option to sort content by relevance, rating, or date.",0,Dataset6000Req.xlsx
+System shall be easy to upgrade.,1,Dataset6000Req.xlsx
+User shall be able to mint DOIs for datasets to facilitate discoverability and citation tracking.,0,Dataset6000Req.xlsx
+Recent jobs shall be displayed on the homepage.,0,Dataset6000Req.xlsx
+The system shall allow keyword searching across scanned diaries.,0,Dataset6000Req.xlsx
+The minimum processor clock speed shall be 2 GHz.,1,Dataset6000Req.xlsx
+"The system shall display ""video not found"" if the requested video is not available.",1,Dataset6000Req.xlsx
+The system shall allow administrators to add new restaurant types.,0,Dataset6000Req.xlsx
+The product must be easily learnable within two days of onsite training for Adjusters and Collision Estimators.,1,Dataset6000Req.xlsx
+User shall be able to purchase credits using a credit card or PayPal account.,0,Dataset6000Req.xlsx
+Wireless communication throughout the system will be encrypted using SSLv3 at the application layer and WPA2-PSK at the data link layer.,1,Dataset6000Req.xlsx
+The system shall communicate with the database through a wireless Ethernet system.,0,Dataset6000Req.xlsx
+The system shall allow consumers to search for data packages by publisher.,0,Dataset6000Req.xlsx
+System shall store archived data on existing storage systems for consistency and maintainability.,1,Dataset6000Req.xlsx
+User shall be able to offer withdrawal transactions.,0,Dataset6000Req.xlsx
+Customer profiles shall include payment and address information.,0,Dataset6000Req.xlsx
+System shall store all databases on redundant computers with automatic switchover for enhanced reliability.,1,Dataset6000Req.xlsx
+Customers shall order food and add items to their cart.,0,Dataset6000Req.xlsx
+User shall toggle between online and offline modes within the app settings to manage connectivity preferences based on environment and usage requirements.,0,Dataset6000Req.xlsx
+System shall confirm all transactions with the customer’s web browser.,1,Dataset6000Req.xlsx
+System shall return the user to the login page when the session expires.,0,Dataset6000Req.xlsx
+"If all required fields are properly filled, the user shall be redirected to the main page.",0,Dataset6000Req.xlsx
+"System shall ensure 24x7 availability, allowing users to access the system at any time.",1,Dataset6000Req.xlsx
+"The system shall record details about events, including agents, timestamps, and outcomes.",0,Dataset6000Req.xlsx
+The $HOME environment variable shall be set correctly on the server.,0,Dataset6000Req.xlsx
+System shall provide a seamless and reliable installation process for ALFRED.,1,Dataset6000Req.xlsx
+The system shall create a complete copy of data from the source phone to the target phone.,0,Dataset6000Req.xlsx
+The user shall be able to delete information from their restaurant listing.,0,Dataset6000Req.xlsx
+The system shall be highly automatic to relieve the users of as many repetitive and tedious tasks as possible.,1,Dataset6000Req.xlsx
+Application prioritizes fast network response as it relies heavily on data retrieval rather than phone processing power.,1,Dataset6000Req.xlsx
+User shall be able to log defects or enhancement requests and track them.,1,Dataset6000Req.xlsx
+System shall allow dataset developers to assign explicit versions to the code of a dataset type.,1,Dataset6000Req.xlsx
+The user shall be able to view past exams by tapping a designated menu option on the screen.,0,Dataset6000Req.xlsx
+User shall be able to reset their password by entering their email address and receiving a password reset link.,0,Dataset6000Req.xlsx
+User's access to administrative functions shall be restricted to authorized personnel through role-based access control (RBAC).,1,Dataset6000Req.xlsx
+The system shall allow the user to modify the location preference set of an already submitted meeting response.,0,Dataset6000Req.xlsx
+"After successful validation, the course shall be purchased.",0,Dataset6000Req.xlsx
+"As an objective, the TCS shall support an automatic launch and recovery system.",1,Dataset6000Req.xlsx
+System shall be able to provide a reset option for forgotten passwords.,0,Dataset6000Req.xlsx
+"User shall be able to find a link on the sponsorships page to become a $350 level sponsor, for sponsorship opportunities.",0,Dataset6000Req.xlsx
+User shall be able to access the main form after successful login.,0,Dataset6000Req.xlsx
+System shall validate the provided details.,0,Dataset6000Req.xlsx
+System shall maintain response time under 200 milliseconds for peak workload conditions.,1,Dataset6000Req.xlsx
+User shall enter a one-time password to complete the payment if provided with correct credentials.,0,Dataset6000Req.xlsx
+"The system shall allow users to import and manage various data formats like images, videos, and audio files within presentations.",0,Dataset6000Req.xlsx
+"The system shall operate primarily offline, with networked authentication components functioning only when Radford University's systems are available.",1,Dataset6000Req.xlsx
+The system shall record client booking requests.,0,Dataset6000Req.xlsx
+User shall be able to receive an error message if the server is busy or under maintenance.,0,Dataset6000Req.xlsx
+The BE system shall be able to detect and report interruptions of data delivery from the Correlator to M&C.,0,Dataset6000Req.xlsx
+There must be an emergency phone located outside the cabin for safety purposes.,1,Dataset6000Req.xlsx
+Students shall be able to take mock tests for their courses and evaluate their performance.,0,Dataset6000Req.xlsx
+The moderator shall be able to close a session at any time.,0,Dataset6000Req.xlsx
+"Response times for critical operations, such as appointment scheduling and EHR access, shall meet acceptable benchmarks.",1,Dataset6000Req.xlsx
+Users shall be displayed prominent stock market indices like the S&P500 and NASDAQ.,0,Dataset6000Req.xlsx
+The system shall allow inspection staff to conduct inspections to validate customer compliance with codes and regulations.,0,Dataset6000Req.xlsx
+"Upon successful login, the system shall redirect the user to the home page of theaa.com.",0,Dataset6000Req.xlsx
+System shall use two levels of security: ATM card and PIN verification authenticated by CMS software.,1,Dataset6000Req.xlsx
+The user shall be able to set the description of an assignment.,0,Dataset6000Req.xlsx
+The system shall allow consumers to view publisher profiles.,0,Dataset6000Req.xlsx
+Only enlightened places shall be visible in the ingame screen.,0,Dataset6000Req.xlsx
+"The system shall allow archivists to set restrictions based on dates, IP addresses, or users.",0,Dataset6000Req.xlsx
+Sub-apps and their launchers shall be added to the main app by a qualified programmer.,0,Dataset6000Req.xlsx
+The user shall be able to add a New Academic Year.,0,Dataset6000Req.xlsx
+A cohort shall be associated to one Program of Study offered by the department.,0,Dataset6000Req.xlsx
+"System shall show the manager homepage for adding and deleting cars, displaying car statistics, and adjusting car rents.",1,Dataset6000Req.xlsx
+"System shall identify areas triggering the restart of the level, whether encompassing stage boundaries or spike-like traps.",0,Dataset6000Req.xlsx
+System shall be available 24 hours a day.,1,Dataset6000Req.xlsx
+"The system shall enable users to organize ebooks into collections, download for offline reading, and track reading progress.",0,Dataset6000Req.xlsx
+Only authorized users shall have access to clinical site information.,1,Dataset6000Req.xlsx
+The user shall be able to search for a product by product ID/SKU or by keyword after selecting the search icon.,0,Dataset6000Req.xlsx
+System shall show titles of all news items available through the news RSS feeds on the title screen.,0,Dataset6000Req.xlsx
+SSH port forwarding shall be enabled in the server configuration.,0,Dataset6000Req.xlsx
+User shall log in to Big Basket by entering mobile number and password.,0,Dataset6000Req.xlsx
+The product must comply with Sarbanes-Oxley.,1,Dataset6000Req.xlsx
+System shall secure in-app purchases via encryption and use a reliable payment gateway.,1,Dataset6000Req.xlsx
+A user shall be able to view and modify their personal information.,0,Dataset6000Req.xlsx
+User shall be able to select the online booking option for LPG cylinder.,0,Dataset6000Req.xlsx
+"User shall be able to access customer services by selecting options like search for issue, chat, ask community, email, or call, and submitting the problem/issue.",0,Dataset6000Req.xlsx
+The MultiMahjongServer will have a graphical user interface with which the administrator of the server can get log information and change game settings.,1,Dataset6000Req.xlsx
+The MultiMahjongServer will allow players on MultiMahjongClient programs to chat with each other in real time.,0,Dataset6000Req.xlsx
+User shall require fault-tolerant system design where necessary.,1,Dataset6000Req.xlsx
+The System must allow a user to stipulate which other users or groups can access cases.,1,Dataset6000Req.xlsx
+User shall navigate between search results to view different products.,0,Dataset6000Req.xlsx
+The system shall be able to use trigger values in combination with current temperature to determine heating or cooling activation.,0,Dataset6000Req.xlsx
+User shall be able to update student details.,0,Dataset6000Req.xlsx
+"Transparency shall be accomplished in manner that is transparent to processing, communications and I/O software functions with the possible exception of recompilation of executables.",1,Dataset6000Req.xlsx
+Admin shall be able to display top-rated restaurants.,0,Dataset6000Req.xlsx
+Arranging job search results by dates or location shall be possible.,0,Dataset6000Req.xlsx
+User shall enter the received OTP.,0,Dataset6000Req.xlsx
+The system shall allow viewing a transcript of a game (stories and estimates).,0,Dataset6000Req.xlsx
+The system shall allow camp administrators to filter the event calendar for specific groups.,0,Dataset6000Req.xlsx
+The user shall be able to either Save or Discard their changes for Subjects.,0,Dataset6000Req.xlsx
+The user shall be able to refine their search directly on the same page if their initial search yields no results.,0,Dataset6000Req.xlsx
+"Dispute panel shall be able to reassign order in the case, if delivery boy dint acknowledge the request.",0,Dataset6000Req.xlsx
+The system shall display all items planned for estimation in the current session.,0,Dataset6000Req.xlsx
+"Once a request to turn on or off a heating or cooling unit, the THEMAS system shall provide the necessary control signal for the unit.",0,Dataset6000Req.xlsx
+The user shall be able to do payment with a secured bank payment mode.,1,Dataset6000Req.xlsx
+Software system and application code shall be well documented and written in a generally familiar language or languages (preferably not more than two).,1,Dataset6000Req.xlsx
+The restaurant owner login system must always prevent unauthorized access by notifying users of failed login attempts with non-existent accounts.,1,Dataset6000Req.xlsx
+The user shall be able to either Save or Discard their changes for a New/Edit Term.,0,Dataset6000Req.xlsx
+"Users shall be able to send text messages, pictures, videos, audio recordings, video calls, and play multiplayer games.",0,Dataset6000Req.xlsx
+The user shall be able to set notification parameters for an assignment.,0,Dataset6000Req.xlsx
+User shall input eligibility criteria status.,0,Dataset6000Req.xlsx
+System shall output valid temperature status if temperature data is within valid range.,0,Dataset6000Req.xlsx
+Upon the USB being plugged in the system shall be able to be deployed and operational in less than 1 minute,1,Dataset6000Req.xlsx
+"System's back-end servers shall not display the customer's password, only reset it if necessary.",1,Dataset6000Req.xlsx
+"Login and profile updates, including password reminders, shall be provided.",0,Dataset6000Req.xlsx
+System shall show the first lines of news articles based on the titles on the title screen.,0,Dataset6000Req.xlsx
+Customer shall be able to use offers for restaurants they have chosen.,0,Dataset6000Req.xlsx
+"The system shall manage the entire software lifecycle, including version control, download, activation, and retrieval.",0,Dataset6000Req.xlsx
+The system shall allow users to select and follow other users.,0,Dataset6000Req.xlsx
+User shall retrieve forgotten passwords by clicking on the password retrieval link.,0,Dataset6000Req.xlsx
+The TCS shall present to the operator the estimated time of arrival and fuel status at each programmed waypoint of the proposed mission plan.,0,Dataset6000Req.xlsx
+User shall view and respond to posts from other users.,0,Dataset6000Req.xlsx
+The system shall provide information about new government schemes related to LPG.,0,Dataset6000Req.xlsx
+"User shall be able to search for blogs using a search query string, with results displayed based on the query.",0,Dataset6000Req.xlsx
+System shall search for specified products within 1 second.,1,Dataset6000Req.xlsx
+"The system shall be able to fully reconstruct the raw, original input data from the processed output.",1,Dataset6000Req.xlsx
+"User shall find hospital information, including email and website links, cafeteria hours, daily menu, area map, and shower availability, on the Hospital Information page.",0,Dataset6000Req.xlsx
+"Adobe Creative Cloud shall provide users with access to other Adobe creative applications (e.g., Photoshop, Premiere) to enhance their creative workflow by enabling seamless integration.",1,Dataset6000Req.xlsx
+Speakers shall support Yamaha codecs.,0,Dataset6000Req.xlsx
+The app shall provide users/restaurants with their respective functionalities based on access control.,0,Dataset6000Req.xlsx
+The administrator shall have the ability to remove a user from the system.,1,Dataset6000Req.xlsx
+The client will send a GET request to the Web API with the question as a URL parameter.,0,Dataset6000Req.xlsx
+"Usernames and passwords shall not be shared with anyone (students, faculty, or others).",1,Dataset6000Req.xlsx
+"User shall be able to log in to the mobile application after registering, with the option for automatic login in the future.",0,Dataset6000Req.xlsx
+User shall be able to maintain data by implementing the latest model and performing regular updates for new titles.,0,Dataset6000Req.xlsx
+"User shall update a blog by filling out a form with title, description, and content, with validation ensuring data integrity.",0,Dataset6000Req.xlsx
+User shall specify software requirements and dependencies.,1,Dataset6000Req.xlsx
+System shall utilize SSL (Secured Socket Layer) certificate for protection.,1,Dataset6000Req.xlsx
+"The applications memory usage on the mobile operating system should ideally be below 10 MB, with a strict limit of 20 MB during operation.",1,Dataset6000Req.xlsx
+System shall offer easy access to the blog for user consumption.,1,Dataset6000Req.xlsx
+The system shall track financial responsibility for each item.,0,Dataset6000Req.xlsx
+"Users are not able to safely operate the device under certain conditions, such as while driving.",1,Dataset6000Req.xlsx
+Admin shall be able to read users' feedback and complaints to improve the service provided.,0,Dataset6000Req.xlsx
+System shall require user to sign in before adding transportation routes.,0,Dataset6000Req.xlsx
+The PayPal network must be available 24 hours a day to ensure continuous service availability.,1,Dataset6000Req.xlsx
+"User shall add items to the shopping cart with a response time of less than 1 second, enhancing the shopping experience.",1,Dataset6000Req.xlsx
+Delivery boy shall be able to reach the restaurant and check order details.,0,Dataset6000Req.xlsx
+System shall ensure compatibility with various data formats and standards for interoperability.,1,Dataset6000Req.xlsx
+User shall check returned assets and update the inventory if an inventory user.,0,Dataset6000Req.xlsx
+The system shall provide the functionality for users to follow other users.,0,Dataset6000Req.xlsx
+System shall stop protecting the device from threats if the software validity exceeds the limit.,0,Dataset6000Req.xlsx
+The system shall allow browsing collections and viewing item metadata.,0,Dataset6000Req.xlsx
+The system shall securely transfer data between the source and target phones.,0,Dataset6000Req.xlsx
+The system shall have a response time of less than 5 seconds for basic operations.,1,Dataset6000Req.xlsx
+System shall prevent data corruption through backup procedures.,1,Dataset6000Req.xlsx
+User shall input the received OTP for verification.,0,Dataset6000Req.xlsx
+Upon the USB being plugged in the system shall be able to be deployed and operational in less than 1 minute.,1,Dataset6000Req.xlsx
+"System shall prompt ""OTP sent to mobile and email"" for verification.",0,Dataset6000Req.xlsx
+System shall generate notifications when the stock of a particular medicine falls below a predefined threshold.,0,Dataset6000Req.xlsx
+"User shall be able to record exercises, repetitions, and the followed diet within the application.",0,Dataset6000Req.xlsx
+A user shall be able to select a payment method and complete the payment.,0,Dataset6000Req.xlsx
+User accessibility shall be censured in all ways.,1,Dataset6000Req.xlsx
+The system shall allow users to view videos.,0,Dataset6000Req.xlsx
+"Upon successful signup, the system shall navigate to the app home page with different options.",0,Dataset6000Req.xlsx
+The system shall perform basic operations in less than 2 seconds.,1,Dataset6000Req.xlsx
+FABS user shall have appropriate language on FABS pages for better user experience and understanding.,1,Dataset6000Req.xlsx
+The system shall be able to like insApption from the main menu.,0,Dataset6000Req.xlsx
+The GUI and other parts of the software shall be developed using JAVA and J2EE.,1,Dataset6000Req.xlsx
+The system shall allow staff members to process requests for zoning information.,0,Dataset6000Req.xlsx
+The user shall be able to either Save or Discard their changes for a New/Edit Academic Year.,0,Dataset6000Req.xlsx
+"The system shall display a real-time map powered by Mapbox copyrighted by OpenStreetMap and DigitalGlobe, where user's Bitmoji avatar representing them moves according to their location and even simulates driving by entering a car icon.",0,Dataset6000Req.xlsx
+System shall store archived data directly on the HCP object store to leverage its features.,1,Dataset6000Req.xlsx
+The product shall run on existing hardware for all environments.,1,Dataset6000Req.xlsx
+System shall display different versions of datasets clearly to aid users in selecting the appropriate version.,1,Dataset6000Req.xlsx
+System shall provide meaningful error messages when pipeline creation fails due to an existing dataset being incompatible with the pipeline requirements.,1,Dataset6000Req.xlsx
+System shall send a message to the main developer team if the serial key is invalid.,0,Dataset6000Req.xlsx
+User shall be able to link datasets with project Data Management Plans (DMPs) for compliance demonstration.,0,Dataset6000Req.xlsx
+"The system shall provide uninterrupted functionality both with and without an internet connection. In offline mode, users should still be able to access certain features. In online mode, the system should operate smoothly.",1,Dataset6000Req.xlsx
+A clinical lab section shall include the clinical site name the class instructor day and time of the lab.,0,Dataset6000Req.xlsx
+The system shall allow parents to enroll their children for camp.,0,Dataset6000Req.xlsx
+System shall deny access and display an error message if the ID card is invalid.,0,Dataset6000Req.xlsx
+System shall log the serial number of a valid cash card.,0,Dataset6000Req.xlsx
+Access to client details shall require Client ID for data protection.,1,Dataset6000Req.xlsx
+The product shall make the users want to use it. 80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.,1,Dataset6000Req.xlsx
+The application shall operate on all modern web browsers with all its core functionalities.,1,Dataset6000Req.xlsx
+The moderator shall be able to remove/edit any ideas during the idea and grouping phases.,0,Dataset6000Req.xlsx
+The system shall allow curators to move items between collections.,0,Dataset6000Req.xlsx
+The system shall use symbols and words that are naturally understandable by the user community.,1,Dataset6000Req.xlsx
+The system shall require users to enter correct credentials for authentication.,0,Dataset6000Req.xlsx
+System shall enable easy listing of summit agendas.,1,Dataset6000Req.xlsx
+"The application should be available at all working hours, with maintenance or backup operations conducted outside of working hours.",1,Dataset6000Req.xlsx
+Any element of the system will take no longer than 10-seconds to restart.,1,Dataset6000Req.xlsx
+The system shall be secure and protect user data throughout the cloning process.,1,Dataset6000Req.xlsx
+System shall rebuild all cached data during every startup for availability.,1,Dataset6000Req.xlsx
+The client will be able to parse the JSON and determine if there was an error.,0,Dataset6000Req.xlsx
+System shall support a variety of media file and text-based formats.,1,Dataset6000Req.xlsx
+Customers shall receive order details once the order is picked up.,0,Dataset6000Req.xlsx
+System shall display available astrologers for interaction based on user input.,0,Dataset6000Req.xlsx
+System shall define accepted data formats for deposit.,0,Dataset6000Req.xlsx
+User shall be able to know exactly what ALFRED does with their personal data and share it only with specific permission.,0,Dataset6000Req.xlsx
+Credit card advance time must not exceed 6 seconds under both normal and peak workloads.,1,Dataset6000Req.xlsx
+Second field will be date of task completion.,0,Dataset6000Req.xlsx
+User shall ensure uninterrupted connections and maintain a high data transfer rate.,1,Dataset6000Req.xlsx
+The system shall identify interesting volunteer comments on subjects.,0,Dataset6000Req.xlsx
+Staff shall monitor all city ATMs for faults and correct any issues immediately.,1,Dataset6000Req.xlsx
+User shall not be able to view other users' details for privacy and security reasons.,1,Dataset6000Req.xlsx
+The system shall allow consumers to download data packages in specific versions.,0,Dataset6000Req.xlsx
+User shall provide the necessary permissions to allow the application to interact with social media apps on their device.,0,Dataset6000Req.xlsx
+The system shall warn publishers when overwriting existing tags.,0,Dataset6000Req.xlsx
+The system shall allow staff members to review code modifications submitted by applicants and associate approved modifications with projects.,0,Dataset6000Req.xlsx
+System shall rebuild cached data on every startup.,1,Dataset6000Req.xlsx
+"The system shall allow users to create a new account by providing their name, date of birth, and email id.",0,Dataset6000Req.xlsx
+The product shall respond fast to keep up-to-date data in the display.,1,Dataset6000Req.xlsx
+The user shall be able to make payments with secured bank payment mode.,1,Dataset6000Req.xlsx
+System shall be able to display an error message and take corrective action if multiple incorrect attempts are made.,0,Dataset6000Req.xlsx
+"User shall easily navigate the system with a simple web page design, ensuring accessibility for all users.",1,Dataset6000Req.xlsx
+"The system shall ensure scalability to accommodate an increasing number of users, accounts, and transactions.",1,Dataset6000Req.xlsx
+"The TCS shall compute the estimated position of the AV during Loss of Link (LOL) based upon the last known AV position and anticipated flight path based on current flight mode (e.g. flight route plan mode, emergency flight route plan mode, maintain current heading mode).",0,Dataset6000Req.xlsx
+Instructors must enter a password to take roll or edit database information.,1,Dataset6000Req.xlsx
+"The average time for the server to respond, over the question testing set, will be less than or equal to 2 seconds.",1,Dataset6000Req.xlsx
+The system shall provide an intuitive and user-friendly interface.,1,Dataset6000Req.xlsx
+System shall provide robust search functionality for retrieving experimental protocols and files.,1,Dataset6000Req.xlsx
+System shall update the status of a particular application number with the selected status.,0,Dataset6000Req.xlsx
+User must have a valid login ID to access the site.,0,Dataset6000Req.xlsx
+The system shall allow users to send and receive messages.,0,Dataset6000Req.xlsx
+Applicants' accessibility shall be ensured in all possible ways.,1,Dataset6000Req.xlsx
+User shall have control over the database and manage all records of customers and employee details.,0,Dataset6000Req.xlsx
+"The system shall include a ""What is Scrum"" section for visitors.",0,Dataset6000Req.xlsx
+The system shall be user-friendly and easy to navigate.,1,Dataset6000Req.xlsx
+"Authentication shall be done by username and password for all users, with administrative levels accessing administration computers.",0,Dataset6000Req.xlsx
+The system shall allow assistant archivists to upload staff-generated working papers.,0,Dataset6000Req.xlsx
+"During billing mode, the app shall represent cash payment for items ordered.",0,Dataset6000Req.xlsx
+The system shall allow administrators to approve job advertisements before publishing.,0,Dataset6000Req.xlsx
+An API User shall be able to identify Data Publishers.,0,Dataset6000Req.xlsx
+The system shall be able to display its graphical user interface (GUI) within an 800 x 600 pixel resolution.,1,Dataset6000Req.xlsx
+The user shall be able to add a title for the new task.,0,Dataset6000Req.xlsx
+PIN verification time must not exceed 0.3 seconds under normal workload and 0.5 seconds under peak workload.,1,Dataset6000Req.xlsx
+System shall ensure response time between requests and completion is minimal.,1,Dataset6000Req.xlsx
+"VS Code shall not support application virtualization solutions (Microsoft App-V, MSIX for Windows, or third-party alternatives).",1,Dataset6000Req.xlsx
+"When in billing mode, app shall display a representation of a cash payment for the items ordered.",0,Dataset6000Req.xlsx
+"Increased RAM shall improve the software's ability to handle complex projects, multiple layers, and large file sizes.",1,Dataset6000Req.xlsx
+"Running the full VS Code in Windows/Linux containers is not supported. However, using the Dev Containers extension with the VS Code server running in the container and the client on the desktop is supported.",1,Dataset6000Req.xlsx
+software shall be eco-friendly.,1,Dataset6000Req.xlsx
+The reports shall be accessible through a user-friendly interface and exportable in common formats.,0,Dataset6000Req.xlsx
+"User shall be able to choose the type of conversation (video chat, messaging, file transfer, etc.) after selecting the user to communicate with.",0,Dataset6000Req.xlsx
+User shall be able to deposit datasets through Virtual Research Environments and other workflow tools.,0,Dataset6000Req.xlsx
+System shall generate reports on the status of investigations.,0,Dataset6000Req.xlsx
+User shall download videos by clicking on the download button.,0,Dataset6000Req.xlsx
+Agency user shall know the submission periods' start and end dates for timely data submission.,1,Dataset6000Req.xlsx
+Users shall remove stocks from their portfolio.,0,Dataset6000Req.xlsx
+"User shall experience adaptability and flexibility in the app, accommodating evolving user needs, technological advancements, and market trends through modular architectures and extensible design patterns.",1,Dataset6000Req.xlsx
+The system shall allow exporting transcripts as CSV files.,0,Dataset6000Req.xlsx
+The system shall accept user input for origin and destination stations.,0,Dataset6000Req.xlsx
+The system shall allow searching for resources based on various metadata criteria.,0,Dataset6000Req.xlsx
+The system shall allow inspection staff to assign inspections.,0,Dataset6000Req.xlsx
+User shall be able to assign Location information to a Container.,0,Dataset6000Req.xlsx
+"User shall/will have access to a simple and intuitive user interface designed for ease of use, especially for elderly patients.",1,Dataset6000Req.xlsx
+The user shall have the option to sign up using their Google account.,0,Dataset6000Req.xlsx
+System shall respond to citizen inquiries with minimal turnaround time.,0,Dataset6000Req.xlsx
+The Khan Academy platform shall be reliable and available for use during school hours.,1,Dataset6000Req.xlsx
+The system shall restrict broadcast message transmission to authorized administrators only.,1,Dataset6000Req.xlsx
+The system shall provide a merchant for transactions.,0,Dataset6000Req.xlsx
+System shall be able to generate and provide downloadable account statements.,0,Dataset6000Req.xlsx
+Shop owners shall consult with the administrator regarding product quality and advertisements.,0,Dataset6000Req.xlsx
+User shall enter the mobile number and receive an OTP for verification.,0,Dataset6000Req.xlsx
+"The application shall be available for download on the Google Play Store, allowing users to access it at any time.",1,Dataset6000Req.xlsx
+The system shall be able to add a new restaurant owner upon creation by an administrator.,0,Dataset6000Req.xlsx
+System shall ensure data security and compliance with relevant regulations and standards.,1,Dataset6000Req.xlsx
+The system shall check the eligibility criteria in the database during account creation.,0,Dataset6000Req.xlsx
+The platform shall have a community app showcasing data visualization examples.,1,Dataset6000Req.xlsx
+"Upon login, the system shall direct users to either the manager or worker portion of the program.",0,Dataset6000Req.xlsx
+The system shall have an availability of 99.99%.,1,Dataset6000Req.xlsx
+A new stylistic map must be geographically correct.,1,Dataset6000Req.xlsx
+"The system should reliably deliver accurate search results in over 98% of cases, aiming for 99% or even perfect accuracy during operation",1,Dataset6000Req.xlsx
+The system shall be able to handle large and complex spreadsheets without significant performance degradation.,1,Dataset6000Req.xlsx
+Applying for a job shall be facilitated with a single click.,0,Dataset6000Req.xlsx
+System shall be able to provide functionality for online balance checks.,0,Dataset6000Req.xlsx
+The system shall display a launcher to the Facebook-app version 3.1.9 on the main menu.,0,Dataset6000Req.xlsx
+"The system shall conform to HTML standards and therefore support different web browsers including, but not limited to Internet Explorer, Firefox, Opera and Safari.",0,Dataset6000Req.xlsx

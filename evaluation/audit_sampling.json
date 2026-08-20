@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "error_rows": 73,
+  "control_rows": 40,
+  "queue_rows": 113,
+  "controls_per_class": 20,
+  "source_labels_unchanged": true,
+  "signal_category_is_only_a_review_hint": true
+}

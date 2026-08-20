@@ -1,0 +1,38 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    env_file:
+      - .env
+    environment:
+      MODEL_DIR: /models/beto_rf_rnf
+    expose:
+      - "8000"
+    volumes:
+      - /srv/elbeto/models:/models:ro
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health', timeout=5)"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
+    restart: unless-stopped
+    networks:
+      - elbeto
+
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    command: tunnel --config /etc/cloudflared/config.yml run
+    depends_on:
+      api:
+        condition: service_healthy
+    volumes:
+      - ./cloudflared:/etc/cloudflared:ro
+    restart: unless-stopped
+    networks:
+      - elbeto
+
+networks:
+  elbeto:
+    driver: bridge

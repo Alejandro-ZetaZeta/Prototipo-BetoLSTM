@@ -1,0 +1,436 @@
+text,label
+'El radio de búsqueda estará entre 1 y 30 millas',0
+"""El sistema será utilizado por agentes inmobiliarios sin formación.""",1
+"""Cuando el jugador atacante realice un tiro, el producto simulará el sonido de un barco en el mar"".",1
+«El informe de auditoría incluirá el número de piezas recicladas disponibles a partir de los resultados de la búsqueda original.»,0
+'El código PHP cumplirá con los estándares PEAR.',1
+"""Todas las pantallas creadas como parte de la aplicación Disputas deben cumplir con los estándares corporativos para la creación de interfaces"".",1
+"'La ubicación del vehículo incluirá la dirección, la ciudad, el estado y el código postal'",0
+'El producto deberá mostrar el equipamiento de la sala según los parámetros de búsqueda.',0
+"""El sistema permitirá a los administradores generar PIN prepagos únicos en menos de 2 minutos y generar un archivo Excel con los PIN generados"".",1
+"'El sistema contendrá información de contacto (correo electrónico y número de teléfono) de todas las personas relevantes para el sistema, incluidos (pero no limitados a) miembros del personal, estudiantes, instructores, instructores de laboratorio clínico y administradores de sitios clínicos.'",0
+"""El servidor de streaming tendrá un software antivirus para evitar la infección de virus maliciosos"".",1
+«El número medio de registros de piezas recicladas al día será de 50 000.».,1
+"""El producto mantendrá el estado de cada jugador durante un turno, ya sea ofensivo o defensivo"".",0
+"'Se debe proporcionar al usuario una lista de todos los casos de disputas que cumplan con los criterios de búsqueda ingresados. La lista de casos debe diferenciar el tipo y/o estado del caso mediante un código de colores en la línea de pedido de la lista. Por ejemplo, todos los casos abiertos serán amarillos y todos los casos cerrados serán grises.'",1
+"""Todas las ventas de películas en streaming se registrarán en la base de datos y el administrador podrá acceder a ellas"".",1
+'Los administradores del programa y los miembros del personal de enfermería tendrán la capacidad de especificar qué clases se requieren para un programa de estudio',0
+"""El producto deberá mostrar un mapa del edificio de la empresa que muestre la ubicación de las salas de conferencias"".",0
+': El producto deberá continuar funcionando durante el cambio de actualización o la adición de nuevos recursos. El producto deberá poder continuar funcionando sin interrupción en el servicio debido a la adición de nuevos recursos.',1
+"En una conexión de 112k o más rápida, el tiempo de respuesta del sistema para todas las operaciones no debe ser superior a 3 segundos el 90% del tiempo.",1
+"""Si se revoca una cuenta de usuario, solo el administrador del sistema puede volver a crear una instancia"".",1
+El sistema debe estar disponible para su uso entre las 7:00 a. m. y las 23:59 p. m. todos los días del año.',1
+'El Sistema de Disputas proporcionará con precisión una lista de posibles códigos de motivo para una transacción determinada. La lista de posibles códigos de motivo debe derivarse en función del tipo de transacción y la industria a la que pertenece el comerciante de acuerdo con las reglas comerciales definidas para el Sistema de Disputas.',1
+"""El sistema ofrecerá la posibilidad de pausar y reanudar la actualización de datos"".",0
+"""El producto proporcionará servicios de seguimiento de errores. El producto ayudará a los administradores del sistema y a los DBA a resolver errores de transacciones el 99% del tiempo"".",1
+'El Subsistema PME permitirá construir menús de productos basados ​​en la lista de productos mantenida en el sistema contable.',0
+"""Solo los clientes registrados pueden comprar películas en streaming"".",1
+"'Al ver los detalles de una película, el sitio web mostrará la descripción de la película, el actor y el director ingresados ​​por el administrador.'",0
+'El administrador de Izogn debe poder agregar nuevos productos al sitio web en 2 minutos.',1
+'El producto deberá tener seguridad. El producto deberá proporcionar autenticación y autorización.',1
+"""El producto mostrará las salas de conferencias según los parámetros de búsqueda"".",0
+"""El producto tendrá una apariencia y sensación personalizables"".",1
+"""Los informes de defectos estarán disponibles para las unidades técnicas las 24 horas del día, los 7 días de la semana"".",1
+"""Las películas solo se pueden transmitir si el cliente ha comprado una película y se encuentra dentro del período de dos días para transmitirla"".",0
+'El producto registrará las agendas de reuniones actualizadas.',0
+'Los resultados de la búsqueda se devolverán a más tardar 30 segundos después de que el usuario haya introducido los criterios de búsqueda',1
+"""El diseño del sitio web debe ser moderno, limpio y conciso"".",1
+"""Una compañía de seguros no podrá ver los datos de reclamaciones de otra compañía de seguros"".",1
+'Los administradores del programa y los miembros del personal de enfermería podrán agregar una nueva cohorte al sistema identificada por mes y año de inicio.',0
+"""Para cada turno, el producto identificará a un jugador en estado ofensivo y a otro en estado defensivo"".",0
+'El producto debe incitar a los usuarios a querer utilizarlo. El 80% de los usuarios encuestados informan que utilizan el producto con regularidad después de las dos primeras semanas posteriores al lanzamiento.,1
+«El producto será intuitivo y se explicará por sí mismo. Nueve de cada diez usuarios podrán completar con éxito un juego sin entrenamiento.',1
+'La aplicación de Disputas interactuará con la Base de Datos de Declaraciones. La base de datos de estados de cuenta proporciona los detalles de la transacción al Sistema de Disputas. Todos los detalles de la transacción deben obtenerse de la base de datos de estados de cuenta.,1
+'La aplicación Disputes debe mantener un historial detallado de cada acción que realiza un usuario en un caso de disputa. Esto garantiza un seguimiento de auditoría completo si más adelante surgen preguntas con respecto a un caso de disputa en particular.',1
+El sistema será fácil de utilizar para quienes llaman y supervisores. Las personas que llaman y los supervisores deben poder realizar cualquier tarea del sistema en 2 minutos.',1
+"""Cuando ambos jugadores hayan colocado sus 5 barcos en sus cuadrículas defensivas, el producto definirá el estado de cada jugador para el primer turno"".",0
+'El sistema permitirá al administrador agregar/eliminar películas en el sitio web en menos de 5 minutos. La información ingresada sobre la película se almacenará en la base de datos y ahora estará disponible en el sitio web.',1
+"La interfaz será atractiva para quienes llaman y supervisores. En la encuesta sobre interfaz y usabilidad, el 80% de los probadores beta deben afirmar que la interfaz es atractiva.'",1
+'Los parámetros de lavado se actualizarán durante las horas de mantenimiento programadas.',1
+"""El producto deberá responder rápidamente para mantener los datos actualizados en la pantalla"".",1
+«Sólo se introducirán en el sistema datos válidos. No se introducirán en el sistema datos no válidos.»,1
+'El producto deberá poder instalarse en el entorno especificado en el plazo de 1 día laborable.',1
+'Los usuarios deberán sentirse satisfechos utilizando el producto. El 85% de todos los usuarios estarán satisfechos con el producto.',1
+«Únicamente los estimadores de colisiones buscarán piezas recicladas. Los usuarios que no tengan la función de estimador de colisiones no tendrán acceso a la búsqueda de piezas recicladas.».,1
+«El producto protegerá la identidad de los jugadores. El producto no proporcionará a los jugadores acceso a información que pueda revelar la identidad de otro jugador.».,1
+"""Sólo el personal autorizado puede acceder a los registros de clientes en la base de datos"".",1
+"""El sistema evitará ataques maliciosos, incluida la denegación de servicio"".",1
+"""El sitio web seguirá funcionando si la pasarela de pago deja de funcionar.""",1
+'El producto deberá poder almacenar equipos de sala nuevos.',0
+'Los administradores del programa y los miembros del personal de enfermería podrán agregar nuevas clases para el departamento de enfermería al sistema.',0
+'El sistema permitirá al administrador desactivar la cuenta de un cliente en menos de 1 minuto. El cliente ya no podrá acceder al sitio web.',1
+"""El servidor admitirá un máximo de 1.000 usuarios simultáneos"".",1
+"""El sistema atenderá a 10 usuarios simultáneos de 9 a 17 horas"".",1
+'Los administradores del programa y los miembros del personal de enfermería podrán agregar un solo estudiante a una cohorte',0
+"""La apariencia del sistema deberá ajustarse a los estándares de interfaz de usuario del dispositivo inteligente"".",1
+"""Un cliente solo puede transmitir una película si la compró y se encuentra dentro del período de visualización de 2 días"".",1
+"""El sistema devolverá una lista de instalaciones de reparación dentro del radio si no se puede determinar cuál es la instalación de reparación preferida"".",0
+'El sistema dispondrá de un formulario MDI que permita la visualización del gráfico y de la tabla de datos.',0
+«El liquidador revisará la estimación de colisión.»,0
+"""El sistema será capaz de procesar el 100% de los estudiantes de enfermería y sus clases durante los próximos 10 años"".",1
+«El Sistema cumplirá todas las normas contables aplicables. La versión final del Sistema debe superar con éxito una auditoría independiente realizada por un auditor certificado.',1
+"""El producto generará un informe CMA en un tiempo aceptable"".",1
+"'El Sistema permitirá ingresar, almacenar y modificar fórmulas de productos.'",0
+'Si el tiro fue marcado como fallido el producto cambiará el estado del jugador defensivo a ofensivo',0
+"«Al comienzo de cada turno, el producto notificará a cada jugador su estado.»",0
+"""El sistema permitirá al administrador agregar/eliminar categorías en el sitio web en menos de 5 minutos"".",1
+'El sistema proporcionará un informe histórico de los cambios realizados en los datos de Actividad o Evento',0
+"""Los administradores del programa y los miembros del personal de enfermería podrán especificar la secuencia preferida de clases para una cohorte determinada"".",0
+'El Sistema de Disputas debe proporcionar diferentes niveles de acceso con respecto a la iniciación de casos de disputas y las acciones de seguimiento.',1
+"'Si el tiro fue marcado como un golpe, el producto permitirá al jugador ofensivo definir un tiro.'",0
+'Una cohorte estará asociada a un programa de estudios ofrecido por el departamento.',0
+"""Debemos poder interactuar con cualquier navegador HTML"".",1
+"'El sistema permitirá a los usuarios actualizar su información de facturación y contacto a través de la sección ""Mi cuenta"" del sitio web.'",0
+"""El sistema codificará con colores los eventos según su variación con respecto a la hora actual"".",1
+El producto deberá garantizar que sólo los supervisores puedan anunciar franjas horarias vacías. El producto debe garantizar que los supervisores puedan acceder a anunciar franjas horarias vacías.,1
+Los estudiantes agregados a una cohorte serán elegibles para el programa de estudios de la cohorte.',0
+'El Sistema de Disputas proporcionará capacidad de acceso a actualizaciones para los usuarios autorizados de la aplicación.',1
+"""El sistema utilizará las direcciones de correo electrónico almacenadas como medio principal para comunicar información a las partes afectadas"".",0
+'El sistema mostrará la hora local y de ejercicio en relojes separados',0
+"""El producto podrá gestionar 10.000 usuarios simultáneos en un plazo de dos años desde su lanzamiento inicial"".",1
+"""El sitio web deberá poder atender a 100.000 clientes.""",1
+'La recreación del ajuste de cantidad de inventario para el período de los 30 días anteriores no tomará más de 30 minutos.',1
+"""Sólo los usuarios autorizados tendrán acceso a la parte del sistema que interactúa con CampusConnect"".",1
+«El producto estará disponible para su distribución a través de Internet como archivo binario o ZIP.»,1
+"""Toda la información del cliente registrado se almacenará y mantendrá en la base de datos incluso después de que el cliente cancele su cuenta"".",0
+"""Se utilizará una base de datos secundaria para almacenar estadísticas y datos históricos"".",1
+"""El producto funcionará en modo fuera de línea siempre que la conexión a Internet no esté disponible"".",1
+'El sistema ofrecerá una visualización de todos los Eventos del ejercicio.',0
+'El producto actualizará el equipamiento de la sala existente.',0
+«El producto registrará todos los equipos que se hayan reservado.»,0
+"""El producto deberá ser robusto. El producto deberá poder evitar fallas basándose en la adopción de estándares"".",1
+«Las fórmulas de los productos permitirán el uso de semiproductos que tengan fórmulas propias.»,0
+'La solicitud de Controversias deberá ajustarse a los requisitos legales establecidos en el Reglamento de Operación Comerciante.',1
+«El informe de auditoría incluirá el porcentaje de piezas recicladas disponibles utilizadas en el presupuesto».,0
+"""El producto notificará a los empleados sobre las invitaciones a reuniones"".",0
+"'El sistema resolverá el código postal de la dirección de la calle, ciudad y estado si se desconoce el código postal.'",0
+«El producto deberá garantizar la seguridad de la información. El producto permitirá la privacidad mediante cifrado WS-Security y Integrity Checking.',1
+"""El lado de la tabla de la pantalla se dividirá en dos regiones: secuencial y temporal"".",1
+"""El sistema actualizará automáticamente la página principal del sitio web todos los viernes y mostrará las 4 últimas películas que se han agregado al sitio web"".",0
+"""Un programa de estudios consistirá en el nombre del programa y una lista de las clases requeridas (tanto clínicas como no clínicas) que deben completarse"".",0
+"""Las clases para un grupo determinado no entrarán en conflicto con respecto a la hora y el día en que se ofrecen"".",0
+'El sistema localizará la instalación de reparación preferida con las calificaciones más altas para los criterios de entrada',0
+"El sistema deberá responder. En el Centro de Teleservicios de DePaul, cuando un supervisor utiliza el sistema para ver la programación de las personas que llaman, el tiempo de respuesta del sistema no debe ser superior a 2 segundos el 90 % del tiempo y no superior a 5 segundos el resto del tiempo.",1
+El sistema utilizará el software de protección antivirus estándar de la organización para ayudar a controlar las amenazas a sí mismo.',1
+«La interfaz será fácil de utilizar. El 90% de los usuarios debería poder utilizar con éxito el sistema para generar un informe sobre su primer uso. La interfaz debe cumplir con los estándares de usabilidad de IBM.',1
+"""El sistema utilizará símbolos y palabras que sean naturalmente comprensibles para la comunidad de usuarios"".",1
+"""El producto utilizará símbolos y palabras que sean naturalmente comprensibles para la comunidad de agentes inmobiliarios"".",1
+'El sistema mostrará datos de las aplicaciones Sync Matrix 1.0 y Ejercicio Management Tool 1.0',1
+"""El producto permitirá al usuario seleccionar un idioma elegido de uno de los países del mercado de destino"".",1
+'El Sistema de Disputas proporcionará capacidad de acceso a la vista para los usuarios autorizados de la aplicación.',1
+'Toda la información de la tarjeta de crédito estará protegida en el servidor y solo podrán acceder a ella los administradores autorizados de Izogn. La información se cifrará en la base de datos.',1
+"""El producto permitirá al organizador invitar a otros empleados a reuniones"".",0
+"""El sitio web permitirá a los clientes buscar películas por actor o director"".",0
+"El sistema notificará a las partes afectadas cuando se produzcan cambios que afecten a las cohortes, incluidos, entre otros, cambios en la secuencia del programa de estudio de una cohorte y cambios en el cronograma de una semana determinada (el laboratorio se canceló esta semana debido a una enfermedad del instructor).",0
+'El producto debe cumplir con Sarbanes-Oxley.',1
+'El usuario deberá ingresar nuevas calificaciones basadas en el informe de auditoría',0
+Todo usuario registrado tendrá acceso al sitio de soporte del producto a través de Internet. El 70% de los usuarios registrados encontrarán una solución a su problema dentro de los 5 minutos siguientes a utilizar el sitio de soporte.',1
+"""Al comprar una película en streaming o una tarjeta prepaga mediante tarjeta de crédito, el tiempo de procesamiento debe tener un tiempo de respuesta máximo de 15 segundos"".",1
+"El sistema permitirá a los clientes registrarse en el sitio web como usuario de ""pago por uso"" en menos de cinco minutos.'",1
+'El sitio web será atractivo para todos los públicos. El sitio web debe parecer divertido y los colores deben ser brillantes y vibrantes.',1
+'El sistema mostrará Eventos o Actividades.',0
+"""El servidor de streaming admitirá 50 conexiones de streaming simultáneas"".",1
+"""La información del sitio clínico incluirá (pero no se limitará a) el nombre de la persona de contacto del sitio y la información de contacto"".",0
+'El producto debe cumplir con los estándares y requisitos de la página de intranet de ENET Securities. El 95% de la apariencia del producto será aprobado por el grupo de Arquitectura antes de su implementación. El 5% restante será corregido y aprobado dentro del mes siguiente al lanzamiento del producto.,1
+"""Para cada tiro, el producto marcará el tiro como acertado o fallido en la cuadrícula ofensiva del jugador ofensivo"".",0
+«La búsqueda del centro de reparación preferido no durará más de ocho segundos. El centro de reparación preferido se devuelve en 8 segundos.,1
+"'Todos los usuarios autorizados, una vez autenticados, deben poder iniciar sesión en el Sistema de Disputas'",1
+"'El sistema podrá mostrar un resumen imprimible para cohortes individuales que incluirá a los estudiantes inscritos en el Programa de estudio, la secuencia de clases, el progreso de la cohorte a través del programa y el cronograma de finalización.'",0
+'El sistema permitirá a los clientes pagar una película en streaming con una tarjeta prepago.',0
+El sistema protegerá la información privada de acuerdo con la política de información de la organización.',1
+"""Para los estimadores, el producto deberá poder utilizarse en una instalación de reparación en condiciones de suciedad y ruido"".",1
+El producto debe garantizar que solo los supervisores puedan ver el horario de todas las personas que llaman. El producto debe garantizar que los supervisores puedan acceder a anunciar franjas horarias vacías.,1
+"'El producto proporcionará servicios de monitoreo basados ​​en GUI. Los administradores del sistema monitorearán los intercambios de mensajes, predecirán y determinarán los problemas y también brindarán soporte interno y externo.'",1
+«Todos los usuarios de CCR recibirán formación antes de que se implemente el sistema WCS. Se llevará a cabo una sesión de capacitación para el 100 % de los usuarios de CCR antes de la implementación del sistema (según la disponibilidad de un usuario de CCR).,0
+«El sistema recuperará los resultados de la búsqueda de piezas recicladas proporcionados al perito.»,0
+"""La notificación del final del juego incluirá la razón por la que finalizó el juego (es decir, un jugador ganó el juego o un jugador finalizó el juego)"".",0
+"""Cada vez que se reserve una sala de conferencias, el horario de la sala de conferencias se actualizará para reflejar la hora y la fecha de la reserva"".",0
+"""Un miembro del personal tendrá la capacidad de gestionar el progreso de un estudiante a tiempo parcial, lo que incluye modificar su secuencia de clases y el cronograma de clases"".",0
+"«El producto estará disponible para jugadores que entiendan inglés, español y francés. El producto permitirá al usuario seleccionar el idioma al acceder al producto.'",1
+'El tablero de mensajes contendrá los 5 mensajes publicados más recientemente en la página de la liga. Los mensajes contendrán hasta los primeros 150 caracteres del mensaje.',0
+«El perito deberá incluir en el encargo de presupuesto el centro de reparación preferido.»,0
+"""El producto se ejecutará en el hardware existente para todos los entornos"".",1
+"""El sitio web debe interactuar con la API CyberSource para procesar transacciones con tarjeta de crédito"".",1
+"""Una vez que se inicia un juego, el producto mostrará una cuadrícula ofensiva a cada jugador"".",0
+"""El tiempo máximo de espera para que un usuario navegue de una pantalla a otra dentro de la aplicación Disputas no será superior a 5 segundos"".",1
+'El Sistema utilizará equipos informáticos de propiedad actual.',1
+"""El producto podrá admitir 1.000 usuarios simultáneos"".",1
+'Las calificaciones se realizarán en una escala del 1 al 10',0
+'El sistema notificará al agente inmobiliario cuando un vendedor o comprador responda a una solicitud de cita',0
+'Los administradores del programa/miembros del personal de enfermería son las únicas personas que tendrán acceso a los detalles del sitio clínico.',1
+"""El producto deberá cumplir con la Ley de Estadounidenses con Discapacidades"".",1
+"""El producto podrá enviar notificaciones de reuniones a través de diferentes tipos de métodos especificados por el usuario final"".",0
+"""Si la puntuación de los clientes potenciales se sitúa dentro del promedio medio, un coordinador de inscripción la configurará para verificación manual a través del sistema eleads"".",0
+'Se debe poder agregar un nuevo usuario al sistema en 10 minutos. El 90% de los nuevos usuarios pueden iniciar sesión en el sistema en 10 minutos.',1
+'El Sistema controlará de forma granular los derechos de acceso a todos los subsistemas principales. Debería ser posible asignar derechos de acceso a todos los subsistemas de forma independiente.',1
+"""La función de lavado de clientes potenciales tendrá una interfaz en la que se podrán mantener los parámetros de los datos de los clientes potenciales"".",0
+«El informe de auditoría se mostrará al usuario.»,0
+"""Cualquier interfaz entre un usuario y el sistema automatizado tendrá un tiempo de respuesta máximo de 5 segundos, a menos que se indique una excepción a continuación"".",1
+"""El producto tendrá una interfaz de usuario intuitiva"".",1
+'El proveedor presentará un registro de validación de crédito que se aplicará al sistema de facturación empresarial.',0
+El sistema WCS estará disponible en todo momento mientras la intranet interna W3 de IBM sea accesible. El sistema WCS estará disponible el 95% del tiempo que la intranet interna W3 de IBM esté disponible.',1
+"""Se utilizará una base de datos primaria para almacenar datos en caché para los usuarios activos"".",1
+'2 de cada 3 administradores de programas/miembros del personal de enfermería podrán utilizar con éxito el sistema para gestionar la programación de clases y clínicas.',1
+'El número de errores observados por los estudiantes se reducirá en un 50% durante el primer año.',1
+"""El personal de Velkat estará disponible para soporte telefónico entre las 7 am y las 7 pm de lunes a viernes para brindar soporte técnico a los administradores de Izogn"".",1
+'El producto procesará los mensajes en 2 segundos. El producto tendrá un tiempo máximo de procesamiento de mensajes de 2 segundos',1
+"""El cliente podrá comprobar el estado de su tarjeta prepago introduciendo el número PIN en menos de 5 segundos"".",1
+"'Los administradores del programa/miembros del personal de enfermería tendrán la capacidad de modificar la información relacionada con un programa de estudio dentro del Departamento de enfermería, incluido el nombre del programa de estudio y las clases requeridas para ese programa de estudio.'",0
+"«Cuando un disparo se marque como fallido, el producto simulará el sonido de un disparo que falla en el objetivo.»",1
+'El Sistema permitirá la generación de documentos de Ajuste de Cantidad de Inventario a pedido.',0
+"""El producto utilizará un menú de navegación estándar familiar para la mayoría de los usuarios de la web"".",1
+"""Cuando el impacto da como resultado el hundimiento de un barco, el producto marcará el barco como hundido en la cuadrícula defensiva del jugador defensivo"".",0
+"""Aparte del fallo del servidor, el producto de software alcanzará un tiempo de funcionamiento del 99,99%"".",1
+"'Para clientes potenciales que se procesan durante más de 25 segundos, el sistema registrará el evento y la duración'",0
+"""El producto deberá proporcionar servicios de monitoreo. El producto será fácil de usar para los administradores de sistemas y DBA después de dos semanas de uso"".",1
+"""La aplicación Disputes admitirá 350 usuarios simultáneos sin ninguna degradación del rendimiento de la aplicación"".",1
+'El producto enviará una confirmación de la reunión al organizador de la reunión.',0
+"""Si un cliente potencial obtiene una puntuación alta, el sistema proporcionará los datos del cliente potencial y la puntuación al sistema empresarial"".",0
+"""La lista de casos de disputa que se muestra después de realizar una búsqueda debe estar codificada por colores para una fácil identificación de los casos de disputa según el estado del caso de disputa"".",1
+El sistema tendrá alta disponibilidad todos los días del año. El sistema deberá estar disponible para su uso entre las 00:00 horas y las 18:00 horas todos los días del año.',1
+El acceso de los usuarios debe limitarse a los permisos otorgados a sus funciones. A cada nivel de la jerarquía PCG se le asignará una función y los usuarios serán asignados a estas funciones. El acceso a la funcionalidad dentro del sistema RFS depende de los privilegios/permisos asignados al rol.,1
+"""El producto deberá tener una combinación de colores y fuentes consistentes"".",1
+«El producto será intuitivo y se explicará por sí mismo. : El 90% de los nuevos usuarios podrán iniciar la visualización de Eventos o Actividades dentro de los 90 minutos posteriores al uso del producto.,1
+'El Sistema de Disputas permitirá al usuario crear o iniciar una solicitud de devolución de cargo. El sistema debe solicitar al usuario que ingrese la información requerida para iniciar una solicitud de devolución de cargo. La solicitud de devolución de cargo da como resultado una notificación de devolución de cargo impresa que se envía al comerciante indicando que se le reembolsará el cargo a su cuenta si no se proporciona prueba de que la transacción en disputa es válida.',0
+«El producto interactuará con CSR y Datastream. El producto intercambiará mensajes entre CSR y EAM en tiempo real sin interfaces directas entre dos sistemas.»,1
+"""La función de lavado de clientes potenciales devolverá los datos del cliente potencial proporcionados al proveedor junto con el motivo del rechazo"".",0
+'El producto deberá poder admitir múltiples usuarios remotos',0
+'El sistema vinculará los eventos a las aplicaciones Sync Matrix 1.0 o Ejercicio Managment Tool 1.0 para realizar modificaciones.',1
+"""El sitio web debería atender a todas las tribus de Nigeria"".",1
+"""El producto debería poder ser utilizado por el 90% de los usuarios novatos en Internet"".",1
+"""Para cada tiro, el producto marcará el tiro como acertado o fallido en la cuadrícula defensiva del jugador defensivo"".",0
+"""La función de lavado de clientes potenciales almacenará cualquier posible duplicado de clientes potenciales devuelto por el sistema empresarial"".",0
+'El producto seguirá asignando turnos hasta que finalice el juego.',0
+"«El producto deberá poder gestionar hasta 1 000 solicitudes simultáneas. Este número aumentará a 2.000 en la versión 2. La capacidad de simultaneidad debe poder manejar las horas punta de programación, como las primeras horas de la mañana y las últimas horas de la tarde.'",1
+«El 98 % de las estaciones de trabajo de los usuarios deberán cumplir los requisitos mínimos de hardware antes de su implementación. Espacio mínimo en disco duro: 400 MB.',1
+'Todos los usuarios del sistema deberán ser autenticados y autorizados.',1
+"La interfaz tendrá un aspecto sencillo. En la encuesta sobre interfaz y usabilidad, el 90% de los probadores beta deben afirmar que la interfaz es suficientemente sencilla.'",1
+"""El sitio web proporcionará una sección de ayuda con respuestas y soluciones a problemas comunes"".",0
+'El sistema proporcionará gráficos para la Actividad o Evento real frente al tiempo supuesto.',0
+'Sólo los ajustadores pueden solicitar informes de auditoría de piezas recicladas. Ningún usuario sin función de ajustador podrá solicitar auditorías de piezas recicladas.',1
+'La parte Brio del sistema WCS debe poder exportar archivos en forma de hoja de cálculo (formatos Microsoft Excel y Lotus 1-2-3). Brio proporcionará botones en la interfaz de usuario que producirán/exportarán informes en formatos de archivo .xls o .123.',1
+"""El sistema alcanzará un 95% de tiempo de funcionamiento"".",1
+"El producto se traducirá a idiomas extranjeros distintos de los idiomas de los países del mercado de destino en futuras versiones. Para cada mercado objetivo emergente, no tardará más de cinco días en configurar el producto para el idioma de ese mercado.'",1
+«El informe de auditoría estará a disposición de otros liquidadores más adelante.»,0
+«El idioma del producto deberá adaptarse a todos los países del mercado de destino. El 90% de los encuestados de cada país del mercado objetivo considerarán que el lenguaje del producto es aceptable.',1
+"""El sitio web alcanzará un tiempo de funcionamiento del 99,5%"".",1
+"""Se ejecutarán secuencias de comandos de integridad de datos semanalmente para verificar la integridad de la base de datos"".",1
+'El producto deberá proporcionar soporte para cambios dinámicos y la adición de recursos transparentes. El producto deberá admitir la adición de recursos transparentes y soporte para cambios dinámicos para proporcionar escalabilidad y evitar interrupciones del servicio de más de 1 día.',1
+"""Los administradores del programa y los miembros del personal de enfermería podrán agregar un nuevo sitio clínico al sistema"".",0
+'El tiempo total del ciclo de clientes potenciales debe completarse en 5 minutos para el 90 % del volumen de clientes potenciales entre el horario comercial de 8 a. m. CST a 8 p. m. CST; luego 3 minutos para el 99% del volumen de clientes potenciales fuera del horario comercial.',1
+"""El producto sincronizará contactos y citas en un tiempo aceptable"".",1
+"""El sistema guardará las calificaciones del centro de reparación preferido"".",0
+«El producto deberá ser fácil de utilizar. El 90% de los usuarios podrán reservar con éxito una sala de conferencias dentro de los 5 minutos posteriores al uso del producto.',1
+'La apariencia del producto deberá parecer profesional',1
+"""Sólo los usuarios autorizados tendrán acceso a la información del centro clínico"".",1
+"""Una clase no clínica deberá especificar el nombre del curso, los requisitos de la sala de conferencias y las necesidades del instructor"".",0
+"""El producto se sincronizará con el sistema de la oficina cada hora"".",1
+«El subsistema PFE introducirá automáticamente los ingredientes sustitutivos de la fórmula del producto.»,0
+'El Subsistema PME permitirá que un producto exista en más de un submenú',0
+"""El Sistema de Disputas proporcionará a los usuarios la posibilidad de ver el historial de todas las actividades que han ocurrido en el caso de disputa"".",0
+'El producto proporcionará portales. El producto ayudará a los administradores del sistema a analizar las transacciones con informes ad hoc y KPI (indicadores clave de rendimiento)',1
+'Los ingredientes sustitutivos de la fórmula se mantendrán en orden persistente',0
+'Todas las acciones que modifiquen un caso de disputa existente deben registrarse en el historial del caso.',1
+"""Podrá transmitir la película comprada a través de Windows Media Player hasta 2 días después de la fecha de compra"".",0
+"'El Sistema de Disputas debe permitir al usuario crear tres tipos únicos de solicitudes de recuperación de billetes. Los tres tipos de solicitudes de recuperación de boletos son (1) Solicitud de recibo original (2) Solicitud de una copia del recibo o (3) Solicitud de un portafolio. Una cartera consta de documentación que proporcionaría prueba de una compra, como la documentación que se recibe de una agencia de alquiler de coches y que es más que un recibo de compra.'",0
+'Sólo el usuario autorizado podrá acceder al sistema RFS. ÚNICAMENTE los usuarios que existan en el sistema UAS con el sistema RFS asignado a su(s) rol(es) podrán acceder al sistema RFS y utilizarlo.',1
+"""La función de lavado de clientes potenciales utilizará los parámetros proporcionados por las empresas y las escuelas para calificar parte del cliente potencial"".",0
+"""El 100% de los representantes de servicios para titulares de tarjetas podrán crear con éxito un caso de disputa en el primer encuentro después de completar el curso de capacitación"".",1
+«El producto garantizará que sólo los empleados de la empresa o los usuarios externos con ID de usuario aprobados por la empresa puedan tener acceso al producto. El 100% de todos los inicios de sesión deberán ser realizados por empleados de la empresa o usuarios externos con ID de usuario aprobados por la empresa.,1
+"""El producto proporcionará subprocesos múltiples y equilibrio de carga. El producto proporcionará tecnología de subprocesos múltiples, así como equilibrio de carga para superar los picos de carga de datos y el tráfico"".",1
+'El producto será fácil para los clientes con conocimientos novatos en Internet para comprar y ver películas en streaming. Los clientes deberían poder comprar y ver una película predeterminada en menos de 3 minutos.',1
+"""El producto será compatible mediante el centro de soporte corporativo"".",1
+«El usuario localizará fácilmente las instrucciones mientras utiliza el producto. La ayuda para el usuario se puede encontrar en el 90% del sistema.',1
+"""Los usuarios deberían poder acceder a sus películas en streaming con menos de 2 clics después de iniciar sesión en el sitio web"".",1
+"""Una encuesta anónima mostrará que el 70% de los clientes se sienten cómodos comprando películas en streaming después de dos semanas de uso del sitio web"".",1
+"""El producto creará un registro de excepción de los problemas encontrados dentro del producto para transmitirlo a nuestra empresa para su análisis y resolución"".",1
+'El producto deberá producir resultados de búsqueda en un tiempo aceptable',1
+'El perito buscará por código postal en un radio de 30 millas si no se encuentran piezas para los proveedores de piezas preferidos',0
+"""El producto funcionará junto con el software de servidor en cualquier sistema operativo donde se pueda instalar el tiempo de ejecución de Java"".",1
+'El sistema mostrará imágenes claras de las propiedades en los resultados de la búsqueda',0
+"""El sitio web seguirá funcionando si el servidor de streaming deja de funcionar"".",1
+"Mientras se transmite una película, el almacenamiento en búfer solo debe ocurrir si hay latencia en la conexión del usuario.",1
+«El perito buscará piezas recicladas disponibles utilizando la información sobre piezas de vehículos dañadas.»,0
+«Solo podrán acceder al sistema los empleados autorizados de Corporate Community Grants (CCR). Los usuarios deben autenticarse utilizando su nombre de usuario y contraseña de la intranet de IBM.',1
+«El producto mostrará cada tipo de barco en una cuadrícula utilizando una imagen del tipo específico de barco.»,1
+'Los administradores del programa y los miembros del personal de enfermería podrán agregar nuevas clases a una secuencia de clases',0
+"«Cuando un disparo se marque como un impacto, el producto simulará el sonido de un disparo que alcanza su objetivo.»",1
+"""El producto utilizará símbolos y palabras que sean naturalmente comprensibles para los usuarios familiarizados con los sitios web"".",1
+"'El sistema RFS debería estar disponible las 24 horas del día, los 7 días de la semana, especialmente durante el período presupuestario. El sistema RFS estará disponible el 90% del tiempo durante todo el año y el 98% durante el período presupuestario. El 2% de las veces el sistema estará disponible dentro de 1 hora del momento en que se informa la situación.'",1
+'El Sistema permitirá la generación bajo demanda de todos los documentos de Ajuste de Cantidad de Inventario desde cierto momento.',0
+"""El producto podrá instalarse en cualquier entorno operativo en un plazo de dos días"".",1
+'El usuario deberá seleccionar guardar las calificaciones del centro de reparación preferido.',0
+"""Una clase clínica deberá especificar el nombre del curso, los requisitos de la sala de conferencias, las necesidades del sitio clínico, las necesidades del instructor y las necesidades del instructor del laboratorio clínico"".",0
+'El Sistema de Controversias debe ser accesible tanto para usuarios internos como externos.',1
+"""Todas las solicitudes de cartas deben formatearse de acuerdo con las pautas especificadas por el sistema Print Letter Utility"".",1
+"""El sitio web se protegerá contra abusos intencionados y notificará al administrador en todo caso"".",1
+"""El sistema estará disponible para su uso entre las 8:00 y las 18:00 horas"".",1
+«Se espera que el producto funcione dentro del presupuesto máximo de mantenimiento durante un mínimo de dos años.»,1
+"""La aplicación de Disputas garantizará que sólo los usuarios autorizados puedan iniciar sesión en la aplicación"".",1
+'El agente inmobiliario será notificado de las citas de nuevos clientes después de la sincronización automática con el sistema de la oficina',0
+"""El sistema WCS tendrá la capacidad de conectar otras bases de datos WCS designadas que actualmente no están incluidas en el sistema"".",1
+'El sistema mostrará los Eventos en un gráfico por tiempo.',0
+"""El sitio web debería utilizar Flash para proporcionar animación en la página de inicio"".",1
+«El sistema generará un informe de auditoría basado en las piezas recicladas disponibles y la estimación de colisiones.»,0
+"""El producto no proporcionará a los jugadores acceso a información que pueda revelar la identidad de otro jugador""",1
+'El sistema podrá llamar al vendedor o comprador para programar una cita',0
+"""El producto tendrá capacidades de auditoría. El producto almacenará mensajes durante un mínimo de un año con fines de auditoría y seguimiento de transacciones"".",1
+"""Las instalaciones y actualizaciones de productos serán manejadas por el equipo de tecnología de middleware dentro de los plazos de lanzamiento establecidos"".",1
+"'El producto estará disponible para su uso las 24 horas del día, los 365 días del año'",1
+'El sistema permitirá a Izogn Manager acceder a las estadísticas de ventas y uso en menos de 2 minutos.',1
+"""La función de lavado de clientes potenciales recopilará información de puntuación académica y de contacto para obtener una puntuación total"".",0
+El producto deberá garantizar que solo los supervisores puedan ingresar al horario de una persona que llama. El producto debe garantizar que los supervisores puedan acceder a anunciar franjas horarias vacías.,1
+'El Sistema mantendrá una seguridad constante. Cualquier cambio en las contraseñas y/o permisos de los usuarios debería tener efecto en todas las partes del Sistema.',1
+"""Antes de enviar el cliente potencial al sistema empresarial, la función de lavado de clientes potenciales asignará el cliente potencial a un representante de admisiones"".",0
+"""El producto estará disponible para su concesión como licencia para un servidor, dos o cinco servidores o para cinco o más servidores"".",1
+'El producto registrará diferentes tipos de reuniones.',0
+"""El 100% de los representantes de servicios comerciales deberán poder realizar con éxito una acción de seguimiento en un caso de disputa en el primer encuentro después de completar el curso de capacitación"".",1
+El producto pondrá fin a una partida cuando un impacto del jugador ofensivo tenga como resultado el hundimiento del último de los barcos del jugador defensivo que no hubiera sido previamente marcado como hundido.».,0
+«El sistema dispondrá de controles básicos de integridad de los datos para reducir la posibilidad de que se introduzcan datos incorrectos o no válidos.»,1
+"""El subsistema IQA tendrá en cuenta el estado actual del inventario y ajustará el inventario de ingredientes sustitutivos en consecuencia"".",0
+"""El producto actualizará las salas de conferencias existentes"".",0
+"""El sistema RMS tendrá la apariencia de Windows XP y utilizará una GUI en el futuro, lo que hará que su uso sea intuitivo"".",1
+'El producto deberá cumplir con el esquema de color corporativo',1
+'El producto debe diseñarse utilizando patrones de diseño y las mejores prácticas de codificación. El 90% de los desarrolladores de software de mantenimiento pueden integrar nuevas funciones en el producto en 2 días hábiles.',1
+El producto deberá garantizar que los datos de la base de datos correspondan a los datos introducidos por el usuario. Cada reserva de sala de conferencias en el sistema contendrá la misma información ingresada por el usuario.',1
+'El mantenimiento del producto se realizará dentro de las ventanas de mantenimiento corporativas establecidas.',1
+El producto debe ser altamente configurable para su uso con varios sistemas de gestión de bases de datos para los usuarios finales. El 80% de los usuarios finales pueden integrar nuevos sistemas de gestión de bases de datos con el producto sin cambiar el código de software del producto.',1
+El cliente podrá integrar fácilmente nuevos mapas de construcción con el producto durante todo el ciclo de vida del producto. La integración de nuevos mapas con el producto será posible con poco o ningún apoyo del personal de soporte del producto.',1
+"'El Sistema de Disputas brindará al usuario la posibilidad de crear o iniciar una solicitud de recuperación de boletos. Como parte del proceso de creación de recuperación de boletos, el sistema debe solicitar al usuario que ingrese toda la información requerida para crear la solicitud de recuperación de boletos. La solicitud de recuperación de boleto es un documento que se envía al comerciante consultando la validez de una transacción.'",0
+"""Las calificaciones actuales del centro de reparación se mostrarán al usuario"".",0
+"""El usuario deberá seleccionar ver las calificaciones de las instalaciones de reparación preferidas"".",0
+El sistema revelará información privada únicamente de conformidad con la política de información de la organización.',1
+La aplicación Disputas interactuará con el Sistema de facturación y publicación de titulares de tarjetas. Esto permitirá que la aplicación Disputas solicite ajustes a las cuentas del titular de la tarjeta y del comerciante. Todas las solicitudes de ajuste deben enviarse al Sistema de facturación y publicación de titulares de tarjetas.',1
+'El sistema se utilizará dentro de las especificaciones definidas por los ordenadores utilizados por los administradores del programa/miembros del personal de enfermería.',1
+"""El Sistema de Disputas debe brindar al usuario la capacidad de iniciar un único caso de disputa sobre múltiples transacciones que pertenecen a un solo comerciante"".",0
+"""La aplicación Disputas garantizará que sólo los usuarios con el nivel de acceso adecuado puedan iniciar solicitudes de disputa"".",1
+'El 1/4 superior de la tabla contendrá eventos que ocurrirán secuencialmente.',1
+'Se espera que el sistema administre el plan de estudios del programa de enfermería y la programación de clases/clínica durante un mínimo de cinco años.',1
+"""El Sistema de Disputas debe impedir que los usuarios accedan a casos de disputas que no pertenezcan a su base de titulares de tarjetas"".",1
+"""Cuando se hunde un barco, el producto simulará el sonido de un barco que se hunde.""",1
+'El producto alcanzará un tiempo de actividad del 98%. El producto no deberá fallar más del 2% del tiempo disponible en línea.',1
+'El producto se utilizará en entornos de oficina.',1
+"""Cualquier caso de disputa que haya estado cerrado durante más de 6 meses debe eliminarse de la base de datos de disputas en línea"".",0
+'El sistema generará un documento de ajuste de cantidad de inventario automáticamente cuando los datos diarios de ventas de productos estén disponibles.',0
+«El 98% de los puestos de trabajo de los usuarios deberán cumplir los requisitos mínimos de software previo a su implantación: Microsoft Internet Explorer 5.0. Microsoft .NET Framework 1.1. Controles web de Microsoft Internet Explorer,1
+"'El Sistema de Disputas debe proporcionar una confirmación al usuario al crear una solicitud de recuperación de boletos que contenga la siguiente información; el número del caso de disputa, el tipo de recuperación solicitada (copia original o portafolio) y la fecha de vencimiento de la respuesta del comerciante.'",0
+'El producto deberá poder eliminar el equipamiento de la sala.',0
+"""Cuando finaliza un juego, el producto notificará a los jugadores que el juego ha finalizado.""",0
+"""El sistema permitirá que un administrador del programa o un miembro del personal de enfermería elimine a un estudiante de una sección de laboratorio clínico"".",0
+"""El sistema podrá mostrar un resumen imprimible del registro del sistema"".",0
+'El producto deberá cumplir con el Marco de la Guía de Desarrollo de Aplicaciones de la Ciudad de Chicago. El Marco de Desarrollo de Aplicaciones proporcionará una interfaz gráfica de usuario estructurada.',1
+"""Las películas se codificarán y transmitirán mediante Windows Media Player 9.0"".",1
+"""El producto deberá ser robusto y con tolerancia a fallos. El producto deberá tener tolerancia a fallos mediante el uso de técnicas de recuperación, transacciones compensatorias y enrutamiento para evitar fallos"".",1
+'El sistema interactuará con el servidor maestro de estudiantes.',1
+"""El producto eliminará de la lista de jugadores a los jugadores que hayan estado inactivos durante 24 horas"".",0
+'El Sistema de Disputas evitará la creación de solicitudes de disputa duplicadas el 100% del tiempo.',1
+«El sistema permitirá modificar la visualización.»,0
+"""El producto hará que los jugadores inactivos no estén disponibles para su selección de la lista de jugadores"".",0
+"""Sólo los usuarios con acceso a Actualización deben poder iniciar solicitudes de disputa"".",1
+"""El sistema notificará a las partes afectadas cuando se produzcan cambios que afecten a las clases, incluidos, entre otros, cancelaciones de clases, cambios en los detalles de la sección de clases y cambios en las ofertas de clases para un trimestre determinado"".",0
+'Se espera que el producto se integre con múltiples sistemas de gestión de bases de datos. El producto funcionará con Oracle SQL Server DB2 MySQL HSQL y MS Access.',1
+'Los administradores del programa/miembros del personal de enfermería podrán cancelar una sección de laboratorio clínico sólo si no hay estudiantes registrados para esa sección de laboratorio clínico.',0
+'El producto almacenará nuevas salas de conferencias.',0
+«El perito no aplicará piezas recicladas a la estimación de colisión si no se devuelven piezas disponibles.»,0
+"'Los cambios en las fórmulas de ingresos y gastos deben aplicarse al sistema RFS cada año antes de que comience el proceso presupuestario. Las fórmulas de ingresos y gastos se actualizarán dentro de una semana de su recepción, después de lo cual se asignarán dos semanas para probar los cálculos presupuestarios que realizarán conjuntamente el equipo de desarrollo del proyecto y PCG Finance.'",1
+'El producto deberá notificar al personal del edificio sobre las solicitudes de transporte de equipos.',0
+"""El sistema actualizará la pantalla cada 60 segundos"".",1
+"""El sitio web permitirá a los clientes agregar su propia reseña de una película seleccionada"".",0
+"""El sistema ayudará al usuario a evitar cometer errores al programar clases y clínicas para los estudiantes de enfermería"".",1
+"""El Sistema de Disputas debe permitir a los usuarios seleccionar transacciones discutibles (según la antigüedad de la transacción) desde una interfaz de usuario e iniciar una disputa (solicitud de recuperación de boleto o notificación de devolución de cargo) sobre la transacción seleccionada"".",0
+"""El producto permitirá al usuario guardar los resultados de la búsqueda de propiedades"".",0
+"""El producto permitirá al jugador colocar barcos en diagonal en su cuadrícula""",0
+"La apariencia del producto deberá poder incorporar aspectos de la organización del cliente, como el logotipo, la marca y la identidad.",1
+'El producto deberá cumplir con las normas de seguros relativas al procesamiento de reclamaciones.',1
+Sólo los usuarios autorizados tendrán acceso a la información personal de los estudiantes.',1
+«La aplicación de Disputas interactuará con la base de datos de información de titulares de tarjetas. La base de datos de información del titular de la tarjeta proporciona información detallada con respecto a un titular de la tarjeta. Toda la información detallada del titular de la tarjeta debe obtenerse de la base de datos de información del titular de la tarjeta.,1
+"""El sistema podrá realizar copias de seguridad automáticas de los datos comerciales y restaurarlos cuando sea necesario"".",1
+«El producto deberá registrar el estado de transporte del equipo reservado.»,0
+"""El sistema se construirá de manera que sea lo más seguro posible contra interferencias maliciosas"".",1
+"""Toda la información del cliente se almacenará en una base de datos segura a la que sólo podrá acceder el personal autorizado"".",1
+"""IzognMovies deberá cumplir con los requisitos de licencia establecidos por las organizaciones apropiadas para poder transmitir películas africanas"".",1
+"""El 100% de los titulares de tarjetas y representantes de servicios comerciales utilizarán la aplicación Disputas con regularidad después de un curso de formación de dos días"".",1
+"«El sitio web estará disponible para su uso las 24 horas del día, los 365 días del año.»",1
+'Solo el administrador del sistema podrá restablecer una cuenta de inicio de sesión de usuario revocada',1
+"""El sistema notificará a las partes afectadas cuando se produzcan cambios que afecten a las clínicas, incluidos, entre otros, cambios en la capacidad de las secciones clínicas y cancelaciones de secciones clínicas"".",0
+"'Los administradores del programa/miembros del personal de enfermería tendrán la capacidad de modificar la información relacionada con las cohortes, incluido el identificador de la cohorte, el programa de estudio, la secuencia preferida de clases y los trimestres en los que una cohorte tomará clases específicas.'",0
+"""El sistema permitirá a los clientes existentes iniciar sesión en el sitio web con su dirección de correo electrónico y contraseña en menos de 5 segundos"".",1
+"'El Sistema de Disputas debe proporcionar la funcionalidad de Búsqueda. El método de búsqueda debe incluir la capacidad de buscar por (1) el número de caso de disputa (2) el número de cuenta del comerciante (3) el número de cuenta del titular de la tarjeta y (4) el número del emisor. Además de los criterios anteriores, la funcionalidad de búsqueda debe permitir al usuario limitar los resultados de la búsqueda por un rango de fechas, el tipo de disputa (solicitud de recuperación de boleto o notificación de devolución de cargo), el estado del caso (abierto, cerrado o todos) y el código de motivo de la disputa.'",0
+"«Cuando finalice un juego, el producto permitirá a cada jugador identificarse como jugador disponible en la lista de jugadores.»",0
+El sistema interactuará con el servidor central de CampusConnect.,1
+"'La aplicación Disputas estará disponible las 24 horas del día, los 7 días de la semana, los 365 días del año, con excepción de los siguientes períodos de mantenimiento programados. Lunes – Sábado 3:00 a. m. a 4:00 a. m. EST Domingo 1:00 a. m. a 5:00 a. m. EST",1
+"""El sistema será intuitivo y se explicará por sí mismo"".",1
+'El producto debe poder interactuar con varios sistemas de gestión de bases de datos. El producto se comunicará satisfactoriamente con el sistema de gestión de bases de datos en el 100 % de todas las transacciones.».,1
+«El informe de auditoría incluirá el número total de piezas recicladas utilizadas en el presupuesto.»,0
+«La búsqueda de piezas recicladas no durará más de quince segundos. Los resultados de la búsqueda se obtendrán en menos de quince segundos.,1
+'El servidor de streaming admitirá un máximo de 700 películas; Se pueden agregar nuevos servidores para admitir más películas.,1
+La respuesta deberá ser lo suficientemente rápida como para no interrumpir el flujo de pensamiento del usuario. El 90% de las tareas se completarán en 5 segundos. El 98% de las tareas se completarán en 8 segundos.',1
+"""Cuando el impacto resulte en el hundimiento de un barco, el producto notificará a los jugadores que el barco se hundió"".",0
+'El producto será fácil de aprender para los ajustadores y estimadores de colisiones. El producto se aprenderá con dos días de formación in situ.,1
+'El usuario podrá descargar citas e información de contacto de los clientes',0
+"El sistema notificará a las partes afectadas cuando se produzcan cambios que afecten a estudiantes específicos, incluidos, entre otros, el cambio del estado de un estudiante de tiempo completo a tiempo parcial y el traslado de un estudiante a una sección clínica diferente.",0
+"""El sitio web debería atraer a todos los africanos, no sólo a los nigerianos"".",1
+Los informes deben ser fáciles de generar. Los informes deben generarse con un solo clic y exportarse con un solo clic (después de seleccionar el informe)',1
+'La aplicación Disputas interactuará con la aplicación Cartas. Esto permitirá que la aplicación de Disputas solicite cartas como parte del proceso de inicio y seguimiento de la disputa. Todas las solicitudes de cartas deben enviarse a la aplicación Print Letter Utility.',1
+"""Sólo los administradores pueden activar una tarjeta prepago.""",1
+'El proveedor verificará el cliente potencial no válido.',0
+"""Los miembros del personal deberán poder completar una serie de tareas de manera oportuna"".",1
+"El sistema permitirá a los clientes registrarse en el sitio web como usuario de ""suscriptor de películas ilimitado"" en menos de 10 minutos.",1
+'Todas las actualizaciones de archivos de datos o bases de datos deben iniciarse desde el Sistema de Disputas.',0
+'El Sistema permitirá que un mínimo de 6 usuarios trabajen al mismo tiempo.',1
+"""Toda la información de la tarjeta de crédito se cifrará en la base de datos"".",1
+El Sistema de Disputas generará un Informe de Usuario que detallará los nuevos usuarios que se hayan agregado y cualquier cambio en el nivel de acceso de un usuario existente. El informe será revisado con fines de auditoría.',0
+«El producto evitará que se introduzcan datos incorrectos en sus datos.»,1
+'Los 3/4 inferiores de la tabla contendrán los eventos que ocurren de acuerdo con su relevancia en el momento actual.',1
+"'Si se proyectan, los datos deben ser legibles. En una pantalla de proyección de 10x10, el 90% de los espectadores deben poder leer los datos del evento/actividad desde una distancia de visualización de 30'.",1
+"""Para cada clase dentro de una secuencia para una cohorte, los administradores del programa y los miembros del personal de enfermería podrán especificar qué trimestre se ofrecerá esa clase"".",0
+"""Los administradores del programa y los miembros del personal de enfermería podrán agregar una lista de estudiantes a una cohorte"".",0
+'Criterio de idoneidad: la Dra. Susan Poslusny y Karen Sysol son las únicas personas que tendrán acceso a la programación de la sección final de clases para el sistema que interactúa con CampusConnect.',1
+'Debemos poder interactuar con los siguientes navegadores: IE 5.X 6.0 Netscape 6.x 7.x 8.x y Firefox 1.0.',1
+"""El liquidador podrá anular el servicio de reparación preferido en la asignación de presupuesto"".",0
+"""Para cada tiro, el producto examinará la cuadrícula defensiva del jugador defensivo para determinar si el tiro fue un acierto o un error"".",0
+"""El producto debe ser instalado por un agente inmobiliario no capacitado sin recurrir a instrucciones impresas por separado.""",1
+"""El producto permitirá al usuario identificarse como jugador.""",0
+'El Sistema no requerirá licencias adicionales de terceros que generen regalías.',1
+'El sistema debe utilizar una interfaz de apuntar y hacer clic. El 100% de todas las funciones de selección y navegación deben poder activarse/seleccionarse mediante un mouse o un teclado.,1
+'El producto aumentará la productividad de los estimadores de colisiones. El 80% de los estimadores de colisiones aceptarán que su productividad ha aumentado dentro de 1 mes de usar el producto.,1
+«El sistema podrá visualizarse en cualquier ordenador de trabajo que pueda tener un usuario de CCR. La interfaz del sistema deberá formatearse para mostrar una resolución de 800 por 600 píxeles.».,1
+"""Una vez que se inicia un juego, el producto mostrará una cuadrícula defensiva a cada jugador"".",0
+"'Los administradores del programa/miembros del personal de enfermería tendrán la capacidad de modificar la información relacionada con un sitio clínico, incluido el nombre del sitio clínico, la información de contacto de la persona de contacto del sitio y la dirección.'",0
+"'Todos los cambios, actualizaciones y adiciones al sistema WCS se actualizarán en las Guías para desarrolladores y usuarios de WCS. Cada cambio debe reflejarse en la documentación del sistema WCS.",1
+'El sitio web debe estar totalmente operativo con MSN TV2.',1
+"""El Sistema de Disputas debe ofrecer la posibilidad de ver los casos de disputas existentes"".",0
+"""El sistema interactuará con el servidor central de la facultad"".",1
+'El agente inmobiliario podrá recuperar un mapa que muestre la ubicación de las propiedades en un área específica',0
+"""El sitio web debe poder soportar períodos de prueba gratuitos con varios parámetros establecidos por Izogn Manager"".",0
+"""El producto impedirá que un jugador vea las cuadrículas ofensivas o defensivas del otro jugador"".",0
+"En una conexión de 56k, el tiempo de respuesta del sistema para todas las operaciones no debe ser superior a 6 segundos el 90% del tiempo.'",1
+'El sistema será fácil de utilizar por los administradores del programa/miembros del personal de enfermería.',1
+"""Cuando el impacto resulta en el hundimiento de un barco, el producto marcará el barco como hundido en la cuadrícula ofensiva del jugador atacante"".",0
+"'Si se proyectan, los datos deben ser comprensibles. En una pantalla de proyección de 10x10, el 90% de los espectadores deben poder determinar que eventos o actividades están ocurriendo en el momento actual desde una distancia de visualización de 100'.",1
+«El producto registrará las entradas a las reuniones.»,0
+"'El informe de clases necesarias incluirá (pero no se limitará a) las clases que se ofrecerán, la cantidad de secciones necesarias, la cantidad de laboratorios necesarios y los tipos de salas necesarias.'",0
+"«El producto estará disponible las 24 horas del día, los siete días de la semana.»",1
+«El sistema conservará las piezas recicladas disponibles y los proveedores devueltos tras la búsqueda.»,0
+"'De cada 1.000 accesos al sistema, el sistema está disponible 999 veces.'",1
+'La solicitud de Disputas debe cumplir con los requisitos legales especificados por el Reglamento E y el Reglamento Z que rigen el procesamiento de disputas de tarjetas de crédito.',1
+"Los usuarios podrán acceder a las páginas ""agregar"", eliminar"" e ""intercambiar jugadores"" con un solo clic desde la página del propietario del equipo"".",1
+"""El proceso de lavado de plomo funcionará dentro de la estructura de servicios web físicos establecida"".",1
+'El producto deberá cumplir con las pautas corporativas de interfaz de usuario',1
+«Las clasificaciones incluirán categorías para el intento de uso de piezas recicladas y el uso real de piezas recicladas»,0
+'Los administradores del programa/miembros del personal de enfermería podrán crear un nuevo programa de estudios.',0
+'El Subsistema PME permitirá mantener submenús dentro de menús y productos dentro de submenús en un orden administrado y persistente.',1
+"""El producto funcionará con todas las plataformas. El producto se adaptará a cualquier tecnología nueva sin ningún cambio en su arquitectura"".",1
+"«El usuario deberá poder utilizar el sistema sin instrucciones después de un breve período de tiempo. Después de un uso, el usuario debe comprender y recordar el 90% del uso y navegación del sistema.'",1
+El sistema podrá mostrar un informe de las clases necesarias para un trimestre determinado para todas las cohortes de todos los programas para fines de planificación de los administradores del programa/miembros del personal de enfermería.',0
+'El sistema permitirá a los clientes cancelar su cuenta. El proceso no tardará más de 2 minutos. La base de datos marcará la cuenta como inactiva y el usuario no podrá iniciar sesión en el sitio web.,1
+'El sistema permitirá a un agente inmobiliario consultar información del MLS',0
+"""El sitio web permitirá a los clientes comprar tarjetas prepagas con un valor de $5, $10 o $20, ya sea con tarjeta de crédito o con la opción de pago por correo"".",0
+'Los datos que se muestran tanto en los nodos del gráfico como en las filas de la tabla son datos de resumen de MSEL',0
+"""El sitio web permitirá a los clientes ver reseñas de películas seleccionadas hechas por otros clientes"".",0
+El producto evitará la entrada de datos maliciosos. Los datos del producto y/o de los sistemas de hardware/software adyacentes permanecerán 100 % incorruptos cada vez que se introduzcan datos maliciosos en el producto.',1
+'Las aplicaciones de disputas interactuarán con la base de datos de información comercial. La base de datos de información del comerciante proporciona información detallada con respecto al comerciante. Toda la información detallada sobre los comerciantes se obtendrá de la base de datos de información sobre comerciantes.».,1
+"""Todos los usuarios podrán utilizar el sistema después de un día de formación"".",1
+"""El producto deberá mostrar las cuadrículas dentro de un círculo como una vista desde un periscopio"".",1
+"""La aplicación podrá completar todas las transacciones del usuario en un cuarto de segundo después de recibir la solicitud a través de la red"".",1
+"""El producto debe funcionar con la mayoría de los sistemas de gestión de bases de datos (DBMS) del mercado, ya sea que el DBMS esté ubicado con el producto en la misma máquina o en una máquina diferente de la red informática"".",1

@@ -1,0 +1,37 @@
+{
+  "input_rows": 6708,
+  "clean_rows": 6587,
+  "dropped_rows": 121,
+  "inputs": [
+    "training\\Dataset6000Req.xlsx",
+    "training\\dataset_raw.csv"
+  ],
+  "sources": {
+    "Dataset6000Req.xlsx": 5965,
+    "dataset_raw.csv": 622
+  },
+  "label_counts": {
+    "rf": 4167,
+    "rnf": 2420
+  },
+  "duplicate_texts_removed": 121,
+  "dataset_name": "combined",
+  "seed": 42,
+  "splits": {
+    "train": {
+      "rows": 4610,
+      "rf": 2916,
+      "rnf": 1694
+    },
+    "val": {
+      "rows": 988,
+      "rf": 625,
+      "rnf": 363
+    },
+    "test": {
+      "rows": 989,
+      "rf": 626,
+      "rnf": 363
+    }
+  }
+}

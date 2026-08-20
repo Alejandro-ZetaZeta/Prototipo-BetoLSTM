@@ -1,0 +1,200 @@
+El módulo correspondiente habilitará para obtener el porcentaje de asistencia acumulado en tiempo real.
+El repartidor tendrá acceso a una notificación de estado del pedido desde el módulo de reportes.
+El módulo correspondiente posibilitará obtener el saldo disponible tras una transferencia en tiempo real.
+El sistema dará la opción de exportar un reporte de calificaciones en formato digital.
+El sistema deberá autenticar a la enfermera de turno utilizando huella dactilar registrada antes de otorgar acceso.
+El sistema tiene que autenticar al titular de la cuenta con verificación en dos pasos por SMS antes de otorgar acceso.
+El sistema necesita permitir la creación de un registro de alergias del paciente por parte del médico tratante, si la operación no supera el límite diario establecido.
+El acceso del titular de la cuenta habilitará para validarse con verificación en dos pasos por SMS.
+El estudiante podrá dar de baja una tarea entregada fuera de plazo cuando su registro ya no sea necesario.
+El sistema habilitará para que el administrador del banco registre un plan de pagos.
+El sistema habilitará para que el especialista elimine una cita cancelada por el paciente.
+El acceso del médico tratante permitirá validarse utilizando huella dactilar registrada.
+El sistema debe eliminar de forma permanente un beneficiario registrado tras confirmación del titular de la cuenta.
+El acceso del vendedor posibilitará validarse con verificación por mensaje de texto.
+El acceso del tutor de tesis dará la opción de validarse utilizando código de acceso temporal.
+El sistema permitirá exportar una notificación de estado del pedido en formato digital.
+El usuario podrá realizar operaciones diversas cuando el sistema lo permita.
+El sistema deberá autenticar al administrador de la tienda mediante correo electrónico y contraseña antes de otorgar acceso.
+El sistema tiene que autenticar al representante legal utilizando código de acceso temporal antes de otorgar acceso.
+El repartidor podrá dar de baja una reseña reportada como falsa cuando su registro ya no sea necesario.
+El sistema necesita determinar el porcentaje de asistencia acumulado cada vez que se registre un cambio relevante.
+El sistema está obligado a calcular automáticamente el tiempo estimado de entrega.
+El sistema posibilitará que el médico tratante elimine un usuario dado de baja del sistema.
+El sistema podrá permitir que el administrador del hospital registre una historia clínica digital, cuando el usuario cuente con los permisos necesarios.
+El administrador del hospital podrá descargar un recordatorio de próxima cita desde el módulo de reportes.
+El sistema habilitará para que el proveedor registre una lista de productos favoritos.
+El médico tratante podrá crear una historia clínica digital desde su panel principal, siempre que los datos ingresados sean válidos.
+El sistema necesita calcular automáticamente el índice de masa corporal.
+El sistema necesita determinar la cuota de amortización del préstamo cada vez que se registre un cambio relevante.
+El sistema podrá permitir que el docente elimine una tarea entregada fuera de plazo.
+El sistema habilitará para que el estudiante elimine un usuario egresado.
+El sistema tiene que determinar la dosis de medicamento según el peso del paciente cada vez que se registre un cambio relevante.
+El sistema permitirá exportar una factura electrónica en formato digital.
+El usuario podrá modificar ciertos datos según lo considere pertinente.
+El sistema deberá calcular automáticamente el tiempo de espera promedio en urgencias.
+El sistema permitirá exportar un certificado de estudios en formato digital.
+El administrador del sistema podrá dar de baja un usuario egresado cuando su registro ya no sea necesario.
+El sistema podrá permitir que el comprador elimine un pedido cancelado por el cliente.
+El sistema necesita autenticar al titular de la cuenta mediante token físico y contraseña antes de otorgar acceso.
+El sistema podrá permitir que el representante legal registre un curso virtual, salvo que existan restricciones administrativas vigentes.
+El sistema debe gestionar correctamente la información relevante del cliente.
+El sistema dará la opción de que el repartidor registre una reseña de producto, siempre que los datos ingresados sean válidos.
+El sistema deberá determinar la nota final del período cada vez que se registre un cambio relevante.
+El acceso del representante legal permitirá validarse mediante usuario institucional y contraseña.
+El sistema está obligado a permitir la creación de una reseña de producto por parte del comprador, de acuerdo con las políticas internas de la organización.
+El sistema debe autenticar al administrador del hospital con tarjeta profesional y PIN antes de otorgar acceso.
+El acceso del farmacéutico habilitará para validarse utilizando huella dactilar registrada.
+El acceso del cliente podrá validarse mediante clave dinámica y huella dactilar.
+El comprador podrá dar de baja un producto descontinuado del catálogo cuando su registro ya no sea necesario.
+El sistema está obligado a permitir la creación de una cita médica por parte del especialista, salvo que existan restricciones administrativas vigentes.
+El sistema deberá determinar la dosis de medicamento según el peso del paciente cada vez que se registre un cambio relevante.
+El sistema tiene que eliminar de forma permanente una tarjeta bloqueada tras confirmación del asesor financiero.
+El sistema tiene que autenticar al administrador del banco con verificación en dos pasos por SMS antes de otorgar acceso.
+El asesor financiero tendrá acceso a un certificado de saldo desde el módulo de reportes.
+El titular de la cuenta tendrá acceso a un estado de cuenta en PDF desde el módulo de reportes.
+El sistema podrá exportar un informe médico consolidado en formato digital.
+El repartidor tendrá acceso a una guía de envío desde el módulo de reportes.
+El sistema podrá exportar un estado de cuenta en PDF en formato digital.
+El acceso del cliente posibilitará validarse mediante clave dinámica y huella dactilar.
+El sistema habilitará para exportar un reporte de calificaciones en formato digital.
+El sistema necesita calcular automáticamente la dosis de medicamento según el peso del paciente.
+El administrador del banco podrá crear un plan de pagos desde su panel principal.
+El vendedor podrá dar de baja una dirección de envío obsoleta cuando su registro ya no sea necesario.
+El sistema tiene que generar un recordatorio de próxima cita a solicitud del farmacéutico.
+El sistema debe permitir la creación de una solicitud de crédito por parte del usuario, si la operación no supera el límite diario establecido.
+El sistema debe calcular automáticamente la dosis de medicamento según el peso del paciente.
+El sistema debe determinar la nota final del período cada vez que se registre un cambio relevante.
+El módulo correspondiente dará la opción de obtener los créditos aprobados hasta la fecha en tiempo real.
+El sistema posibilitará que el estudiante registre una tarea con fecha límite, de acuerdo con las políticas internas de la organización.
+El acceso del coordinador académico habilitará para validarse con verificación de correo institucional.
+El administrador del sistema podrá dar de baja una matrícula anulada cuando su registro ya no sea necesario.
+El sistema necesita eliminar de forma permanente un usuario egresado tras confirmación del tutor de tesis.
+El sistema habilitará para exportar un informe médico consolidado en formato digital.
+El sistema tiene que generar una guía de envío a solicitud del administrador de la tienda.
+El acceso del farmacéutico podrá validarse con tarjeta profesional y PIN.
+El sistema tiene que eliminar de forma permanente una matrícula anulada tras confirmación del representante legal.
+El administrador de la tienda podrá dar de baja una dirección de envío obsoleta cuando su registro ya no sea necesario.
+El sistema necesita autenticar al usuario mediante clave dinámica y huella dactilar antes de otorgar acceso.
+El acceso del médico tratante habilitará para validarse con tarjeta profesional y PIN.
+El sistema permitirá que el representante legal registre una tarea con fecha límite, salvo que existan restricciones administrativas vigentes.
+El sistema está obligado a autenticar al titular de la cuenta con verificación en dos pasos por SMS antes de otorgar acceso.
+El tutor de tesis podrá dar de baja una tarea entregada fuera de plazo cuando su registro ya no sea necesario.
+El sistema está obligado a calcular automáticamente la comisión del vendedor por cada venta.
+El módulo correspondiente dará la opción de obtener el porcentaje de asistencia acumulado en tiempo real.
+El sistema habilitará para exportar una guía de envío en formato digital.
+El repartidor tendrá la opción de crear una lista de productos favoritos desde su panel principal, salvo que existan restricciones administrativas vigentes.
+El módulo correspondiente permitirá obtener la cuota de amortización del préstamo en tiempo real.
+El sistema deberá eliminar de forma permanente un producto descontinuado del catálogo tras confirmación del repartidor.
+El repartidor tendrá la opción de crear un pedido nuevo desde su panel principal, de acuerdo con las políticas internas de la organización.
+El sistema permitirá que el médico tratante elimine un usuario dado de baja del sistema.
+El acceso del coordinador académico habilitará para validarse mediante usuario institucional y contraseña.
+El sistema dará la opción de que el administrador del hospital elimine un registro médico duplicado.
+El acceso del cliente frecuente dará la opción de validarse con verificación por mensaje de texto.
+El sistema necesita calcular automáticamente el interés compuesto mensual.
+El sistema está obligado a autenticar al estudiante con verificación de correo institucional antes de otorgar acceso.
+El sistema dará la opción de que el paciente elimine una cita cancelada por el paciente.
+El sistema deberá eliminar de forma permanente un beneficiario registrado tras confirmación del titular de la cuenta.
+El sistema posibilitará exportar una alerta de interacción entre medicamentos en formato digital.
+El acceso del representante legal dará la opción de validarse mediante usuario institucional y contraseña.
+El sistema debe eliminar de forma permanente un producto descontinuado del catálogo tras confirmación del vendedor.
+El cliente podrá dar de baja un beneficiario registrado cuando su registro ya no sea necesario.
+El acceso del comprador dará la opción de validarse mediante correo electrónico y contraseña.
+El comprador estará en capacidad de generar una reseña de producto desde su panel principal.
+El sistema dará la opción de que el cliente elimine un beneficiario registrado.
+El sistema debe determinar el costo total del carrito incluyendo impuestos cada vez que se registre un cambio relevante.
+El sistema tiene que determinar el costo total del carrito incluyendo impuestos cada vez que se registre un cambio relevante.
+El especialista tendrá la opción de crear un plan de tratamiento desde su panel principal, cuando el usuario cuente con los permisos necesarios.
+El sistema permitirá que el asesor financiero registre una cuenta de ahorros, siempre que los datos ingresados sean válidos.
+El sistema debe eliminar de forma permanente una solicitud de crédito rechazada tras confirmación del usuario.
+El sistema dará la opción de que el repartidor elimine una reseña reportada como falsa.
+El sistema debe autenticar al farmacéutico con tarjeta profesional y PIN antes de otorgar acceso.
+El administrador del banco podrá dar de baja un dispositivo autorizado cuando su registro ya no sea necesario.
+El módulo correspondiente posibilitará obtener los días restantes de licencia médica en tiempo real.
+El administrador de la tienda tendrá acceso a un reporte de ventas mensual desde el módulo de reportes.
+El sistema deberá generar un horario de clases personalizado a solicitud del coordinador académico.
+El sistema necesita calcular automáticamente el tiempo estimado de entrega.
+El sistema posibilitará que el docente registre un grupo de trabajo colaborativo, siempre que los datos ingresados sean válidos.
+El sistema deberá permitir la creación de una dirección de envío por parte del repartidor.
+El sistema dará la opción de que el usuario registre una tarjeta de débito virtual, una vez verificada la identidad del solicitante.
+El sistema está obligado a calcular automáticamente el saldo disponible tras una transferencia.
+El estudiante tendrá la opción de crear un curso virtual desde su panel principal.
+El sistema tiene que eliminar de forma permanente una alerta configurada tras confirmación del cajero.
+El sistema tiene que autenticar al paciente con tarjeta profesional y PIN antes de otorgar acceso.
+El sistema necesita determinar el tiempo de espera promedio en urgencias cada vez que se registre un cambio relevante.
+El sistema tiene que determinar la cuota de amortización del préstamo cada vez que se registre un cambio relevante.
+El administrador del banco tendrá acceso a un certificado de saldo desde el módulo de reportes.
+El sistema debe permitir la creación de una historia clínica digital por parte del médico tratante, una vez verificada la identidad del solicitante.
+El sistema permitirá que el farmacéutico elimine una receta vencida.
+El sistema está obligado a permitir la creación de una dirección de envío por parte del repartidor, siempre que los datos ingresados sean válidos.
+El sistema deberá facilitar la operación al usuario de forma general.
+El sistema posibilitará exportar una notificación de pago próximo a vencer en formato digital.
+El sistema está obligado a determinar el tiempo estimado de entrega cada vez que se registre un cambio relevante.
+El módulo correspondiente dará la opción de obtener la nota final del período en tiempo real.
+El acceso del proveedor posibilitará validarse con verificación por mensaje de texto.
+El sistema tiene que permitir la creación de una tarjeta de débito virtual por parte del cliente, de acuerdo con las políticas internas de la organización.
+El sistema posibilitará que el estudiante registre un curso virtual.
+El sistema tiene que manejar de manera apropiada los casos especiales que puedan presentarse.
+El sistema tiene que permitir la creación de una cuenta de ahorros por parte del administrador del banco, siempre que los datos ingresados sean válidos.
+El acceso del proveedor posibilitará validarse utilizando inicio de sesión con cuenta de terceros.
+El acceso del administrador del sistema habilitará para validarse utilizando código de acceso temporal.
+El sistema está obligado a permitir la creación de un pedido nuevo por parte del proveedor, una vez verificada la identidad del solicitante.
+El cliente podrá descargar un reporte de movimientos del último trimestre desde el módulo de reportes.
+El sistema posibilitará exportar un certificado de incapacidad laboral en formato digital.
+El sistema deberá autenticar al estudiante mediante usuario institucional y contraseña antes de otorgar acceso.
+El sistema tiene que generar una notificación de estado del pedido a solicitud del vendedor.
+El administrador del sistema podrá crear una rúbrica de evaluación desde su panel principal, si la operación no supera el límite diario establecido.
+El docente estará en capacidad de generar un curso virtual desde su panel principal, una vez verificada la identidad del solicitante.
+El sistema necesita permitir la creación de un pedido nuevo por parte del cliente frecuente.
+El módulo correspondiente dará la opción de obtener la cuota de amortización del préstamo en tiempo real.
+El sistema debe calcular automáticamente los días restantes de licencia médica.
+El sistema tiene que autenticar al vendedor utilizando inicio de sesión con cuenta de terceros antes de otorgar acceso.
+El administrador podrá aplicar los ajustes necesarios en caso de que se requieran.
+El sistema debe eliminar de forma permanente una alerta configurada tras confirmación del cliente.
+El administrador de la tienda tendrá acceso a una factura electrónica desde el módulo de reportes.
+El sistema tiene que calcular automáticamente el costo total del carrito incluyendo impuestos.
+El módulo correspondiente habilitará para obtener la nota final del período en tiempo real.
+El administrador del hospital podrá dar de baja una cita cancelada por el paciente cuando su registro ya no sea necesario.
+La enfermera de turno estará en capacidad de generar un plan de tratamiento desde su panel principal.
+El sistema debe generar un recordatorio de próxima cita a solicitud del administrador del hospital.
+El sistema tiene que autenticar al repartidor mediante correo electrónico y contraseña antes de otorgar acceso.
+El sistema deberá generar un estado de cuenta en PDF a solicitud del cliente.
+El sistema habilitará para exportar un reporte de ventas mensual en formato digital.
+El farmacéutico estará en capacidad de generar una orden de laboratorio desde su panel principal, de acuerdo con las políticas internas de la organización.
+El sistema tiene que generar un recordatorio de próxima cita a solicitud del médico tratante.
+El acceso del administrador del banco dará la opción de validarse con verificación en dos pasos por SMS.
+El sistema deberá procesar las solicitudes de forma adecuada según el criterio del administrador.
+El sistema necesita generar un informe médico consolidado a solicitud del administrador del hospital.
+El sistema deberá permitir la creación de una alerta de saldo mínimo por parte del usuario, siempre que los datos ingresados sean válidos.
+El sistema podrá exportar un reporte de calificaciones en formato digital.
+El sistema permitirá que el paciente elimine una cita cancelada por el paciente.
+El sistema deberá autenticar al representante legal utilizando código de acceso temporal antes de otorgar acceso.
+El sistema necesita autenticar a la enfermera de turno mediante credenciales institucionales y doble factor antes de otorgar acceso.
+El administrador del banco podrá crear un beneficiario para transferencias desde su panel principal, de acuerdo con las políticas internas de la organización.
+El sistema deberá determinar el costo total del carrito incluyendo impuestos cada vez que se registre un cambio relevante.
+El módulo correspondiente posibilitará obtener el promedio ponderado del estudiante en tiempo real.
+El sistema está obligado a eliminar de forma permanente un registro médico duplicado tras confirmación del médico tratante.
+El administrador del sistema podrá dar de baja un curso archivado cuando su registro ya no sea necesario.
+El sistema está obligado a determinar la comisión por mantenimiento cada vez que se registre un cambio relevante.
+El acceso del proveedor dará la opción de validarse con verificación por mensaje de texto.
+El sistema podrá permitir que el vendedor elimine una dirección de envío obsoleta.
+El sistema está obligado a generar un certificado de estudios a solicitud del tutor de tesis.
+El sistema necesita determinar el saldo disponible tras una transferencia cada vez que se registre un cambio relevante.
+El paciente tendrá acceso a una alerta de interacción entre medicamentos desde el módulo de reportes.
+El sistema deberá determinar la comisión del vendedor por cada venta cada vez que se registre un cambio relevante.
+El sistema permitirá que el cliente frecuente elimine un pedido cancelado por el cliente.
+El administrador podrá tomar las acciones que estime convenientes sobre los registros.
+El sistema posibilitará que el coordinador académico elimine una matrícula anulada.
+El sistema habilitará para que la enfermera de turno registre una historia clínica digital.
+El sistema permitirá que el representante legal registre una matrícula para el nuevo período.
+El usuario podrá dar de baja una solicitud de crédito rechazada cuando su registro ya no sea necesario.
+El sistema deberá generar un certificado de estudios a solicitud del docente.
+El sistema debe procesar la solicitud en un tiempo razonable.
+El representante legal tendrá acceso a un certificado de estudios desde el módulo de reportes.
+El administrador del hospital podrá dar de baja un usuario dado de baja del sistema cuando su registro ya no sea necesario.
+El sistema permitirá que el asesor financiero registre una alerta de saldo mínimo, salvo que existan restricciones administrativas vigentes.
+El sistema deberá ofrecer una experiencia satisfactoria durante todo el proceso.
+El sistema deberá generar una constancia de matrícula a solicitud del representante legal.
+El sistema permitirá que el representante legal registre una rúbrica de evaluación, si la operación no supera el límite diario establecido.
+El acceso del médico tratante habilitará para validarse utilizando huella dactilar registrada.
+El sistema posibilitará exportar un estado de cuenta en PDF en formato digital.

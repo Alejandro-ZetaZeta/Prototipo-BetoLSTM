@@ -1,0 +1,51 @@
+{
+  "dataset": {
+    "train_rows": 435,
+    "validation_rows": 93,
+    "test_rows": 94
+  },
+  "models": {
+    "naive_bayes": {
+      "test": {
+        "accuracy": 0.87234,
+        "precision_binary": 0.896552,
+        "recall_binary": 0.896552,
+        "f1_binary": 0.896552,
+        "precision_macro": 0.864943,
+        "recall_macro": 0.864943,
+        "f1_macro": 0.864943,
+        "confusion_matrix": [
+          [
+            30,
+            6
+          ],
+          [
+            6,
+            52
+          ]
+        ]
+      }
+    },
+    "random_forest": {
+      "test": {
+        "accuracy": 0.861702,
+        "precision_binary": 0.868852,
+        "recall_binary": 0.913793,
+        "f1_binary": 0.890756,
+        "precision_macro": 0.858669,
+        "recall_macro": 0.845785,
+        "f1_macro": 0.851175,
+        "confusion_matrix": [
+          [
+            28,
+            8
+          ],
+          [
+            5,
+            53
+          ]
+        ]
+      }
+    }
+  }
+}

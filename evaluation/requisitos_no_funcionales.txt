@@ -1,0 +1,200 @@
+El sistema tiene que registrar en una bitácora de auditoría todo intento de acceso no autorizado a un curso virtual.
+El sistema tiene que permitir completar la operación de un curso virtual en no más de 5 pasos.
+El sistema tiene que garantizar una disponibilidad del 99.5% medida de forma mensual.
+El sistema está obligado a permitir completar la operación de una historia clínica digital en no más de 5 pasos.
+El sistema deberá ser accesible para personas con discapacidad visual, conforme a las pautas WCAG 2.1.
+El sistema deberá registrar en una bitácora de auditoría todo intento de acceso no autorizado a una dirección de envío.
+El tiempo de procesamiento de una orden de laboratorio no deberá superar los 3 segundos bajo carga normal.
+El sistema está obligado a responder a las solicitudes del usuario en un máximo de 5 segundos.
+El sistema necesita cifrar la información de una alerta de saldo mínimo utilizando el algoritmo AES-256.
+El sistema debe bloquear el acceso tras 5 intentos fallidos de autenticación consecutivos.
+El sistema deberá garantizar una disponibilidad del 99.5% medida de forma mensual.
+En caso de mantenimiento programado, el sistema deberá notificar a los usuarios con al menos 72 horas de anticipación.
+Los datos sensibles de una matrícula para el nuevo período deberán almacenarse cifrados tanto en tránsito como en reposo.
+El sistema necesita realizar copias de seguridad automáticas de una reseña de producto con frecuencia diaria.
+El tiempo de procesamiento de una cuenta de ahorros no deberá superar los 4 segundos bajo carga normal.
+Las consultas sobre un pedido nuevo deberán completarse en un tiempo inferior a 3 segundos en el 95% de los casos.
+El sistema debe garantizar una disponibilidad del 99.5% medida de forma mensual.
+El sistema está obligado a registrar en una bitácora de auditoría todo intento de acceso no autorizado a una reseña de producto.
+El sistema tiene que cifrar la información de un cupón de descuento utilizando el algoritmo AES-256.
+Las consultas sobre una lista de productos favoritos tienen que completarse en un tiempo inferior a 4 segundos en el 95% de los casos.
+El sistema tiene que registrar en una bitácora de auditoría todo intento de acceso no autorizado a una dirección de envío.
+El sistema deberá permitir completar la operación de un pedido nuevo en no más de 4 pasos.
+El sistema tiene que cifrar la información de una lista de productos favoritos utilizando el algoritmo AES-256.
+El sistema necesita realizar copias de seguridad automáticas de una tarjeta de débito virtual con frecuencia diaria.
+Las consultas sobre un curso virtual tienen que completarse en un tiempo inferior a 3 segundos en el 95% de los casos.
+El tiempo de procesamiento de un grupo de trabajo colaborativo no tiene que superar los 4 segundos bajo carga normal.
+Las consultas sobre una tarea con fecha límite deben completarse en un tiempo inferior a 4 segundos en el 95% de los casos.
+El sistema está obligado a realizar copias de seguridad automáticas de una dirección de envío con frecuencia diaria.
+El sistema deberá mantener un desempeño estable en condiciones normales de uso.
+El sistema debe realizar copias de seguridad automáticas de una tarea con fecha límite con frecuencia diaria.
+Las consultas sobre una dirección de envío deben completarse en un tiempo inferior a 4 segundos en el 95% de los casos.
+El sistema necesita permitir completar la operación de una tarea con fecha límite en no más de 3 pasos.
+Los datos sensibles de una cuenta de ahorros deben almacenarse cifrados tanto en tránsito como en reposo.
+Los datos sensibles de una tarjeta de débito virtual deben almacenarse cifrados tanto en tránsito como en reposo.
+Los datos sensibles de un cupón de descuento tienen que almacenarse cifrados tanto en tránsito como en reposo.
+El sistema debe bloquear el acceso tras 3 intentos fallidos de autenticación consecutivos.
+El sistema necesita cifrar la información de una dirección de envío utilizando el algoritmo AES-256.
+El sistema necesita registrar en una bitácora de auditoría todo intento de acceso no autorizado a una alerta de saldo mínimo.
+El sistema debe bloquear el acceso tras 4 intentos fallidos de autenticación consecutivos.
+Los mensajes de error deberá explicar de forma clara la causa del problema y una posible solución.
+El sistema necesita permitir completar la operación de un grupo de trabajo colaborativo en no más de 5 pasos.
+El sistema necesita registrar en una bitácora de auditoría todo intento de acceso no autorizado a una lista de productos favoritos.
+El sistema tiene que ser razonablemente seguro frente a accesos no autorizados.
+Toda comunicación entre el cliente y el servidor tiene que realizarse mediante el protocolo HTTPS.
+El sistema tiene que permitir completar la operación de un pedido nuevo en no más de 5 pasos.
+El sistema debe garantizar una disponibilidad del 99.9% medida de forma mensual.
+El sistema está obligado a permitir completar la operación de un beneficiario para transferencias en no más de 4 pasos.
+La interfaz tiene que ser comprensible para usuarios sin experiencia técnica previa.
+El sistema debe realizar copias de seguridad automáticas de una tarjeta de débito virtual con frecuencia diaria.
+El sistema está obligado a soportar al menos 1000 usuarios concurrentes sin degradar su tiempo de respuesta.
+El sistema tiene que permitir completar la operación de una rúbrica de evaluación en no más de 3 pasos.
+Los datos sensibles de una dirección de envío deberán almacenarse cifrados tanto en tránsito como en reposo.
+El sistema está obligado a bloquear el acceso tras 4 intentos fallidos de autenticación consecutivos.
+El sistema tiene que realizar copias de seguridad automáticas de un grupo de trabajo colaborativo con frecuencia diaria.
+El tiempo de procesamiento de un plan de tratamiento no debe superar los 5 segundos bajo carga normal.
+El sistema necesita garantizar una disponibilidad del 99% medida de forma mensual.
+El sistema necesita permitir completar la operación de un pedido nuevo en no más de 5 pasos.
+El sistema deberá bloquear el acceso tras 3 intentos fallidos de autenticación consecutivos.
+Los datos sensibles de un grupo de trabajo colaborativo deben almacenarse cifrados tanto en tránsito como en reposo.
+Las consultas sobre una dirección de envío deberán completarse en un tiempo inferior a 5 segundos en el 95% de los casos.
+El sistema tiene que bloquear el acceso tras 3 intentos fallidos de autenticación consecutivos.
+El sistema tiene que realizar copias de seguridad automáticas de un curso virtual con frecuencia diaria.
+El sistema debe ser flexible ante cambios futuros, dentro de lo razonable.
+Los datos sensibles de una tarjeta de débito virtual tienen que almacenarse cifrados tanto en tránsito como en reposo.
+Los datos sensibles de una receta electrónica deberán almacenarse cifrados tanto en tránsito como en reposo.
+El sistema está obligado a permitir completar la operación de una cita médica en no más de 4 pasos.
+En caso de mantenimiento programado, el sistema tiene que notificar a los usuarios con al menos 48 horas de anticipación.
+El sistema necesita realizar copias de seguridad automáticas de una tarea con fecha límite con frecuencia diaria.
+Las consultas sobre una alerta de saldo mínimo deben completarse en un tiempo inferior a 2 segundos en el 95% de los casos.
+El sistema está obligado a permitir completar la operación de una lista de productos favoritos en no más de 5 pasos.
+El sistema deberá garantizar una disponibilidad del 99.9% medida de forma mensual.
+El sistema debe recuperarse ante una falla crítica en un tiempo máximo de 5 minutos.
+Las consultas sobre un beneficiario para transferencias tienen que completarse en un tiempo inferior a 5 segundos en el 95% de los casos.
+El sistema está obligado a permitir completar la operación de una orden de laboratorio en no más de 5 pasos.
+El sistema está obligado a responder a las solicitudes del usuario en un máximo de 4 segundos.
+El sistema tiene que responder a las solicitudes del usuario en un máximo de 5 segundos.
+El sistema necesita cifrar la información de una receta electrónica utilizando el algoritmo AES-256.
+El sistema necesita permitir completar la operación de una solicitud de crédito en no más de 4 pasos.
+El tiempo de procesamiento de un pedido nuevo no deberá superar los 3 segundos bajo carga normal.
+El tiempo de procesamiento de una historia clínica digital no debe superar los 4 segundos bajo carga normal.
+El sistema está obligado a garantizar una disponibilidad del 99% medida de forma mensual.
+El sistema tiene que permitir completar la operación de una lista de productos favoritos en no más de 4 pasos.
+El sistema está obligado a registrar en una bitácora de auditoría todo intento de acceso no autorizado a un curso virtual.
+El sistema deberá recuperarse ante una falla crítica en un tiempo máximo de 5 minutos.
+El sistema está obligado a soportar al menos 200 usuarios concurrentes sin degradar su tiempo de respuesta.
+El sistema tiene que cifrar la información de una historia clínica digital utilizando el algoritmo AES-256.
+El sistema necesita ser accesible para personas con discapacidad visual, conforme a las pautas WCAG 2.1.
+El sistema deberá responder a las solicitudes del usuario en un máximo de 2 segundos.
+El sistema está obligado a realizar copias de seguridad automáticas de un plan de pagos con frecuencia diaria.
+El sistema necesita responder a las solicitudes del usuario en un máximo de 5 segundos.
+El sistema tiene que cifrar la información de un grupo de trabajo colaborativo utilizando el algoritmo AES-256.
+El sistema está obligado a garantizar una disponibilidad del 99.5% medida de forma mensual.
+El sistema está obligado a soportar al menos 2000 usuarios concurrentes sin degradar su tiempo de respuesta.
+El rendimiento del sistema debe ser aceptable en la mayoría de los escenarios.
+El sistema debe ser lo suficientemente rápido para no incomodar al usuario.
+El tiempo de procesamiento de una tarea con fecha límite no debe superar los 5 segundos bajo carga normal.
+El sistema necesita realizar copias de seguridad automáticas de un curso virtual con frecuencia diaria.
+El sistema necesita bloquear el acceso tras 3 intentos fallidos de autenticación consecutivos.
+Las consultas sobre una receta electrónica tienen que completarse en un tiempo inferior a 2 segundos en el 95% de los casos.
+El sistema tiene que cifrar la información de una cita médica utilizando el algoritmo AES-256.
+El sistema necesita soportar al menos 2000 usuarios concurrentes sin degradar su tiempo de respuesta.
+El sistema necesita permitir completar la operación de una alerta de saldo mínimo en no más de 3 pasos.
+El sistema tiene que bloquear el acceso tras 5 intentos fallidos de autenticación consecutivos.
+El sistema necesita permitir completar la operación de una tarjeta de débito virtual en no más de 5 pasos.
+El tiempo de procesamiento de un pedido nuevo no debe superar los 3 segundos bajo carga normal.
+El sistema está obligado a registrar en una bitácora de auditoría todo intento de acceso no autorizado a una receta electrónica.
+El sistema está obligado a permitir completar la operación de un cupón de descuento en no más de 4 pasos.
+El sistema está obligado a bloquear el acceso tras 5 intentos fallidos de autenticación consecutivos.
+El sistema necesita realizar copias de seguridad automáticas de un cupón de descuento con frecuencia diaria.
+El sistema tiene que garantizar una disponibilidad del 99% medida de forma mensual.
+Las consultas sobre una rúbrica de evaluación tienen que completarse en un tiempo inferior a 4 segundos en el 95% de los casos.
+El sistema debe realizar copias de seguridad automáticas de un plan de pagos con frecuencia diaria.
+El sistema debe registrar en una bitácora de auditoría todo intento de acceso no autorizado a una rúbrica de evaluación.
+El sistema deberá permitir completar la operación de una tarea con fecha límite en no más de 3 pasos.
+El sistema está obligado a permitir completar la operación de una rúbrica de evaluación en no más de 5 pasos.
+El sistema está obligado a cifrar la información de un plan de pagos utilizando el algoritmo AES-256.
+El sistema deberá soportar al menos 500 usuarios concurrentes sin degradar su tiempo de respuesta.
+El sistema tiene que permitir completar la operación de una lista de productos favoritos en no más de 5 pasos.
+El sistema debe soportar al menos 1000 usuarios concurrentes sin degradar su tiempo de respuesta.
+Toda comunicación entre el cliente y el servidor debe realizarse mediante el protocolo HTTPS.
+El sistema deberá soportar al menos 200 usuarios concurrentes sin degradar su tiempo de respuesta.
+El sistema tiene que ofrecer un nivel adecuado de protección de datos.
+Las consultas sobre una cuenta de ahorros tienen que completarse en un tiempo inferior a 2 segundos en el 95% de los casos.
+El sistema deberá permitir completar la operación de una matrícula para el nuevo período en no más de 4 pasos.
+Los datos sensibles de una rúbrica de evaluación tienen que almacenarse cifrados tanto en tránsito como en reposo.
+El sistema debe registrar en una bitácora de auditoría todo intento de acceso no autorizado a un plan de pagos.
+La interfaz debe ser comprensible para usuarios sin experiencia técnica previa.
+El sistema debe soportar al menos 2000 usuarios concurrentes sin degradar su tiempo de respuesta.
+El sistema está obligado a permitir completar la operación de un grupo de trabajo colaborativo en no más de 3 pasos.
+El sistema necesita cifrar la información de un plan de tratamiento utilizando el algoritmo AES-256.
+El sistema deberá recuperarse ante una falla crítica en un tiempo máximo de 15 minutos.
+El sistema tiene que recuperarse ante una falla crítica en un tiempo máximo de 5 minutos.
+El sistema está obligado a realizar copias de seguridad automáticas de una orden de laboratorio con frecuencia diaria.
+El sistema tiene que registrar en una bitácora de auditoría todo intento de acceso no autorizado a una tarjeta de débito virtual.
+El sistema necesita permitir completar la operación de una lista de productos favoritos en no más de 4 pasos.
+El sistema deberá realizar copias de seguridad automáticas de una rúbrica de evaluación con frecuencia diaria.
+El sistema tiene que cifrar la información de un curso virtual utilizando el algoritmo AES-256.
+El sistema necesita cifrar la información de una lista de productos favoritos utilizando el algoritmo AES-256.
+El sistema necesita realizar copias de seguridad automáticas de una cita médica con frecuencia diaria.
+El tiempo de procesamiento de una solicitud de crédito no debe superar los 5 segundos bajo carga normal.
+Las consultas sobre una tarea con fecha límite deben completarse en un tiempo inferior a 5 segundos en el 95% de los casos.
+El sistema debe permitir completar la operación de una lista de productos favoritos en no más de 5 pasos.
+El sistema tiene que responder a las solicitudes del usuario en un máximo de 4 segundos.
+El sistema está obligado a permitir completar la operación de un plan de tratamiento en no más de 3 pasos.
+El sistema tiene que registrar en una bitácora de auditoría todo intento de acceso no autorizado a una rúbrica de evaluación.
+El sistema debe permitir completar la operación de una orden de laboratorio en no más de 5 pasos.
+Los datos sensibles de una receta electrónica tienen que almacenarse cifrados tanto en tránsito como en reposo.
+El sistema deberá permitir completar la operación de una tarjeta de débito virtual en no más de 5 pasos.
+El sistema debe realizar copias de seguridad automáticas de una lista de productos favoritos con frecuencia diaria.
+Los mensajes de error debe explicar de forma clara la causa del problema y una posible solución.
+El sistema está obligado a responder a las solicitudes del usuario en un máximo de 2 segundos.
+La interfaz deberá ser comprensible para usuarios sin experiencia técnica previa.
+En caso de mantenimiento programado, el sistema debe notificar a los usuarios con al menos 72 horas de anticipación.
+El sistema tiene que recuperarse ante una falla crítica en un tiempo máximo de 10 minutos.
+El sistema está obligado a garantizar una disponibilidad del 99.9% medida de forma mensual.
+La usabilidad del sistema debe ser buena para la mayoría de los usuarios.
+El tiempo de procesamiento de un grupo de trabajo colaborativo no debe superar los 4 segundos bajo carga normal.
+El sistema necesita responder a las solicitudes del usuario en un máximo de 2 segundos.
+El sistema deberá permitir completar la operación de un plan de tratamiento en no más de 3 pasos.
+El sistema tiene que garantizar una disponibilidad del 99.9% medida de forma mensual.
+El sistema tiene que permitir completar la operación de una tarea con fecha límite en no más de 4 pasos.
+El sistema tiene que responder a las solicitudes del usuario en un máximo de 3 segundos.
+El sistema deberá estar disponible casi todo el tiempo, salvo situaciones excepcionales.
+La aplicación debe cargar en un tiempo prudente según las condiciones de red.
+El sistema debe ser accesible para personas con discapacidad visual, conforme a las pautas WCAG 2.1.
+En caso de mantenimiento programado, el sistema tiene que notificar a los usuarios con al menos 24 horas de anticipación.
+El sistema tiene que responder a las solicitudes del usuario en un máximo de 2 segundos.
+El sistema está obligado a permitir completar la operación de un plan de tratamiento en no más de 4 pasos.
+En caso de mantenimiento programado, el sistema debe notificar a los usuarios con al menos 48 horas de anticipación.
+El sistema debe permitir completar la operación de un grupo de trabajo colaborativo en no más de 5 pasos.
+El sistema necesita permitir completar la operación de un grupo de trabajo colaborativo en no más de 4 pasos.
+Las consultas sobre un plan de tratamiento tienen que completarse en un tiempo inferior a 5 segundos en el 95% de los casos.
+El tiempo de procesamiento de un pedido nuevo no debe superar los 5 segundos bajo carga normal.
+El sistema está obligado a cifrar la información de una tarea con fecha límite utilizando el algoritmo AES-256.
+En caso de mantenimiento programado, el sistema deberá notificar a los usuarios con al menos 24 horas de anticipación.
+El sistema está obligado a responder a las solicitudes del usuario en un máximo de 3 segundos.
+El sistema tiene que permitir completar la operación de un cupón de descuento en no más de 3 pasos.
+Las consultas sobre una solicitud de crédito deberán completarse en un tiempo inferior a 5 segundos en el 95% de los casos.
+El sistema deberá responder a las solicitudes del usuario en un máximo de 3 segundos.
+El sistema está obligado a ser accesible para personas con discapacidad visual, conforme a las pautas WCAG 2.1.
+El sistema necesita realizar copias de seguridad automáticas de una matrícula para el nuevo período con frecuencia diaria.
+Las consultas sobre un cupón de descuento deben completarse en un tiempo inferior a 5 segundos en el 95% de los casos.
+Las consultas sobre un plan de tratamiento tienen que completarse en un tiempo inferior a 4 segundos en el 95% de los casos.
+El sistema deberá garantizar una disponibilidad del 99% medida de forma mensual.
+El sistema debe soportar al menos 500 usuarios concurrentes sin degradar su tiempo de respuesta.
+La interfaz deberá ser amigable y fácil de usar en general.
+El sistema necesita garantizar una disponibilidad del 99.5% medida de forma mensual.
+En caso de mantenimiento programado, el sistema deberá notificar a los usuarios con al menos 48 horas de anticipación.
+El sistema tiene que permitir completar la operación de una tarea con fecha límite en no más de 5 pasos.
+Los datos sensibles de un cupón de descuento deberán almacenarse cifrados tanto en tránsito como en reposo.
+El sistema deberá realizar copias de seguridad automáticas de un plan de pagos con frecuencia diaria.
+El sistema deberá responder a las solicitudes del usuario en un máximo de 4 segundos.
+Los datos sensibles de un registro de alergias del paciente deben almacenarse cifrados tanto en tránsito como en reposo.
+El sistema necesita garantizar una disponibilidad del 99.9% medida de forma mensual.
+El sistema tiene que recuperarse ante una falla crítica en un tiempo máximo de 15 minutos.
+El sistema está obligado a realizar copias de seguridad automáticas de un cupón de descuento con frecuencia diaria.
+El sistema tiene que ser accesible para personas con discapacidad visual, conforme a las pautas WCAG 2.1.
+El sistema tiene que permitir completar la operación de una reseña de producto en no más de 4 pasos.
+El sistema deberá recuperarse ante una falla crítica en un tiempo máximo de 10 minutos.
+El sistema está obligado a permitir completar la operación de una cita médica en no más de 5 pasos.
