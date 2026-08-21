@@ -1,4 +1,6 @@
 ---
+import logo from '../logoUTM.png';
+
 const apiUrl = import.meta.env.PUBLIC_API_URL || 'http://127.0.0.1:8000';
 ---
 
@@ -7,51 +9,63 @@ const apiUrl = import.meta.env.PUBLIC_API_URL || 'http://127.0.0.1:8000';
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
-    <meta name="description" content="Compara clasificadores de requisitos de software en español." />
-    <title>Elbeto // Laboratorio de comparación</title>
+    <meta name="description" content="Clasificación de requisitos de software en español mediante BETO + BiLSTM." />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <title>Elbeto | Clasificación de requisitos</title>
   </head>
   <body>
-    <main class="shell">
+    <main class="shell" data-api-url={apiUrl}>
       <header class="topbar">
-        <a class="brand" href="/" aria-label="Inicio de Elbeto"><span class="brand-mark">E</span><span>ELBETO <small>COMPARACIÓN DE MODELOS</small></span></a>
-        <div class="connection"><span class="pulse" id="health-dot"></span><span id="health-text">Comprobando API</span></div>
+        <a class="brand" href="/" aria-label="Inicio de Elbeto">
+          <img class="institution-logo" src={logo.src} alt="Universidad Técnica de Manabí" />
+          <span class="brand-name">ELBETO <small>CLASIFICACIÓN DE REQUISITOS</small></span>
+        </a>
+        <div class="service-status"><span class="pulse" id="health-dot"></span><span id="health-text">Verificando servicio</span></div>
       </header>
 
       <section class="hero">
         <div>
-          <p class="eyebrow">RF / RNF / SPANISH NLP / LOCAL CPU</p>
-          <h1>Cuatro modelos.<br /><em>Un requisito.</em></h1>
-          <p class="intro">Compara BETO+BiLSTM frente a BETO y modelos clásicos de referencia. Cada modelo recibe el mismo texto y devuelve su etiqueta, confianza y latencia de inferencia local.</p>
+          <p class="eyebrow">RF / RNF / PROCESAMIENTO EN ESPAÑOL</p>
+          <h1>Clasificación inteligente<br /><em>de requisitos.</em></h1>
+          <p class="intro">Analiza especificaciones de software y determina si describen una funcionalidad del sistema o una condición de calidad. El análisis utiliza un modelo BETO con una capa BiLSTM.</p>
         </div>
-        <div class="model-card"><span class="card-label">CONJUNTO DE COMPARACIÓN</span><strong>BETO + BiLSTM + 3 REFERENCIAS</strong><span>Secuencial · transformer · ensamble · probabilístico</span><span>Ordenado por confianza</span></div>
+        <aside class="model-card">
+          <span class="card-label">MODELO ACTIVO</span>
+          <strong>BETO + BiLSTM</strong>
+          <span>Representación contextual en español</span>
+          <span>Clasificación binaria · Inferencia local</span>
+        </aside>
       </section>
 
-      <div class="api-row"><label for="api-url">Dirección de API</label><input id="api-url" value={apiUrl} spellcheck="false" /><button class="ghost" id="health-button" type="button">Comprobar estado</button></div>
-
-      <section class="benchmark panel">
-        <div class="panel-heading"><div><span class="index">01</span><h2>Requisito para comparar</h2></div><span class="method">POST /api/predict/benchmark</span></div>
-        <label class="field-label" for="benchmark-text">Entrada en español</label>
-        <textarea id="benchmark-text" rows="6" maxlength="10000" placeholder="El sistema debe responder cada solicitud en menos de dos segundos."></textarea>
-        <div class="composer-footer"><span id="char-count">0 / 10.000</span><button class="primary" id="benchmark-button" type="button">Comparar modelos <span>→</span></button></div>
-        <div class="error" id="benchmark-error" role="alert"></div>
+      <section class="panel input-panel">
+        <div class="panel-heading"><div><span class="index">01</span><h2>Analizar requisito</h2></div><span class="method">CLASIFICACIÓN INDIVIDUAL</span></div>
+        <label class="field-label" for="requirement-text">Entrada en español</label>
+        <textarea id="requirement-text" rows="6" maxlength="10000" placeholder="El sistema debe permitir registrar nuevos usuarios."></textarea>
+        <div class="composer-footer"><span id="char-count">0 / 10.000</span><button class="primary" id="predict-button" type="button">Clasificar <span>→</span></button></div>
+        <div class="error" id="predict-error" role="alert"></div>
       </section>
 
       <section class="results-section">
-        <div class="section-heading"><div><span class="index">02</span><h2>Resultados comparativos</h2></div><span class="live-tag">CUATRO PREDICCIONES</span></div>
-        <div class="empty-state" id="benchmark-empty"><span class="target">◎</span><p>Esperando requisito</p><small>Envía un requisito para comparar todos los modelos.</small></div>
-        <div class="cards hidden" id="benchmark-results"></div>
+        <div class="section-heading"><div><span class="index">02</span><h2>Resultado</h2></div><span class="live-tag">BETO + BILSTM</span></div>
+        <div class="empty-state" id="result-empty"><span class="target">◎</span><p>Esperando requisito</p><small>Escribe una especificación para obtener su clasificación.</small></div>
+        <article class="result-card hidden" id="result-card">
+          <div class="result-top"><div><span class="result-label" id="result-label">RF</span><p id="result-kind">Requisito funcional</p></div><span class="model-chip">BETO + BiLSTM</span></div>
+          <div class="confidence-row"><span>Confianza del modelo</span><strong id="result-confidence">0%</strong></div>
+          <div class="confidence-track"><span id="result-bar"></span></div>
+          <div class="result-meta"><div><span>INTERPRETACIÓN</span><strong id="result-description">El sistema define una acción o capacidad.</strong></div><div><span>LATENCIA</span><strong id="result-latency">0 ms</strong></div></div>
+        </article>
       </section>
 
       <section class="panel batch-panel">
-        <div class="panel-heading"><div><span class="index">03</span><h2>Evaluación comparativa por lote</h2></div><span class="method">POST /api/predict/benchmark/batch</span></div>
-        <p class="panel-note">Compara todos los modelos disponibles. Escribe un requisito por línea.</p>
-        <textarea id="batch-text" rows="5" placeholder="El sistema debe permitir registrar usuarios.&#10;La disponibilidad mensual debe superar el 99.9%."></textarea>
-        <div class="composer-footer"><span id="batch-count">0 requisitos</span><button class="primary" id="batch-button" type="button">Ejecutar lote <span>→</span></button></div>
+        <div class="panel-heading"><div><span class="index">03</span><h2>Evaluación por lote</h2></div><span class="method">HASTA 256 ENTRADAS</span></div>
+        <p class="panel-note">Introduce un requisito por línea para procesar varias especificaciones en una sola solicitud.</p>
+        <textarea id="batch-text" rows="5" placeholder="El sistema debe permitir registrar usuarios.&#10;La disponibilidad mensual debe superar el 99,9 %." ></textarea>
+        <div class="composer-footer"><span id="batch-count">0 requisitos</span><button class="primary" id="batch-button" type="button">Procesar lote <span>→</span></button></div>
         <div class="error" id="batch-error" role="alert"></div>
-        <div class="table-wrap hidden" id="batch-results"><table><thead><tr><th>#</th><th>Requisito</th><th>BETO + BiLSTM</th><th>BETO</th><th>Random Forest</th><th>Naive Bayes</th></tr></thead><tbody id="batch-body"></tbody></table></div>
+        <div class="table-wrap hidden" id="batch-results"><table><thead><tr><th>#</th><th>Requisito</th><th>Clasificación</th><th>Confianza</th></tr></thead><tbody id="batch-body"></tbody></table></div>
       </section>
 
-      <footer><span>RF = Funcional · RNF = No funcional</span><span>Inferencia local · No se guardan textos</span></footer>
+      <footer><span>RF = Funcional · RNF = No funcional</span><span>Procesamiento local · No se guardan textos</span></footer>
     </main>
   </body>
 </html>
@@ -59,217 +73,77 @@ const apiUrl = import.meta.env.PUBLIC_API_URL || 'http://127.0.0.1:8000';
 <style>
   @import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap');
   :global(*) { box-sizing: border-box; }
-  :global(body) { margin: 0; color: #e9e8e1; background: #111314; font-family: 'Space Grotesk', sans-serif; }
+  :global(:root) { --green: rgb(19, 150, 72); --green-bright: #35c979; --teal-950: #0d2022; --teal-900: #102b2d; --line: #2c4848; --muted: #9db1ad; --white: #fff; }
+  :global(body) { margin: 0; color: var(--white); background: var(--teal-950); font-family: 'Space Grotesk', sans-serif; }
   :global(body)::before { content: ''; position: fixed; inset: 0; pointer-events: none; opacity: .24; background-image: linear-gradient(rgba(255,255,255,.025) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.025) 1px, transparent 1px); background-size: 42px 42px; }
   .shell { max-width: 1180px; margin: auto; padding: 28px 34px 22px; position: relative; }
-  .topbar, .api-row, .composer-footer, footer, .panel-heading, .section-heading, .card-top, .card-meta { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
-  .topbar { border-bottom: 1px solid #303435; padding-bottom: 22px; }
-  .brand { color: #f3f0e8; text-decoration: none; font-weight: 700; letter-spacing: .08em; display: flex; align-items: center; gap: 10px; }
-  .brand small { display: block; color: #79817d; letter-spacing: .18em; font: 10px 'DM Mono', monospace; margin-top: 3px; }
-  .brand-mark { display: grid; place-items: center; width: 31px; height: 31px; color: #111314; background: #e8ff5b; font-size: 20px; transform: rotate(-7deg); }
-  .connection, .method, .live-tag, .eyebrow, .card-label, .field-label, .card-meta span, footer, .index { color: #89918d; font: 11px 'DM Mono', monospace; letter-spacing: .08em; text-transform: uppercase; }
-  .pulse { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #e8ff5b; box-shadow: 0 0 12px #e8ff5b; margin-right: 7px; }
-  .pulse.off { background: #ff806d; box-shadow: 0 0 12px #ff806d; }
-  .hero { display: grid; grid-template-columns: 1fr 300px; gap: 60px; padding: 78px 0 62px; }
-  .eyebrow { color: #e8ff5b; margin: 0 0 18px; }
-  h1 { font-size: clamp(42px, 6vw, 76px); line-height: .96; letter-spacing: -.065em; margin: 0; font-weight: 600; }
-  h1 em { color: #e8ff5b; font-style: normal; }
-  h2 { font-size: 17px; letter-spacing: -.02em; margin: 0; }
-  .intro { max-width: 610px; color: #9da39f; line-height: 1.65; margin: 25px 0 0; font-size: 15px; }
-  .model-card { align-self: end; border-left: 2px solid #e8ff5b; padding: 15px 0 15px 18px; display: grid; gap: 9px; color: #89918d; font-size: 12px; }
-  .model-card strong { color: #f3f0e8; font-size: 19px; }
-  .api-row { background: #191c1d; border: 1px solid #303435; padding: 10px 12px; margin-bottom: 18px; }
-  .api-row label { color: #89918d; font: 11px 'DM Mono', monospace; text-transform: uppercase; }
-  input, textarea { border: 1px solid #353b3b; background: #101212; color: #e9e8e1; font: 14px 'DM Mono', monospace; outline: none; border-radius: 2px; }
-  input:focus, textarea:focus { border-color: #e8ff5b; box-shadow: 0 0 0 2px rgba(232,255,91,.08); }
-  .api-row input { flex: 1; padding: 8px 10px; font-size: 12px; }
-  button { border: 0; cursor: pointer; font: 600 12px 'DM Mono', monospace; letter-spacing: .04em; text-transform: uppercase; }
-  button:disabled { cursor: wait; opacity: .55; }
-  .spinner { display: inline-block; width: 11px; height: 11px; margin-right: 8px; border: 2px solid rgba(17,19,20,.35); border-top-color: #111314; border-radius: 50%; animation: spin .7s linear infinite; vertical-align: -1px; }
-  @keyframes spin { to { transform: rotate(360deg); } }
-  .ghost { color: #e9e8e1; background: transparent; border: 1px solid #4a5250; padding: 9px 12px; }
-  .primary { color: #111314; background: #e8ff5b; padding: 13px 17px; min-width: 145px; }
-  .primary span { font-size: 17px; margin-left: 8px; }
-  .panel, .results-section { background: #191c1d; border: 1px solid #303435; padding: 22px; }
-  .panel-heading, .section-heading { margin-bottom: 22px; }
-  .panel-heading > div, .section-heading > div { display: flex; align-items: center; gap: 12px; }
-  .index { color: #e8ff5b; }
-  .method { font-size: 10px; color: #5e6864; }
-  .live-tag { color: #e8ff5b; font-size: 10px; }
-  .field-label { display: block; margin-bottom: 9px; font-size: 10px; }
-  textarea { width: 100%; display: block; padding: 14px; resize: vertical; line-height: 1.55; }
-  .composer-footer { margin-top: 13px; color: #69726e; font: 11px 'DM Mono', monospace; }
-  .error { color: #ff806d; font: 12px 'DM Mono', monospace; margin-top: 12px; min-height: 16px; }
-  .results-section { margin-top: 18px; }
-  .empty-state { min-height: 235px; display: grid; place-content: center; text-align: center; color: #6c7571; }
-  .target { display: block; color: #3e4745; font-size: 55px; line-height: 1; }
-  .empty-state p { margin: 13px 0 4px; color: #9da39f; font-size: 15px; }
-  .empty-state small { font: 11px 'DM Mono', monospace; }
-  .hidden { display: none !important; }
-   .cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
-  :global(.benchmark-card) { background: #111314; border: 1px solid #303435; padding: 20px; min-height: 230px; display: flex; flex-direction: column; justify-content: space-between; }
-  :global(.benchmark-card.featured) { border-color: #e8ff5b; box-shadow: inset 0 3px #e8ff5b; }
-  :global(.card-top) { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; }
-  :global(.model-name) { display: grid; gap: 8px; }
-  :global(.model-name strong), :global(.model-type) { display: block; }
-  :global(.model-name strong) { font-size: 19px; }
-  :global(.model-type) { color: #69726e; font: 10px 'DM Mono', monospace; text-transform: uppercase; }
-  :global(.rank) { color: #69726e; font: 11px 'DM Mono', monospace; }
-  :global(.label) { font: 700 26px 'DM Mono', monospace; letter-spacing: -.08em; }
-  :global(.label-rf) { color: #78c8ff; } :global(.label-rnf) { color: #ffb454; }
-  :global(.confidence-row) { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin: 27px 0 9px; font: 12px 'DM Mono', monospace; }
-  :global(.confidence-track) { height: 7px; background: #303736; }
-  :global(.confidence-track span) { display: block; height: 100%; background: #e8ff5b; transition: width .4s ease; }
-  :global(.card-meta) { display: flex; align-items: end; justify-content: space-between; gap: 22px; margin-top: 22px; }
-  :global(.card-meta div) { display: grid; gap: 8px; }
-  :global(.card-meta span) { color: #89918d; font: 11px 'DM Mono', monospace; letter-spacing: .08em; text-transform: uppercase; }
-  :global(.card-meta strong) { font: 13px 'DM Mono', monospace; font-weight: 500; }
-  .batch-panel { margin-top: 18px; }
-  .panel-note { color: #89918d; font-size: 13px; margin: -10px 0 16px; }
-  .table-wrap { overflow-x: auto; margin-top: 24px; border-top: 1px solid #303435; }
-  :global(.batch-prediction) { display: inline-flex; align-items: baseline; gap: 8px; white-space: nowrap; }
-  :global(.batch-prediction small) { color: #89918d; font: 10px 'DM Mono', monospace; }
-  table { width: 100%; border-collapse: collapse; font-size: 13px; }
-  th, td { padding: 13px 10px; text-align: left; border-bottom: 1px solid #303435; }
-  th { color: #69726e; font: 10px 'DM Mono', monospace; text-transform: uppercase; }
-  td:first-child { color: #69726e; font-family: 'DM Mono', monospace; }
-  td:nth-child(2) { max-width: 560px; }
+  .topbar, .composer-footer, footer, .panel-heading, .section-heading, .result-top { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+  .topbar { background: var(--white); border: 2px solid #dce8e3; border-radius: 999px; padding: 15px 24px; box-shadow: 0 14px 34px rgba(0,0,0,.16); }
+  .brand { color: var(--teal-950); text-decoration: none; font-weight: 700; letter-spacing: .08em; display: flex; align-items: center; gap: 15px; min-width: 0; }
+  .institution-logo { display: block; width: 226px; max-height: 87px; object-fit: contain; border-radius: 4px; }
+  .brand-name { white-space: nowrap; }.brand small { display: block; color: #28544f; opacity: 1; letter-spacing: .18em; font: 500 10px 'DM Mono', monospace; margin-top: 3px; }
+  .service-status, .method, .live-tag, .eyebrow, .card-label, .field-label, footer, .index, .model-chip { color: var(--muted); font: 11px 'DM Mono', monospace; letter-spacing: .08em; text-transform: uppercase; }
+  .service-status { color: #52706d; }.pulse { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--green-bright); box-shadow: 0 0 12px var(--green-bright); margin-right: 7px; }.pulse.off { background: #ff806d; box-shadow: 0 0 12px #ff806d; }
+  .hero { display: grid; grid-template-columns: 1fr 300px; gap: 60px; padding: 78px 0 62px; }.eyebrow { color: var(--green-bright); margin: 0 0 18px; }h1 { font-size: clamp(42px, 6vw, 76px); line-height: .96; letter-spacing: -.065em; margin: 0; font-weight: 600; }h1 em { color: var(--green-bright); font-style: normal; }h2 { font-size: 17px; letter-spacing: -.02em; margin: 0; }.intro { max-width: 610px; color: #9da39f; line-height: 1.65; margin: 25px 0 0; font-size: 15px; }
+  .model-card { align-self: end; border-left: 2px solid var(--green); padding: 15px 0 15px 18px; display: grid; gap: 9px; color: var(--muted); font-size: 12px; }.model-card strong { color: #f3f0e8; font-size: 19px; }
+  .panel, .results-section { background: var(--teal-900); border: 1px solid var(--line); padding: 22px; }.panel-heading, .section-heading { margin-bottom: 22px; }.panel-heading > div, .section-heading > div { display: flex; align-items: center; gap: 12px; }.index { color: var(--green-bright); }.method { font-size: 10px; color: #5e6864; }.live-tag { color: var(--green-bright); font-size: 10px; }.field-label { display: block; margin-bottom: 9px; font-size: 10px; }
+  textarea { width: 100%; display: block; padding: 14px; resize: vertical; line-height: 1.55; border: 1px solid #365353; background: #0a191b; color: var(--white); font: 14px 'DM Mono', monospace; outline: none; border-radius: 2px; }textarea:focus { border-color: var(--green-bright); box-shadow: 0 0 0 2px rgba(19,150,72,.18); }.composer-footer { margin-top: 13px; color: #69726e; font: 11px 'DM Mono', monospace; }.error { color: #ff806d; font: 12px 'DM Mono', monospace; margin-top: 12px; min-height: 16px; }
+  button { border: 0; cursor: pointer; font: 600 12px 'DM Mono', monospace; letter-spacing: .04em; text-transform: uppercase; }button:disabled { cursor: wait; opacity: .55; }.primary { color: var(--white); background: var(--green); padding: 13px 17px; min-width: 145px; }.primary span { font-size: 17px; margin-left: 8px; }.spinner { display: inline-block; width: 11px; height: 11px; margin-right: 8px; border: 2px solid rgba(17,19,20,.35); border-top-color: #111314; border-radius: 50%; animation: spin .7s linear infinite; vertical-align: -1px; }@keyframes spin { to { transform: rotate(360deg); } }
+  .results-section { margin-top: 18px; }.empty-state { min-height: 235px; display: grid; place-content: center; text-align: center; color: #6c7571; }.target { display: block; color: #3e4745; font-size: 55px; line-height: 1; }.empty-state p { margin: 13px 0 4px; color: #9da39f; font-size: 15px; }.empty-state small { font: 11px 'DM Mono', monospace; }.hidden { display: none !important; }
+  .result-card { background: #111314; border: 1px solid var(--green); box-shadow: inset 0 3px var(--green); padding: 24px; }.result-label { color: var(--green-bright); font: 700 36px 'DM Mono', monospace; letter-spacing: -.08em; }.result-top p { margin: 7px 0 0; color: #9da39f; }.model-chip { color: var(--green-bright); }.confidence-row { display: flex; align-items: baseline; justify-content: space-between; margin: 30px 0 9px; color: #89918d; font: 12px 'DM Mono', monospace; }.confidence-row strong { color: var(--white); font-size: 17px; }.confidence-track { height: 7px; background: #303736; }.confidence-track span { display: block; height: 100%; background: var(--green-bright); transition: width .4s ease; }.result-meta { display: flex; gap: 50px; margin-top: 24px; }.result-meta div { display: grid; gap: 8px; }.result-meta span { color: #89918d; font: 11px 'DM Mono', monospace; }.result-meta strong { font: 13px 'DM Mono', monospace; font-weight: 500; }
+  .batch-panel { margin-top: 18px; }.panel-note { color: #89918d; font-size: 13px; margin: -10px 0 16px; }.table-wrap { overflow-x: auto; margin-top: 24px; border-top: 1px solid #303435; }table { width: 100%; border-collapse: collapse; font-size: 13px; }th, td { padding: 13px 10px; text-align: center; vertical-align: middle; border-bottom: 1px solid #303435; }th { color: #69726e; font: 10px 'DM Mono', monospace; text-transform: uppercase; }th:nth-child(3), th:nth-child(4), td:nth-child(3), td:nth-child(4), .batch-result-cell { text-align: center !important; }td:first-child { color: #69726e; font-family: 'DM Mono', monospace; }td:nth-child(2) { max-width: 560px; }.batch-label { display: block; text-align: center; font: 700 14px 'DM Mono', monospace; }.batch-confidence { display: block; width: 100%; text-align: center; font-family: 'DM Mono', monospace; }.rf { color: #78c8ff; }.rnf { color: #ffb454; }
+  :global(#batch-body td) { padding: 13px 10px; text-align: center !important; vertical-align: middle; border-bottom: 1px solid #303435; }
+  :global(#batch-body td:nth-child(3)), :global(#batch-body td:nth-child(4)), :global(.batch-result-cell) { text-align: center !important; }
+  :global(.batch-label) { display: block; text-align: center; font: 700 14px 'DM Mono', monospace; }
+  :global(.batch-confidence) { display: block; width: 100%; text-align: center; font-family: 'DM Mono', monospace; }
+  :global(.rf) { color: #78c8ff; } :global(.rnf) { color: #ffb454; }
   footer { margin-top: 22px; padding-top: 18px; border-top: 1px solid #303435; font-size: 10px; }
-   @media (max-width: 1000px) { .cards { grid-template-columns: repeat(2, 1fr); } }
-   @media (max-width: 760px) { .shell { padding: 20px 16px; } .hero { grid-template-columns: 1fr; gap: 30px; padding: 55px 0 38px; } .model-card { align-self: start; } .cards { grid-template-columns: 1fr; } .api-row { align-items: stretch; flex-wrap: wrap; } .api-row input { flex-basis: 100%; order: 3; } footer { align-items: flex-start; flex-direction: column; } .method { display: none; } }
+  @media (max-width: 760px) { .shell { padding: 16px; }.topbar { align-items: center; }.brand { gap: 9px; }.institution-logo { width: 130px; max-height: 55px; }.brand-name { display: block; font-size: 12px; letter-spacing: .06em; }.brand small { font-size: 7px; letter-spacing: .12em; }.service-status { display: none; }.hero { grid-template-columns: 1fr; gap: 30px; padding: 48px 0 38px; }.model-card { align-self: start; }.result-top { align-items: flex-start; flex-direction: column; }.result-meta { gap: 24px; flex-wrap: wrap; }.method { display: none; }footer { align-items: flex-start; flex-direction: column; } }
 </style>
 
 <script>
-  const apiInput = document.querySelector('#api-url') as HTMLInputElement;
-  const healthDot = document.querySelector('#health-dot') as HTMLElement;
-  const healthText = document.querySelector('#health-text') as HTMLElement;
-  const benchmarkText = document.querySelector('#benchmark-text') as HTMLTextAreaElement;
+  const baseUrl = (document.querySelector('.shell') as HTMLElement).dataset.apiUrl!.replace(/\/$/, '');
+  const requirementText = document.querySelector('#requirement-text') as HTMLTextAreaElement;
   const batchText = document.querySelector('#batch-text') as HTMLTextAreaElement;
-  const benchmarkButton = document.querySelector('#benchmark-button') as HTMLButtonElement;
+  const predictButton = document.querySelector('#predict-button') as HTMLButtonElement;
   const batchButton = document.querySelector('#batch-button') as HTMLButtonElement;
-  const healthButton = document.querySelector('#health-button') as HTMLButtonElement;
-  const benchmarkError = document.querySelector('#benchmark-error') as HTMLElement;
+  const predictError = document.querySelector('#predict-error') as HTMLElement;
   const batchError = document.querySelector('#batch-error') as HTMLElement;
-
-  const baseUrl = (): string => apiInput.value.trim().replace(/\/$/, '');
-  const apiFetch = (path: string, options: RequestInit = {}): Promise<Response> => {
-    const headers = new Headers(options.headers);
-    headers.set('ngrok-skip-browser-warning', 'true');
-    return fetch(`${baseUrl()}${path}`, { ...options, headers });
-  };
   const formatPercent = (value: number): string => `${(value * 100).toFixed(1)}%`;
-  const setBusy = (button: HTMLButtonElement, busy: boolean, label: string = ''): void => {
-    button.disabled = busy;
-    button.dataset.original = button.dataset.original || button.innerHTML;
-    button.innerHTML = busy ? `<span class="spinner"></span>${label}` : button.dataset.original!;
-  };
-  const showError = (element: HTMLElement, error: unknown, fallback: string): void => {
-    element.textContent = error instanceof Error ? error.message : fallback;
-  };
-
-  const modelTypes: Record<string, string> = {
-    'BETO + BiLSTM': 'Transformer / secuencia recurrente',
-    'BETO': 'Aprendizaje profundo / transformer',
-    'Random Forest': 'Ensamble / ML clásico',
-    'Naive Bayes': 'Probabilístico / ML clásico',
-  };
+  const escapeHtml = (value: string): string => value.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;');
+  const setBusy = (button: HTMLButtonElement, busy: boolean, label: string): void => { button.disabled = busy; button.dataset.original = button.dataset.original || button.innerHTML; button.innerHTML = busy ? `<span class="spinner"></span>${label}` : button.dataset.original!; };
+  const apiFetch = (path: string, options: RequestInit = {}): Promise<Response> => fetch(`${baseUrl}${path}`, { ...options, headers: { 'Content-Type': 'application/json', ...(options.headers || {}) } });
 
   async function checkHealth(): Promise<void> {
-    try {
-      const response = await apiFetch('/health');
-      if (!response.ok) throw new Error();
-      const data = await response.json();
-      healthDot.classList.toggle('off', !data.model_loaded);
-      healthText.textContent = data.model_loaded
-        ? (data.beto_lstm_loaded ? 'API · 4 MODELOS LISTOS' : 'API · 3 MODELOS · LSTM PENDIENTE')
-        : 'API · MODELOS NO LISTOS';
-    } catch {
-      healthDot.classList.add('off');
-      healthText.textContent = 'API DESCONECTADA';
-    }
+    try { const response = await apiFetch('/health'); if (!response.ok) throw new Error(); (document.querySelector('#health-text') as HTMLElement).textContent = 'SERVICIO LISTO'; }
+    catch { document.querySelector('#health-dot')?.classList.add('off'); (document.querySelector('#health-text') as HTMLElement).textContent = 'SERVICIO NO DISPONIBLE'; }
   }
 
-  function renderCards(predictions: any[]): void {
-    const order = ['BETO + BiLSTM', 'BETO', 'Random Forest', 'Naive Bayes'];
-    const cards = order
-      .map((name) => predictions.find((p: any) => p.model_name === name))
-      .filter(Boolean);
-
-    (document.querySelector('#benchmark-results') as HTMLElement).innerHTML = cards
-      .map((prediction: any) => {
-        const labelClass = prediction.label.toLowerCase();
-        return `<article class="benchmark-card ${prediction.model_name === 'BETO + BiLSTM' ? 'featured' : ''}">
-          <div class="card-top"><div class="model-name"><strong>${prediction.model_name}</strong><span class="model-type">${modelTypes[prediction.model_name] ?? ''}</span></div><span class="rank">#${prediction.rank}</span></div>
-          <div><div class="confidence-row"><span class="label label-${labelClass}">${prediction.label}</span><strong>${formatPercent(prediction.confidence)}</strong></div><div class="confidence-track"><span style="width:${prediction.confidence * 100}%"></span></div></div>
-          <div class="card-meta"><div><span>CLASIFICACIÓN</span><strong>${prediction.label === 'RF' ? 'Funcional' : 'No funcional'}</strong></div><div><span>LATENCIA</span><strong>${prediction.latency_ms} ms</strong></div></div>
-        </article>`;
-      })
-      .join('');
-
-    (document.querySelector('#benchmark-empty') as HTMLElement).classList.add('hidden');
-    (document.querySelector('#benchmark-results') as HTMLElement).classList.remove('hidden');
+  function showResult(data: any): void {
+    const label = data.label; const confidence = Number(data.confidence); const isFunctional = label === 'RF';
+    (document.querySelector('#result-label') as HTMLElement).textContent = label;
+    (document.querySelector('#result-label') as HTMLElement).className = `result-label ${isFunctional ? 'rf' : 'rnf'}`;
+    (document.querySelector('#result-kind') as HTMLElement).textContent = isFunctional ? 'Requisito funcional' : 'Requisito no funcional';
+    (document.querySelector('#result-description') as HTMLElement).textContent = isFunctional ? 'El sistema define una acción o capacidad.' : 'El sistema define una condición de calidad o restricción.';
+    (document.querySelector('#result-confidence') as HTMLElement).textContent = formatPercent(confidence);
+    (document.querySelector('#result-bar') as HTMLElement).style.width = `${confidence * 100}%`;
+    (document.querySelector('#result-latency') as HTMLElement).textContent = `${data.execution_time_ms} ms`;
+    document.querySelector('#result-empty')?.classList.add('hidden'); document.querySelector('#result-card')?.classList.remove('hidden');
   }
 
-  async function predictBenchmark(): Promise<void> {
-    benchmarkError.textContent = '';
-    if (!benchmarkText.value.trim()) { benchmarkError.textContent = 'Escribe un requisito primero.'; return; }
-    setBusy(benchmarkButton, true, 'Comparando...');
-    try {
-      const response = await apiFetch('/api/predict/benchmark', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ text: benchmarkText.value }),
-      });
-      const data = await response.json();
-      if (!response.ok) throw new Error(data.detail || 'La comparación falló.');
-      renderCards(data.predictions);
-    } catch (error) {
-      showError(benchmarkError, error, 'La comparación falló. Comprueba estado y dirección de API.');
-    } finally {
-      setBusy(benchmarkButton, false);
-    }
+  async function predict(): Promise<void> {
+    predictError.textContent = ''; if (!requirementText.value.trim()) { predictError.textContent = 'Escribe un requisito primero.'; return; } setBusy(predictButton, true, 'Analizando...');
+    try { const response = await apiFetch('/api/predict', { method: 'POST', body: JSON.stringify({ text: requirementText.value }) }); const data = await response.json(); if (!response.ok) throw new Error(data.detail || 'No fue posible clasificar el requisito.'); showResult(data); }
+    catch (error) { predictError.textContent = error instanceof Error ? error.message : 'No fue posible clasificar el requisito.'; } finally { setBusy(predictButton, false, ''); }
   }
 
   async function predictBatch(): Promise<void> {
-    batchError.textContent = '';
-    const texts = batchText.value.split('\n').map((text: string) => text.trim()).filter(Boolean);
-    if (!texts.length) { batchError.textContent = 'Añade un requisito por línea.'; return; }
-    setBusy(batchButton, true, 'Procesando...');
-    try {
-      const response = await apiFetch('/api/predict/benchmark/batch', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ texts }),
-      });
-      const data = await response.json();
-      if (!response.ok) throw new Error(data.detail || 'La evaluación por lote falló.');
-      (document.querySelector('#batch-results') as HTMLElement).classList.remove('hidden');
-      (document.querySelector('#batch-body') as HTMLElement).innerHTML = data.predictions
-        .map((item: any, index: number) => {
-          const byModel: Record<string, any> = Object.fromEntries(
-            item.predictions.map((prediction: any) => [prediction.model_name, prediction])
-          );
-          const cell = (prediction: any): string =>
-            `<span class="batch-prediction label-${prediction.label.toLowerCase()}"><strong>${prediction.label}</strong><small>${formatPercent(prediction.confidence)} · ${prediction.latency_ms} ms</small></span>`;
-          return `<tr><td>${index + 1}</td><td>${item.text.replaceAll('&', '&amp;').replaceAll('<', '&lt;')}</td>${['BETO + BiLSTM', 'BETO', 'Random Forest', 'Naive Bayes'].map((name: string) => `<td>${byModel[name] ? cell(byModel[name]) : '<span class="batch-prediction">Pendiente</span>'}</td>`).join('')}</tr>`;
-        })
-        .join('');
-    } catch (error) {
-      showError(batchError, error, 'La solicitud por lote falló. Comprueba estado y dirección de API.');
-    } finally {
-      setBusy(batchButton, false);
-    }
+    batchError.textContent = ''; const texts = batchText.value.split('\n').map((text) => text.trim()).filter(Boolean); if (!texts.length) { batchError.textContent = 'Añade un requisito por línea.'; return; } setBusy(batchButton, true, 'Procesando...');
+    try { const response = await apiFetch('/api/predict/batch', { method: 'POST', body: JSON.stringify({ texts }) }); const data = await response.json(); if (!response.ok) throw new Error(data.detail || 'No fue posible procesar el lote.'); (document.querySelector('#batch-results') as HTMLElement).classList.remove('hidden'); (document.querySelector('#batch-body') as HTMLElement).innerHTML = data.predictions.map((prediction: any, index: number) => `<tr><td>${index + 1}</td><td>${escapeHtml(texts[index])}</td><td class="batch-result-cell"><span class="batch-label ${prediction.label.toLowerCase()}">${prediction.label}</span></td><td class="batch-result-cell"><span class="batch-confidence">${formatPercent(prediction.confidence)}</span></td></tr>`).join(''); }
+    catch (error) { batchError.textContent = error instanceof Error ? error.message : 'No fue posible procesar el lote.'; } finally { setBusy(batchButton, false, ''); }
   }
 
-  benchmarkText.addEventListener('input', () => {
-    (document.querySelector('#char-count') as HTMLElement).textContent = `${benchmarkText.value.length.toLocaleString()} / 10,000`;
-  });
-  batchText.addEventListener('input', () => {
-    const count = batchText.value.split('\n').filter((line: string) => line.trim()).length;
-    (document.querySelector('#batch-count') as HTMLElement).textContent = `${count} requisito${count === 1 ? '' : 's'}`;
-  });
-  benchmarkButton.addEventListener('click', predictBenchmark);
-  batchButton.addEventListener('click', predictBatch);
-  healthButton.addEventListener('click', checkHealth);
-  checkHealth();
+  requirementText.addEventListener('input', () => { (document.querySelector('#char-count') as HTMLElement).textContent = `${requirementText.value.length.toLocaleString()} / 10,000`; });
+  batchText.addEventListener('input', () => { const count = batchText.value.split('\n').filter((line) => line.trim()).length; (document.querySelector('#batch-count') as HTMLElement).textContent = `${count} requisito${count === 1 ? '' : 's'}`; });
+  predictButton.addEventListener('click', predict); batchButton.addEventListener('click', predictBatch); checkHealth();
 </script>

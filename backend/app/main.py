@@ -1,39 +1,47 @@
-"""FastAPI entrypoint for RF/RNF prediction."""
+"""FastAPI entrypoint for Spanish requirement classification."""
 
 from __future__ import annotations
 
+import os
 import time
 from contextlib import asynccontextmanager
-import os
+from pathlib import Path
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
-from .model import LABELS, RequirementClassifier, default_model_dir
-from .model_loader import BenchmarkModelLoader
+from .model import LABELS
+from .model_loader import ActiveModelLoader
 from .schemas import (
     BatchPredictionRequest,
     BatchPredictionResponse,
     BenchmarkBatchResponse,
     BenchmarkResponse,
+    ModelPrediction,
     PredictionRequest,
     PredictionResponse,
 )
 
-classifier = RequirementClassifier(default_model_dir())
-benchmark_loader = BenchmarkModelLoader(classifier, default_model_dir().parent)
+
+def _model_dir() -> Path:
+    configured = os.getenv("MODEL_DIR")
+    if configured:
+        return Path(configured).expanduser().resolve()
+    return Path(__file__).resolve().parents[1] / "models" / "beto_lstm_rf_rnf"
+
+
+classifier = ActiveModelLoader(_model_dir())
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    """Load model once when application starts."""
+    """Load active model once when application starts."""
     classifier.load()
-    benchmark_loader.load()
     yield
 
 
 app = FastAPI(
-    title="RF/RNF BETO Classifier",
+    title="RF/RNF Requirements Classifier",
     description="Classifies Spanish software requirements as functional or non-functional.",
     version="1.0.0",
     lifespan=lifespan,
@@ -44,7 +52,8 @@ def allowed_origins() -> list[str]:
     """Read comma-separated browser origins from the environment."""
     configured = os.getenv("ALLOWED_ORIGINS", "")
     origins = [origin.strip().rstrip("/") for origin in configured.split(",") if origin.strip()]
-    return origins or ["http://localhost:4321", "http://127.0.0.1:4321"]
+    local_origins = ["http://localhost:4321", "http://127.0.0.1:4321"]
+    return list(dict.fromkeys(origins + local_origins))
 
 
 app.add_middleware(
@@ -65,39 +74,38 @@ def _response(label_id: int, confidence: float, elapsed_ms: float) -> Prediction
     )
 
 
+def _model_prediction(data: dict[str, str | int | float]) -> ModelPrediction:
+    return ModelPrediction(**data)
+
+
 @app.get("/health")
 def health() -> dict[str, str | bool]:
-    """Report service and model state."""
-    models_ready = benchmark_loader.is_loaded
-    if not models_ready:
-        raise HTTPException(status_code=503, detail="Models are not loaded")
-    return {
-        "status": "ok",
-        "model_loaded": models_ready,
-        "beto_lstm_loaded": benchmark_loader.lstm_loaded,
-    }
+    """Report active model state."""
+    if not classifier.is_loaded:
+        raise HTTPException(status_code=503, detail="Active model is not loaded")
+    return {"status": "ok", "model_loaded": True, "beto_lstm_loaded": True}
 
 
 @app.post("/api/predict", response_model=PredictionResponse)
 def predict(request: PredictionRequest) -> PredictionResponse:
-    """Classify one requirement."""
+    """Classify one requirement with active model."""
     started = time.perf_counter()
     try:
-        results, _ = classifier.predict([request.text])
+        results, _ = classifier.model.predict([request.text])
     except ValueError as exc:
         raise HTTPException(status_code=422, detail=str(exc)) from exc
     except RuntimeError as exc:
         raise HTTPException(status_code=503, detail=str(exc)) from exc
     label_id, confidence = results[0]
-    return _response(label_id, confidence, (time.perf_counter() - started) * 1000)
+    return _response(int(label_id), float(confidence), (time.perf_counter() - started) * 1000)
 
 
 @app.post("/api/predict/batch", response_model=BatchPredictionResponse)
 def predict_batch(request: BatchPredictionRequest) -> BatchPredictionResponse:
-    """Classify up to 256 requirements in one model call."""
+    """Classify up to 256 requirements with active model."""
     started = time.perf_counter()
     try:
-        results, _ = classifier.predict(request.texts)
+        results, _ = classifier.model.predict(request.texts)
     except ValueError as exc:
         raise HTTPException(status_code=422, detail=str(exc)) from exc
     except RuntimeError as exc:
@@ -109,25 +117,39 @@ def predict_batch(request: BatchPredictionRequest) -> BatchPredictionResponse:
     )
 
 
-@app.post("/api/predict/benchmark", response_model=BenchmarkResponse)
-def predict_benchmark(request: PredictionRequest) -> BenchmarkResponse:
-    """Run all locally available benchmark models on one requirement."""
+def _comparison_response(request: PredictionRequest) -> BenchmarkResponse:
+    started = time.perf_counter()
     try:
-        predictions = benchmark_loader.predict(request.text)
+        prediction = classifier.predict(request.text)[0]
     except ValueError as exc:
         raise HTTPException(status_code=422, detail=str(exc)) from exc
     except RuntimeError as exc:
         raise HTTPException(status_code=503, detail=str(exc)) from exc
-    return BenchmarkResponse(text=request.text, predictions=predictions)
+    prediction["latency_ms"] = round((time.perf_counter() - started) * 1000, 3)
+    return BenchmarkResponse(text=request.text, predictions=[_model_prediction(prediction)])
+
+
+@app.post("/api/predict/benchmark", response_model=BenchmarkResponse)
+def predict_benchmark(request: PredictionRequest) -> BenchmarkResponse:
+    """Compatibility route returning active model only."""
+    return _comparison_response(request)
 
 
 @app.post("/api/predict/benchmark/batch", response_model=BenchmarkBatchResponse)
 def predict_benchmark_batch(request: BatchPredictionRequest) -> BenchmarkBatchResponse:
-    """Run all three models for each requirement in a batch."""
+    """Compatibility route returning active model only."""
     try:
-        predictions = benchmark_loader.predict_batch(request.texts)
+        predictions = classifier.predict_batch(request.texts)
     except ValueError as exc:
         raise HTTPException(status_code=422, detail=str(exc)) from exc
     except RuntimeError as exc:
         raise HTTPException(status_code=503, detail=str(exc)) from exc
-    return BenchmarkBatchResponse(predictions=predictions)
+    return BenchmarkBatchResponse(
+        predictions=[
+            BenchmarkResponse(
+                text=item["text"],
+                predictions=[_model_prediction(item["predictions"][0])],
+            )
+            for item in predictions
+        ]
+    )

@@ -34,24 +34,24 @@ class BatchPredictionResponse(BaseModel):
 
 
 class ModelPrediction(BaseModel):
-    """Prediction produced by one benchmark model."""
+    """Prediction produced by active model."""
 
     model_name: str
     label: str
     label_id: int = Field(ge=0, le=1)
     confidence: float = Field(ge=0.0, le=1.0)
     latency_ms: float = Field(ge=0.0)
-    rank: int = Field(ge=1, le=4)
+    rank: int = Field(ge=1, le=1)
 
 
 class BenchmarkResponse(BaseModel):
-    """Side-by-side predictions for all available models."""
+    """Prediction response for compatibility routes."""
 
     text: str
-    predictions: list[ModelPrediction] = Field(min_length=3, max_length=4)
+    predictions: list[ModelPrediction] = Field(min_length=1, max_length=1)
 
 
 class BenchmarkBatchResponse(BaseModel):
-    """Benchmark predictions for multiple requirements."""
+    """Batch response for compatibility route."""
 
     predictions: list[BenchmarkResponse] = Field(min_length=1, max_length=256)

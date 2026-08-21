@@ -6,7 +6,7 @@ services:
     env_file:
       - .env
     environment:
-      MODEL_DIR: /models/beto_rf_rnf
+      MODEL_DIR: /models/beto_lstm_rf_rnf
     expose:
       - "8000"
     volumes:

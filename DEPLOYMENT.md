@@ -10,11 +10,11 @@ sudo chown -R "$USER":"$USER" /srv/elbeto
 cd /srv/elbeto
 ```
 
-Clone the repository into `/srv/elbeto/source`:
+Clone the repository into `/srv/elbeto/source/Prototipo-BetoLSTM`:
 
 ```bash
-git clone https://github.com/YOUR_USER/YOUR_REPOSITORY.git source
-cd source
+git clone https://github.com/YOUR_USER/YOUR_REPOSITORY.git /srv/elbeto/source/Prototipo-BetoLSTM
+cd /srv/elbeto/source/Prototipo-BetoLSTM
 cp .env.example .env
 ```
 
@@ -48,7 +48,7 @@ The free plan provides one assigned development domain. Copy that complete HTTPS
 On Ubuntu, edit the local environment file:
 
 ```bash
-cd /srv/elbeto/source
+cd /srv/elbeto/source/Prototipo-BetoLSTM
 nano .env
 ```
 
@@ -67,7 +67,7 @@ The service target is `api:8000`; `api` is the Compose service name.
 From the repository directory:
 
 ```bash
-cd /srv/elbeto/source
+cd /srv/elbeto/source/Prototipo-BetoLSTM
 docker compose up -d --build
 docker compose logs -f api
 ```
@@ -103,7 +103,7 @@ PUBLIC_API_URL=https://your-assigned-domain.ngrok-free.app
 Add the resulting Vercel URL to `ALLOWED_ORIGINS` on Ubuntu, then restart the API:
 
 ```bash
-nano .env
+nano /srv/elbeto/source/Prototipo-BetoLSTM/.env
 docker compose up -d --build --force-recreate api
 ```
 
