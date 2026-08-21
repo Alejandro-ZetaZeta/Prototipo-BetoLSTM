@@ -112,7 +112,7 @@ const apiUrl = import.meta.env.PUBLIC_API_URL || 'http://127.0.0.1:8000';
   const formatPercent = (value: number): string => `${(value * 100).toFixed(1)}%`;
   const escapeHtml = (value: string): string => value.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;');
   const setBusy = (button: HTMLButtonElement, busy: boolean, label: string): void => { button.disabled = busy; button.dataset.original = button.dataset.original || button.innerHTML; button.innerHTML = busy ? `<span class="spinner"></span>${label}` : button.dataset.original!; };
-  const apiFetch = (path: string, options: RequestInit = {}): Promise<Response> => fetch(`${baseUrl}${path}`, { ...options, headers: { 'Content-Type': 'application/json', ...(options.headers || {}) } });
+  const apiFetch = (path: string, options: RequestInit = {}): Promise<Response> => fetch(`${baseUrl}${path}`, { ...options, headers: { 'Content-Type': 'application/json', 'ngrok-skip-browser-warning': 'true', ...(options.headers || {}) } });
 
   async function checkHealth(): Promise<void> {
     try { const response = await apiFetch('/health'); if (!response.ok) throw new Error(); (document.querySelector('#health-text') as HTMLElement).textContent = 'SERVICIO LISTO'; }
